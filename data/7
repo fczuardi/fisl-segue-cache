@@ -1,0 +1,26 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 17:37:12 GMT", 
+    "full": "Apresentar a distribui\u00e7\u00e3o Archlinux e suas caracter\u00edsticas mais marcantes. Seguem alguns t\u00f3picos:\n\nFilosofia\nPapel dos desenvolvedores\nPublico alvo\nModelo de distribui\u00e7\u00e3o\nArchwiki\nGerenciador de pacotes\nAUR - Arch User Repository\nABS - Arch Build System\nDistros baseadas no Arch\nFuturo do Archlinux", 
+    "id": 7, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brasil", 
+      "created": "Thu, 26 Feb 2015 17:34:23 GMT", 
+      "id": 6, 
+      "name": "Israel Lopes dos Santos", 
+      "resume": "Administrador de banco de dados no HCPA. Usu\u00e1rio Linux desde 2003"
+    }, 
+    "title": "Archlinux: Voc\u00ea no comando", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 115, 
+      "name_en": "Desktop - Distros", 
+      "name_pt": "Desktop - Distribui\u00e7\u00f5es", 
+      "public": true
+    }
+  }
+}

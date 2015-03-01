@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 11:01:07 GMT", 
+    "full": "A id\u00e9ia dessa palestra \u00e9 fazer um overview sobre o que \u00e9 uma aplica\u00e7\u00e3o que segue os princ\u00edpios por tr\u00e1s do twelve-factor app, e porque esses princ\u00edpios s\u00e3o necess\u00e1rios para se ter uma aplica\u00e7\u00e3o que seja de deploy f\u00e1cil e escal\u00e1vel.\n\nA palestra vai abordar esses temas mostrando sempre exemplos reais com c\u00f3digos de aplica\u00e7\u00f5es python demonstrando o que deve ser feito, e alguns exemplos de pr\u00e1ticas comuns que n\u00e3o est\u00e3o de acordo com os princ\u00edpios twelve-factor, coisas como configs independentes por ambiente e processos que salvam estado em disco local.\n\nPor fim, ser\u00e1 demonstrado como apps que seguem os princ\u00edpios demonstrados podem ser deployadas e escaladas em um servi\u00e7o de PaaS como o Heroku ou o Tsuru. Tudo isso com uma demonstra\u00e7\u00e3o no final.\n\nA id\u00e9ia dessa palestra \u00e9 fazer um overview sobre o que \u00e9 uma aplica\u00e7\u00e3o que segue os princ\u00edpios por tr\u00e1s do twelve-factor app, e porque esses princ\u00edpios s\u00e3o necess\u00e1rios para se ter uma aplica\u00e7\u00e3o que seja de deploy f\u00e1cil e escal\u00e1vel.\n\nA palestra vai abordar esses temas mostrando sempre exemplos reais com c\u00f3digos de aplica\u00e7\u00f5es python demonstrando o que deve ser feito, e alguns exemplos de pr\u00e1ticas comuns que n\u00e3o est\u00e3o de acordo com os princ\u00edpios twelve-factor, coisas como configs independentes por ambiente e processos que salvam estado em disco local.\n\nPor fim, ser\u00e1 demonstrado como apps que seguem os princ\u00edpios demonstrados podem ser deployadas e escaladas em um servi\u00e7o de PaaS como o Heroku ou o Tsuru. Tudo isso com uma demonstra\u00e7\u00e3o no final.\n\nOs palestrantes ser\u00e3o Cezar Espinola (https://github.com/cezarsa) e Tarsis Azevedo (https://github.com/tarsis), ambos trabalham na Globo.com e possuem uma larga experi\u00eancia com aplica\u00e7\u00f5es Python e com Cloud Computing. Atualmente trabalham focados no PaaS Tsuru (http://tsuru.io, http://github.com/tsuru) e disseminam internamente as pr\u00e1ticas twelve-factor que est\u00e3o sendo aplicadas \u00e0 grande parte das novas aplica\u00e7\u00f5es Python criadas dentro da Globo.com.", 
+    "id": 25, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 11:00:19 GMT", 
+      "id": 26, 
+      "last_updated": "Fri, 27 Feb 2015 11:14:08 GMT", 
+      "name": "Tarsis Figueredo Azevedo", 
+      "organization": "globo.com", 
+      "resume": "Programador na globo.com, atualmente trabalhando com CloudComputing no Tsuru."
+    }, 
+    "title": "Sua aplica\u00e7\u00e3o na nuvem do jeito certo", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

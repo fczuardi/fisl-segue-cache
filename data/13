@@ -1,0 +1,29 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 21:36:39 GMT", 
+    "full": "Esses s\u00e3o os meus objetivos da proposta do meu Trabalho de Conclus\u00e3o de Curso.\n\nObjetivo Geral: \n\nAnalisar a utiliza\u00e7\u00e3o de software livre em escolas de ensino m\u00e9dio, os benef\u00edcios que a plataforma livre vai rentabilizar ap\u00f3s uma maior utiliza\u00e7\u00e3o dela, em vez de utilizar o software propriet\u00e1rio, que a cada formata\u00e7\u00e3o, liquida o dinheiro da pessoa para que os aplicativos e software instalados no computador estejam legalizado e a instala\u00e7\u00e3o de software livre no laborat\u00f3rio da institui\u00e7\u00e3o escolar.\n\nObjetivo Especifico:\n\nColocar aos alunos, pais e professores, o porque de utilizar o software livre no seu equipamento, que acarreta no n\u00e3o gasto com a licen\u00e7a de software e o investimento desse dinheiro em novos ramos.\n\nExplicar que o n\u00e3o pagamento da licen\u00e7a de um software propriet\u00e1rio e que leva a utilizar de forma pirata \u00e9 crime, em caso de empresa, acaba sendo embargada ou at\u00e9 fechada no decorrer do n\u00e3o comprimento da ordem de pagamento da licen\u00e7a para utilizar.\n\nRelatar os perigos de uma plataforma propriet\u00e1ria em rela\u00e7\u00e3o a plataforma livre, como a invas\u00e3o de v\u00edrus em uma m\u00e1quina desktop \u00e9 bem menos quando utiliza a plataforma livre em compara\u00e7\u00e3o a propriet\u00e1ria.\n\nEspecificar as diferentes plataformas livre, que est\u00e3o a disposi\u00e7\u00e3o para ser utilizado.\n\nA minha proposta \u00e9 palestrar o que foi desenvolvido no meu trabalho.", 
+    "id": 13, 
+    "language": "pt", 
+    "last_updated": "Fri, 27 Feb 2015 22:21:12 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 21:28:47 GMT", 
+      "id": 12, 
+      "last_updated": "Thu, 26 Feb 2015 21:37:43 GMT", 
+      "name": "Alex Junior Fabonatto", 
+      "organization": "FAI Faculdades", 
+      "resume": "Atualmente estou cursando Gest\u00e3o da Tecnologia da Informa\u00e7\u00e3o."
+    }, 
+    "title": "Software Livre: Educa\u00e7\u00e3o \u00e9 o come\u00e7o.", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 119, 
+      "name_en": "Education - Education", 
+      "name_pt": "Educa\u00e7\u00e3o - Educa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

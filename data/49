@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 17:31:25 GMT", 
+    "full": "Com o lan\u00e7amento da vers\u00e3o 5.6 do servidor de bancos de dados Open Source mais popular do mundo, vieram tamb\u00e9m v\u00e1rias novos recursos interessantes que fazem dessa vers\u00e3o um grande marco na hist\u00f3ria do produto. A replica\u00e7\u00e3o GTID, que \u00e9 baseada em uma novo protocolo, veio como uma forma de tornar a administra\u00e7\u00e3o de ambientes com grande complexidade e uma grande quantidade de servidores em replica\u00e7\u00e3o algo mais f\u00e1cil e resiliente, permitindo que o administrador de bancos de dados possa facilmente configurar a replica\u00e7\u00e3o atrav\u00e9s de um simples \"handshake\" entre os servidor SLAVE e MASTER envolvidos, tendo cada transa\u00e7\u00e3o como \u00fanica ao incrementar um contador interno. O resultado final \u00e9 justamente a obten\u00e7\u00e3o de um processo de failover bem menos traum\u00e1tico, uma nova maneira mais f\u00e1cil de se gerir a replica\u00e7\u00e3o e contornar problemas que a replica\u00e7\u00e3o cl\u00e1ssica faz com que sejam bem mais complicados resolver.\n\nEsta apresenta\u00e7\u00e3o visa explicar o novo protocolo de replica\u00e7\u00e3o, seu funcionamento, implementa\u00e7\u00e3o e t\u00e9cnicas que v\u00e3o permitir que o recurso seja adotado em empresas que utilizam o MySQL como banco de dados.", 
+    "id": 49, 
+    "language": "pt", 
+    "last_updated": "Sat, 28 Feb 2015 17:36:16 GMT", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 18:14:38 GMT", 
+      "id": 34, 
+      "name": "Wagner Bianchi", 
+      "resume": "Wagner Bianchi atua como administrador de bancos de dados e consultor na mesma \u00e1rea desde o ano de 2002. Com foco voltado para solu\u00e7\u00f5es Open Source e principalmente para o armazenamento de informa\u00e7\u00e3o, Bianchi \u00e9 especialista no servidor de bancos de dados MySQL, Oracle ACE Director, certificado MySQL Developer, Database Administrator e Cluster Database Administrator."
+    }, 
+    "title": "MySQL 5.6 e a Replica\u00e7\u00e3o GTID", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 106, 
+      "name_en": "Administration - Databases", 
+      "name_pt": "Administra\u00e7\u00e3o - Bancos de Dados", 
+      "public": true
+    }
+  }
+}

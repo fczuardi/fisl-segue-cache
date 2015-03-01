@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 16:00:21 GMT", 
+    "full": "O Vagrant \u00e9 uma ferramenta de linha de comando que permite criar, configurar e distribuir de forma f\u00e1cil e r\u00e1pida ambientes de desenvolvimento disversos, al\u00e9m de utiliz\u00e1-los de forma transparente no Host -- ou seja, uma vez iniciado o ambiente, o desenvolvedor utiliza todos recursos como se fossem nativos.", 
+    "id": 33, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 15:21:31 GMT", 
+      "id": 31, 
+      "name": "Paulo Diovani Gon\u00e7alves", 
+      "organization": "Codeminer42", 
+      "resume": "Graduando em Sistemas para Internet na Universidade Feevale."
+    }, 
+    "title": "Vagrant - Descomplicando o uso de VMs para desenvolvimento de Software", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

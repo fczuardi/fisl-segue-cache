@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 11:37:11 GMT", 
+    "full": "Uma vis\u00e3o geral e desmitifica\u00e7\u00e3o do que \u00e9 o Javascript, seus novos ares, o que \u00e9 Node.js e io.js, seus diferenciais e como grandes empresas j\u00e1 veem no Javascript n\u00e3o s\u00f3 um grande investimento mas um j\u00e1 um grande retorno.\n\nSlides: http://www.slideshare.net/Marelo/js-moderno-do-coder-ao-shareholder\nFilmagem da primeira apresenta\u00e7\u00e3o: https://www.youtube.com/watch?v=TDU-SX20L_I", 
+    "id": 26, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 11:36:55 GMT", 
+      "id": 27, 
+      "name": "Luiz Gonzaga dos Santos Filho", 
+      "organization": "DataEasy", 
+      "resume": "Gerente de Desenvolvimento de Software, Desenvolvedor de Software e Engenheiro d"
+    }, 
+    "title": "JS Moderno: do Coder ao Shareholder", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

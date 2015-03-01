@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 01:59:37 GMT", 
+    "full": "H\u00e1 anos lecionando em cursos livres (desde 2003) e em n\u00edvel universit\u00e1rio (desde 2008), a segunda pergunta mais recorrente dos alunos tem sido sobre o que realmente devem aprender para conseguir uma vaga como desenvolvedores (mesmo que como estagi\u00e1rio/trainee). Ela s\u00f3 perde, infelizmente, para \"vale ponto?\".\nN\u00e3o posso esque\u00e7er da verdadeira saga deles em sites de emprego e concurso! Detalhe importante.\nCom o tempo, vi muitos ex-alunos com grande potencial simplesmente nunca conseguindo emprego como desenvolvedores, mesmo com a grande oferta de vagas.\nVi tamb\u00e9m o outro lado, pois j\u00e1 trabalhei em v\u00e1rias empresas p\u00fablicas e privadas: o lado da dificuldade de achar bons estagi\u00e1rios/JRs/trainees.\nV\u00e1rios seriam os fatores que explicam essa situa\u00e7\u00e3o, mas um que faz muita diferen\u00e7a \u00e9 o leque de tecnologias que um egresso de curso t\u00e9cnico ou superior domina.\nCom n\u00fameros, fatos e experi\u00eancias pessoais proponho uma lista de linguagens/ferramentas na qual alunos de cursos t\u00e9cnicos e superiores deveriam dar especial aten\u00e7\u00e3o para aumentar suas chances no mercado.", 
+    "id": 44, 
+    "language": "pt", 
+    "last_updated": "Sat, 28 Feb 2015 02:18:43 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sat, 28 Feb 2015 01:05:11 GMT", 
+      "id": 39, 
+      "name": "JOSE YOSHIRIRO AJISAKA RAMOS", 
+      "organization": "Bandtec", 
+      "resume": "Especialista em Engenharia de Sistemas \u00e9 atualmente professor universit\u00e1rio na Bandtec e l\u00edder t\u00e9cnico na QReservas. Possui v\u00e1rias certifica\u00e7\u00f5es internacionais e artigos publicados em revistas nacionais e dos EUA. Leciona desde 2004 e trabalha com desenvolvimento desde 2004. \u00c9 entusiasta da linguagem Go."
+    }, 
+    "title": "Quais linguagens/ferramentas aumentam minhas chances de ser contratado?", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 119, 
+      "name_en": "Education - Education", 
+      "name_pt": "Educa\u00e7\u00e3o - Educa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

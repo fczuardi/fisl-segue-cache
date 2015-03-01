@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 11:46:44 GMT", 
+    "full": "Quais as grandes diferen\u00e7as deste grande editor de texto e porqu\u00ea cada vez mais pessoas abandonam IDEs pesadas e voltam a desenvolver como se fazia d\u00e9cadas atr\u00e1s? :D\n\nDescubra alguns poderes do VIM e passe a editar textos LIKE A BOSS!!! Usu\u00e1rios Emacs s\u00e3o bem vindos...", 
+    "id": 28, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 11:36:55 GMT", 
+      "id": 27, 
+      "name": "Luiz Gonzaga dos Santos Filho", 
+      "organization": "DataEasy", 
+      "resume": "Gerente de Desenvolvimento de Software, Desenvolvedor de Software e Engenheiro d"
+    }, 
+    "title": "VIM: Editando textos like a boss", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

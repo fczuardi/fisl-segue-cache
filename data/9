@@ -1,0 +1,26 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 18:29:15 GMT", 
+    "full": "Qual o estado das ferramentas livres para produ\u00e7\u00e3o de \u00e1udio?\n\nQual a condi\u00e7\u00e3o da infraestrutura existente para produ\u00e7\u00e3o de \u00e1udio profissional usando GNU/Linux?\n\nNessa palestra discutimos respostas para as perguntas acima, apresentamos o estado da arte para produ\u00e7\u00e3o de \u00e1udio livre e as comunidades existentes que suportam esse ecossistema.\n\nUma palestra que deve ser \u00fatil para m\u00fasicos independentes, bandas, est\u00fadios, produtores de m\u00fasica eletr\u00f4nica e desenvolvedores iniciantes na \u00e1rea.", 
+    "id": 9, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 18:28:24 GMT", 
+      "id": 9, 
+      "last_updated": "Thu, 26 Feb 2015 19:04:54 GMT", 
+      "name": "Amadeus Folego"
+    }, 
+    "title": "Produ\u00e7\u00e3o Livre de \u00c1udio", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 113, 
+      "name_en": "Desktop - Multimedia", 
+      "name_pt": "Desktop - Multim\u00eddia", 
+      "public": true
+    }
+  }
+}

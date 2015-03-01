@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 17:17:58 GMT", 
+    "full": "Nessa palestra eu vou contar um pouco da experi\u00eancia de criar produtos em Hackdays, e como usar essa experi\u00eancia no dia a dia para conseguir cada vez mais criar e testar produtos mais rapidamente. E mostrar como algumas pequenas mudan\u00e7as no processo podem ajudar uma equipe a alcan\u00e7ar resultados impressionantes em muito pouco tempo.", 
+    "id": 47, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sat, 28 Feb 2015 17:17:01 GMT", 
+      "id": 44, 
+      "name": "Romulo Costa Tavares", 
+      "organization": "globo.com", 
+      "resume": "Formado em gest\u00e3o em tecnologia da informa\u00e7\u00e3o, trabalha na globo.com h\u00e1 mais de 4 anos, j\u00e1 deu aulas de programa\u00e7\u00e3o e hoje em dia se dedica a estudar processos \u00e1geis e como aplica-los ao dia a dia."
+    }, 
+    "title": "Testando uma ideia de produto em 24 horas", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

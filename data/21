@@ -1,0 +1,26 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 09:05:55 GMT", 
+    "full": "Apresentar o Suindara, gerenciador de conte\u00fados acess\u00edvel e Open Source que est\u00e1 disponibilizado no GitHub, pois atualmente e\u0301 comum a utiliza\u00e7\u00e3o de gerenciadores de conte\u00fado em sites, blogs e portais, por\u00e9m a maioria deles n\u00e3o \u00e9 acess\u00edvel. J\u00e1\u0301 os que dizem ser, na verdade s\u00e3o parcialmente acess\u00edveis pois, na maioria das vezes, apenas geram conte\u00fado da maneira correta, n\u00e3o sendo eles pr\u00f3prios acess\u00edveis. Estes foram os principais motivos pelos quais iniciamos o desenvolvimento deste CMS acess\u00edvel.Foi definido como escopo deste projeto o desenvolvimento de um cms acess\u00edvel que gere conte\u00fados em conformidade com as regras de acessibilidade do e-MAG 3.0. Este cms acess\u00edvel tamb\u00e9m foi concebido levando com considera\u00e7\u00e3o as recomenda\u00e7\u00f5es do e-MAG 3.0 e do ATAG 2.0. Al\u00e9m do conte\u00fado gerado atrav\u00e9s deste gerenciador ser acess\u00edvel, o ambiente administrativo tamb\u00e9m \u00e9 acess\u00edvel. Para isso aplicamos toda a nossa expertize em acessibilidade web e tamb\u00e9m elaboramos algumas configura\u00e7\u00f5es que o usu\u00e1rio configura com o intuito de deixar o sistema melhor para seu uso. Essa op\u00e7\u00f5es s\u00e3o chamadas de \u201cop\u00e7\u00f5es de acessibilidade\u201d afim de possibilitar a intera\u00e7\u00e3o com qualquer agente de usu\u00e1rio e tecnologia assitiva.O CMS Suindara \u00e9 um projeto pensado para aqueles que comumente s\u00e3o esquecidos. Ter um site acess\u00edvel n\u00e3o ser\u00e1 mais t\u00e3o dif\u00edcil. E tamb\u00e9m pessoas com defici\u00eancia deixaram de se limitar em apenas ler posts, artigos e not\u00edcias, mas tamb\u00e9m poder\u00e3o passar a alimentar a web com suas pesquisas, pensamentos e conhecimento. De fato hoje j\u00e1 existem deficientes que fazem isso, mas n\u00e3o \u00e9 f\u00e1cil de encontrar comparada a propor\u00e7\u00e3o das pessoas sem defici\u00eancia que fazem isso.", 
+    "id": 21, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 08:54:10 GMT", 
+      "id": 20, 
+      "name": "Lael Nervis", 
+      "resume": "Lael Nervis\nT\u00e9cnico de Tecnologia da Informa\u00e7\u00e3o\nEstusiasta da acessibilidade Web"
+    }, 
+    "title": "Suindara - Gerenciador de conte\u00fados acess\u00edvel", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 110, 
+      "name_en": "Development - Content Management / CMS", 
+      "name_pt": "Desenvolvimento - Ger\u00eancia de Conte\u00fado / CMS", 
+      "public": true
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 00:32:50 GMT", 
+    "full": "O que \u00e9 melhoria continua? O que \u00e9 inspe\u00e7\u00e3o de c\u00f3digo? Para que eu posso usar isso? Como utilizar isso? Qual a melhorar forma? Quais ferramentas posso utilizar? Essas s\u00e3o algumas perguntas que ser\u00e3o respondidas na palestra. Esteja l\u00e1! :)", 
+    "id": 42, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sat, 28 Feb 2015 00:30:23 GMT", 
+      "id": 37, 
+      "name": "Ricardo Lucca", 
+      "organization": "Aker Security Solutions", 
+      "resume": "Profissional atuando na area de desenvolvimento a mais de 5 anos, sempre trabalhando com ambientes linux."
+    }, 
+    "title": "Ferramentas de melhoria continua", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

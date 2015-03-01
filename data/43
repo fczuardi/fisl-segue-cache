@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 01:31:02 GMT", 
+    "full": "Em 2009 a Google lan\u00e7a uma nova linguagem de programa\u00e7\u00e3o: Go. Em apenas 6 anos ela: \n* J\u00e1 ganhou o pr\u00eamio de linguagem do ano da TIOBE (2009);\n* Possui o status de \"Adopt\" no radar da Thoughtworks desde julho de 2014;\n* Est\u00e1 no top 14 das linguagens no GitHub desde 2013;\n\nMas ela j\u00e1 pode ser considerada uma linguagem \"production ready\" ou ainda \u00e9 s\u00f3 \"legal para brincar\"? J\u00e1 devo investir estudo e dinheiro nela?\n\nDados, fatos, pequenas compara\u00e7\u00f5es e demonstra\u00e7\u00f5es ser\u00e3o expostas a fim de aumentar e melhorar o debate em torno dessa jovem linguagem de programa\u00e7\u00e3o.", 
+    "id": 43, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sat, 28 Feb 2015 01:05:11 GMT", 
+      "id": 39, 
+      "name": "JOSE YOSHIRIRO AJISAKA RAMOS", 
+      "organization": "Bandtec", 
+      "resume": "Especialista em Engenharia de Sistemas \u00e9 atualmente professor universit\u00e1rio na Bandtec e l\u00edder t\u00e9cnico na QReservas. Possui v\u00e1rias certifica\u00e7\u00f5es internacionais e artigos publicados em revistas nacionais e dos EUA. Leciona desde 2004 e trabalha com desenvolvimento desde 2004. \u00c9 entusiasta da linguagem Go."
+    }, 
+    "title": "\"Go\" Contra ou a Favor? J\u00e1 vale a pena investir nessa linguagem?", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

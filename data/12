@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 21:35:14 GMT", 
+    "full": "Sabemos que grande parte do mercado de trabalho art\u00edstico concentra sua aten\u00e7\u00e3o e energia para \"softwares conceituados\" (pagos). A palestra tem como objetivo esclarecer pontos positivos e negativos dos softwares pagos e livre. Demonstrando rapidamente as funcionalidades dos programas para cada seguimento (arte 2D, modelagem 3D, anima\u00e7\u00e3o e jogos digitais), comparando os softwares:\n\n1. Blender 3D - 3DSMax - Maya\n2. GIMP - Photoshop\n\nO principal ponto da palestra \u00e9 demonstrar que n\u00e3o s\u00f3 \u00e9 poss\u00edvel trabalhar, mas sim, desenvolver as mesmas fun\u00e7\u00f5es e projetos com softwares que s\u00e3o de c\u00f3digo aberto sem perder a qualidade. Demonstr\u00e1-los de forma sucinta, para melhor compreens\u00e3o do p\u00fablico. Contar experi\u00eancias que tive com todos os programas citados durante minha carreira e tirar d\u00favidas sobre o mercado de trabalho na ind\u00fastria gr\u00e1fica sobre esses programas, desmistificando a impress\u00e3o ruim que alguns programas como Blender e GIMP t\u00eam que na maioria das vezes \u00e9 sem fundamento, principalmente por preconceito ou falta de conhecimento mais aprofundado sobre eles.", 
+    "id": 12, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 21:06:59 GMT", 
+      "id": 11, 
+      "last_updated": "Thu, 26 Feb 2015 22:57:42 GMT", 
+      "name": "Luciano Teixeira Soares", 
+      "organization": "Color Blind Studio", 
+      "resume": "Artista 3D e Ilustrador. Atuando no seguimento multim\u00eddia e games."
+    }, 
+    "title": "Software Livre no Mercado Art\u00edstico", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 112, 
+      "name_en": "Desktop - Desktop Applications", 
+      "name_pt": "Desktop - Aplica\u00e7\u00f5es Desktop", 
+      "public": true
+    }
+  }
+}

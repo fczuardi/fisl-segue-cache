@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 10:52:34 GMT", 
+    "full": "Este \u00e9 um teste pq muita gente disse que n\u00e3o consegue inscrever.", 
+    "id": 24, 
+    "language": "es", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brasil", 
+      "created": "Fri, 27 Feb 2015 10:51:33 GMT", 
+      "id": 25, 
+      "last_updated": "Fri, 27 Feb 2015 10:51:37 GMT", 
+      "name": "Gabriel Galli", 
+      "organization": "Ag\u00eancia Maga", 
+      "resume": "Jornalista, s\u00f3cio da Ag\u00eancia Maga."
+    }, 
+    "title": "TESTE - Como testar o sistema para ver se tem erros", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 108, 
+      "name_en": "Administration - Security", 
+      "name_pt": "Administra\u00e7\u00e3o - Seguran\u00e7a", 
+      "public": true
+    }
+  }
+}

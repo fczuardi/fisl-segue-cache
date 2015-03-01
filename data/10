@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 18:59:42 GMT", 
+    "full": "LV2 \u00e9 uma interface para desenvolvimento de plugins para processamento de \u00e1udio.\n\nIntroduzimos conceitos b\u00e1sicos de captura e processamento de \u00e1udio.\n\nDiscutimos os pr\u00f3s e contras dessa interface em rela\u00e7\u00e3o \u00e0s alternativas existentes: LADSPA, DSSI, VST.\n\nLogo ap\u00f3s, fazemos estudos de caso com plugins e projetos de alt\u00edssima qualidade que usam essa infraestrutura.\n\nPor final fazemos uma introdu\u00e7\u00e3o t\u00e9cnica b\u00e1sica \u00e0 interface e como produtores podem programar seus pr\u00f3prios plugins e/ou colaborar com seus projetos favoritos.", 
+    "id": 10, 
+    "language": "pt", 
+    "last_updated": "Thu, 26 Feb 2015 19:59:37 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 18:28:24 GMT", 
+      "id": 9, 
+      "last_updated": "Thu, 26 Feb 2015 19:04:54 GMT", 
+      "name": "Amadeus Folego"
+    }, 
+    "title": "Como desenvolver plugins de \u00e1udio port\u00e1veis com LV2", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

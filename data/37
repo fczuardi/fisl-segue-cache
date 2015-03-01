@@ -1,0 +1,26 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 17:36:51 GMT", 
+    "full": "Acompanhar a qualidade do c\u00f3digo desenvolvido ao longo de um projeto de software \u00e9 essencial para que certas decis\u00f5es t\u00e9cnicas sejam tomadas de forma coerente.\nA qualidade de um software pode ser aferida de diversas formas diferentes, desde uma an\u00e1lise do ponto de vista do usu\u00e1rio, desde os detalhes de como determinada funcionalidade foi implementada(Requisitos Funcionais).\n\nAinda dentro do contexto dos requisitos funcionais de um software podemos avaliar a qualidade de um software tanto a n\u00edvel de classe, quanto numa vis\u00e3o mais abrangente, avaliando a intera\u00e7\u00e3o entre os m\u00f3dulos do sistema.\nEssa an\u00e1lise pode ser feita por meio de m\u00e9tricas de c\u00f3digo fonte. Basicamente cada m\u00e9trica analisa um c\u00f3digo qualquer por diferentes pontos de vista, desde o tamanho de determinada classe, at\u00e9 a coes\u00e3o e o acoplamento entre m\u00f3dulos.\n\nAutomatizar a coleta dessas m\u00e9tricas \u00e9 essencial para que se possa iniciar uma an\u00e1lise vi\u00e1vel da qualidade de um software, e \u00e9 isso que o Analizo faz.\n\nA ferramenta Analizo realiza a coleta das m\u00e9tricas, e retorna essas m\u00e9tricas em um formato \"m\u00e9trica: valor\", que para aplica\u00e7\u00f5es pode ser facilmente compreendida, mas para n\u00f3s humanos, dificulta a an\u00e1lise das mesmas, principalmente quando o tamanho do software \u00e9 muito grande.\n\nPensando em facilitar a an\u00e1lise das m\u00e9tricas geradas pelo Analizo, foi pensado um plugin para o Redmine que agendasse a coleta de m\u00e9tricas feitas pelo Analizo, e apresentasse essas m\u00e9tricas de forma objetiva e de f\u00e1cil entendimento para todos os interessados na qualidade do software que est\u00e1 sendo desenvolvido. Al\u00e9m disso, integrar uma vis\u00e3o t\u00e9cnica a uma ferramenta de gest\u00e3o de projetos foi outra motiva\u00e7\u00e3o para o desenvolvimento do plugin, principalmente porque o principal produto de projetos de software, \u00e9 o pr\u00f3prio software.", 
+    "id": 37, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 17:35:33 GMT", 
+      "id": 33, 
+      "name": "David Carlos", 
+      "organization": "Universidade de Bras\u00edlia"
+    }, 
+    "title": "Redmine Code Track: Integrando o analizo com o redmine", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

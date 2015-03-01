@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 11:39:45 GMT", 
+    "full": "When you need to share around 150M log\u2019s/per day and others information about some system debug or server performance in a DevOps environment and developers, system engineers, system administrators and directors needs to search and analyse a original log from a specific server but need also to access dashboards, plot a graph and make filters, all without having to use grep, awk, sed or something like that, the best way is to use a log management software like Splunk or Graylog2. \nAt Walmart.com we have Splunk and Graylog2, but today we will talk about the Graylog2 + ElasticSearch solution to support a DevOps environment like Walmart.", 
+    "id": 27, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 11:39:15 GMT", 
+      "id": 28, 
+      "last_updated": "Fri, 27 Feb 2015 11:39:55 GMT", 
+      "name": "Jeferson Fernando Noronha Vitalino", 
+      "organization": "walmart.com", 
+      "resume": "Lead System Administrator at Walmart.com"
+    }, 
+    "title": "Log Management in the DevOps Environment", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 105, 
+      "name_en": "Administration - Systems Administration", 
+      "name_pt": "Administra\u00e7\u00e3o - Administra\u00e7\u00e3o de Sistemas", 
+      "public": true
+    }
+  }
+}

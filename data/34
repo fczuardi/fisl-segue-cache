@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 16:04:18 GMT", 
+    "full": "CoffeeScript \u00e9 uma pequena linguagem de programa\u00e7\u00e3o que compila em Javascript.\n\nCom foco na legibilidade e escrita r\u00e1pida, CoffeeScript se assemelha muito \u00e0 sintaxe de linguagens modernas, como Python e Ruby, mas sem querer reinvendar o Javascript.\n\nEsta palestra apresenta a linguagem em compara\u00e7\u00e3o com o c\u00f3digo Javascript gerado pela mesma, demonstrando como \u00e9 f\u00e1cil escrever .coffee.", 
+    "id": 34, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 15:21:31 GMT", 
+      "id": 31, 
+      "name": "Paulo Diovani Gon\u00e7alves", 
+      "organization": "Codeminer42", 
+      "resume": "Graduando em Sistemas para Internet na Universidade Feevale."
+    }, 
+    "title": "CoffeeScript - tome um gole de caf\u00e9", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

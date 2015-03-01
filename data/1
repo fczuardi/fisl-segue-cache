@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 14:10:29 GMT", 
+    "full": "Proposta palestra teste #1 modificado", 
+    "id": 1, 
+    "language": "es", 
+    "last_updated": "Thu, 26 Feb 2015 14:17:29 GMT", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 13:54:08 GMT", 
+      "id": 1, 
+      "last_updated": "Thu, 26 Feb 2015 14:12:14 GMT", 
+      "name": "Teste #1", 
+      "resume": "Teste #1 curr\u00edculo"
+    }, 
+    "title": "Palestra teste #1 modificado", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 106, 
+      "name_en": "Administration - Databases", 
+      "name_pt": "Administra\u00e7\u00e3o - Bancos de Dados", 
+      "public": true
+    }
+  }
+}

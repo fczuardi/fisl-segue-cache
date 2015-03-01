@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 17:30:42 GMT", 
+    "full": "Apresentar o processo de migra\u00e7\u00e3o e ado\u00e7\u00e3o de plataformas opensource na rede de Educa\u00e7\u00e3o municipal de Alegrete.\n Como foi a aceita\u00e7\u00e3o e a migra\u00e7\u00e3o para o ambiente Gnu/linux tanto nos setores administrativos quanto de apoio pedag\u00f3gico( laborat\u00f3rios de inform\u00e1tica e Telecentros )", 
+    "id": 36, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 17:26:49 GMT", 
+      "id": 32, 
+      "name": "alissonsilveira", 
+      "organization": "Unipampa", 
+      "resume": "T\u00e9cnico em Inform\u00e1tica, Fot\u00f3grafo, Cientista da Computa\u00e7\u00e3o, Func. P\u00fablico."
+    }, 
+    "title": "Linux Educacional nas Escolas Municipais de Alegrete", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 117, 
+      "name_en": "Ecosystem - Business, Migrations and Cases", 
+      "name_pt": "Ecossistema - Neg\u00f3cios, Migra\u00e7\u00f5es e Casos", 
+      "public": true
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 18:25:15 GMT", 
+    "full": "Esta palestra \u00e9 focada em mostrar que um bom programador n\u00e3o deve saber apenas uma linguagem. Nela eu mostrarei como qualquer programador pode diminuir as limita\u00e7\u00f5es de seu trabalho simplesmente mudando sua mentalidade e o jeito de pensar. Independente da linguagem escolhida por ele, a empresa em que trabalha o foco do trabalho deve ser apenas um: o usu\u00e1rio. A apresenta\u00e7\u00e3o \u00e9 voltada para programadores de qualquer n\u00edvel ou qualquer um que queira se aventurar no mundo do desenvolvimento.\n\nEsta palestra j\u00e1 foi apresentada no evento Dev In Company de Belo Horizonte em maio de 2014 e pode ser vista no meu perfil do Slideshare, com uma \u00f3tima aceita\u00e7\u00e3o: http://www.slideshare.net/pedrochaves_/esqueca-alinguagem.\n\n(caso seja escolhida, ela sofrer\u00e1 pequenas altera\u00e7\u00f5es para apresenta\u00e7\u00e3o no FISL, mas sua estrutura ser\u00e1 mantida)", 
+    "id": 8, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 18:24:04 GMT", 
+      "id": 8, 
+      "name": "Pedro Chaves", 
+      "organization": "Planet Expat", 
+      "resume": "Desenvolvedor full-stack na startup Planet Expat"
+    }, 
+    "title": "Esque\u00e7a a linguagem e vire um programador de verdade", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

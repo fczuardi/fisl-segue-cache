@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 21:44:42 GMT", 
+    "full": "Ser\u00e1 demonstrado como estruturar e desenvolver uma arquitetura de servi\u00e7os distribu\u00edda para realizar comunica\u00e7\u00e3o entre m\u00e1quinas (Machine-to-machine) sem interfer\u00eancia humana utilizando 0MQ. O objetivo \u00e9 esclarecer um pouco sobre M2M e aplica\u00e7\u00f5es distribu\u00eddas, olhando para o cen\u00e1rio de Internet das coisas que est\u00e1 crescendo cada vez mais.", 
+    "id": 14, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 21:42:25 GMT", 
+      "id": 13, 
+      "last_updated": "Thu, 26 Feb 2015 21:46:55 GMT", 
+      "name": "Jos\u00e9 Wilker", 
+      "organization": "SMARTAPPS", 
+      "resume": "Web Developer"
+    }, 
+    "title": "Tornando M2M coisa de crian\u00e7a", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

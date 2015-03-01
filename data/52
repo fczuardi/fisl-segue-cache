@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 18:51:09 GMT", 
+    "full": "Apresentar o Nodejs, passando por hist\u00f3ria, funcionalidades, beneficios e conceitos b\u00e1sicos. Aprendendo facilmente a construir aplica\u00e7\u00f5es de rede r\u00e1pidas e escal\u00e1veis.", 
+    "id": 52, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sat, 28 Feb 2015 18:33:20 GMT", 
+      "id": 46, 
+      "last_updated": "Sat, 28 Feb 2015 18:51:27 GMT", 
+      "name": "Raphael Amorim", 
+      "resume": "Atua como consultor principalmente no cen\u00e1rio web. Trabalhou como desenvolvedor em empresas como Videolog e Petrobras. Tamb\u00e9m \u00e9 contribuidor do mundo open source, atuando em projetos abertos e autor de diversos artigos no iMasters."
+    }, 
+    "title": "Introdu\u00e7\u00e3o ao Nodejs", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

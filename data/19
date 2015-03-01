@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 23:17:35 GMT", 
+    "full": "Bate Papo serio e ao mesmo tempo extrovertido sobre a rob\u00f3tica livre para estudantes do ensino m\u00e9dio e fundamental. Troca de experi\u00eancia com rob\u00f3tica open source para constru\u00e7\u00e3o um protejo b\u00e1sico e arrojado para competir na OBR, a Olimp\u00edada Brasileira de Rob\u00f3tica.", 
+    "id": 19, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 23:10:53 GMT", 
+      "id": 16, 
+      "name": "Guilherme Robert Silveira Santos", 
+      "organization": "CDC Minas Up", 
+      "resume": "Palestrante na Latinoware 2014, T\u00e9cnico em inform\u00e1tica, Cursando o Terceiro Ano."
+    }, 
+    "title": "Rob\u00f3tica Nas Escolas P\u00fablicas", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 123, 
+      "name_en": "Trending Topics - Open Hardware", 
+      "name_pt": "T\u00f3picos Emergentes - Hardware Aberto", 
+      "public": true
+    }
+  }
+}

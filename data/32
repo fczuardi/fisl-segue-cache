@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 15:52:00 GMT", 
+    "full": "Um vis\u00e3o geral para iniciantes em Node.js, apresentando as principais caracter\u00edsticas da plataforma.\n\nA palestra apresenta ainda o ecosistema do Node e sua comunidade, dando destaque \u00e0 rapidez do crescimento dos mesmos.", 
+    "id": 32, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 15:21:31 GMT", 
+      "id": 31, 
+      "name": "Paulo Diovani Gon\u00e7alves", 
+      "organization": "Codeminer42", 
+      "resume": "Graduando em Sistemas para Internet na Universidade Feevale."
+    }, 
+    "title": "Javascript no servidor com Node.js", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

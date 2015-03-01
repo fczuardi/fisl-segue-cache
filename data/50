@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 17:35:09 GMT", 
+    "full": "\u00c9 chagado o momento em que todos os olhos se voltam para a nova vers\u00e3o ainda em desenvolvimento do servidor de bancos de dados Open Source mais popular do mundo. O MySQL trar\u00e1 consigo v\u00e1rias novas funcionalidades, clamadas pela comunidade e que haviam sido colocadas em freeze por um longo tempo. \n\nEste apresenta\u00e7\u00e3o via exibir as novas features esperadas para o MySQL 5.7, utilizando o DMR 6, exibindo ent\u00e3o a cria\u00e7\u00e3o de TABLESPACES, as novas features relacionadas com a replica\u00e7\u00e3o GTID e tamb\u00e9m a Multisource-Replication com os canais de streaming, al\u00e9m de v\u00e1rias outras novidades que v\u00e3o tornar desenvolvedores mais produtivos.", 
+    "id": 50, 
+    "language": "pt", 
+    "last_updated": "Sat, 28 Feb 2015 17:35:52 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 18:14:38 GMT", 
+      "id": 34, 
+      "name": "Wagner Bianchi", 
+      "resume": "Wagner Bianchi atua como administrador de bancos de dados e consultor na mesma \u00e1rea desde o ano de 2002. Com foco voltado para solu\u00e7\u00f5es Open Source e principalmente para o armazenamento de informa\u00e7\u00e3o, Bianchi \u00e9 especialista no servidor de bancos de dados MySQL, Oracle ACE Director, certificado MySQL Developer, Database Administrator e Cluster Database Administrator."
+    }, 
+    "title": "Apresentando o MySQL 5.7", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 106, 
+      "name_en": "Administration - Databases", 
+      "name_pt": "Administra\u00e7\u00e3o - Bancos de Dados", 
+      "public": true
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 11:56:46 GMT", 
+    "full": "Relato sobre o desenvolvimento e uso de software livre de mapeamento colaborativo para o combate ao trabalho prec\u00e1rio na Amaz\u00f4nia .", 
+    "id": 45, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sat, 28 Feb 2015 11:54:19 GMT", 
+      "id": 42, 
+      "name": "Claudioalfonso", 
+      "organization": "Lablivre", 
+      "resume": "Coordenador lablivre"
+    }, 
+    "title": "Software livre m\u00f3vel no combate ao trabalho prec\u00e1rio na Amaz\u00f4nia", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 117, 
+      "name_en": "Ecosystem - Business, Migrations and Cases", 
+      "name_pt": "Ecossistema - Neg\u00f3cios, Migra\u00e7\u00f5es e Casos", 
+      "public": true
+    }
+  }
+}

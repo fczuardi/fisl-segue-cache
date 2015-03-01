@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 17:27:26 GMT", 
+    "full": "Apresentar a fotografia digital como forma de inclus\u00e3o digital e social. Desde os aspectos t\u00e9cnicos e os benef\u00edcios sociais que a fotografia proporciona. \n\nUtilizando no fluxo de edi\u00e7\u00f5es solu\u00e7\u00f5es que v\u00e3o al\u00e9m das op\u00e7\u00f5es propriet\u00e1rias. Fazendo da fotografia uma forma de liberta\u00e7\u00e3o completa, de express\u00e3o e de plataforma. \n\nIntrodu\u00e7\u00e3o a fotografia digital e o potencial que todas as c\u00e2meras possuem. \n\nPropor que a fotografia, assim como outras formas de arte, seja abordada com mais \u00eanfase no plano de ensino das escolas, trabalhando em conjunto com outras mat\u00e9rias ( portugu\u00eas,hist\u00f3ria, f\u00edsica, matem\u00e1tica, artes).", 
+    "id": 35, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 17:26:49 GMT", 
+      "id": 32, 
+      "name": "alissonsilveira", 
+      "organization": "Unipampa", 
+      "resume": "T\u00e9cnico em Inform\u00e1tica, Fot\u00f3grafo, Cientista da Computa\u00e7\u00e3o, Func. P\u00fablico."
+    }, 
+    "title": "Fotografia Livre - Inclus\u00e3o digital por meio da fotografia", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 118, 
+      "name_en": "Education - Digital Inclusion", 
+      "name_pt": "Educa\u00e7\u00e3o - Inclus\u00e3o Digital", 
+      "public": true
+    }
+  }
+}

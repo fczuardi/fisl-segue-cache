@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 14:31:40 GMT", 
+    "full": "Texto da palestra 1 - Teste", 
+    "id": 30, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brasil", 
+      "created": "Fri, 27 Feb 2015 14:31:05 GMT", 
+      "id": 30, 
+      "name": "WolffTeste", 
+      "organization": "Associa\u00e7\u00e3o Software Livre.org", 
+      "resume": "curriculo aqui."
+    }, 
+    "title": "Palestra 1 - Teste", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 105, 
+      "name_en": "Administration - Systems Administration", 
+      "name_pt": "Administra\u00e7\u00e3o - Administra\u00e7\u00e3o de Sistemas", 
+      "public": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 22:32:02 GMT", 
+    "full": "Cilk Plus \u00e9 uma extens\u00e3o para as linguagens C e C++, que fornece algumas palavras chaves para a cria\u00e7\u00e3o de tasks, al\u00e9m de ferramentas para tirar proveito de vector units nas CPUs e co-processadores. O objetivo desta palestra \u00e9 apresentar o uso do Cilk Plus para constru\u00e7\u00e3o de aplica\u00e7\u00f5esparalelas, focando principalmente na linguagem C.\n\nCilk \u00e9 uma linguagem de programa\u00e7\u00e3o, implementada como uma extens\u00e3o da linguagem C, nascida no MIT, em 1994. A linguagem \u00e9 baseada em algumas palavras chave para tornar c\u00f3digos seriais em paralelo de forma simples, e um escalonador com uma pol\u00edtica de work-stealing.\n\nA linguagem viveu por mais de 10 anos em um nicho restrito de High Performancbbe Computing. Em 2006, a Cilk Arts foi criada para comercializa\u00e7\u00e3o do Cilk++, que incluia o suporte a C++, suporte a loops, hyperobjects, etc. A Intel adquiriu a Cilk Arts em 2009 e lan\u00e7ou, no ano seguinte, a marca Cilk Plus, que \u00e9 como a linguagem \u00e9 conhecida hoje.\n\nDispon\u00edvel em diversos compiladores (Intel C++ Compiler, GCC e Clang), a linguagem vem ganhando espa\u00e7o com suporte a coprocessadores e vector units. O objetivo desta palestra \u00e9 apresentar a pr\u00e1tica de programa\u00e7\u00e3o paralela utilizando o Cilk Plus, e por que n\u00e3o podemos mais fugir da programa\u00e7\u00e3o paralela.", 
+    "id": 16, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 22:30:17 GMT", 
+      "id": 15, 
+      "last_updated": "Sat, 28 Feb 2015 18:44:00 GMT", 
+      "name": "Francisco Souza", 
+      "organization": "Globo.com", 
+      "resume": "Core developer do tsuru, PaaS open source; fanboy de concorr\u00eancia e paralelismo."
+    }, 
+    "title": "Concorr\u00eancia e paralelismo em C com Cilk Plus", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

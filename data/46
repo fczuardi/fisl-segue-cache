@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 12:19:39 GMT", 
+    "full": "Nesta Palestra Pretendo Apresentar as Ferramentas CMS Wordpress e Koken  d\u00eas de sua instala\u00e7\u00e3o, designer sugeridos para este Publico Especifico suas funcionalidades, bem como a sincroniza\u00e7\u00e3o de conte\u00fados das Principais ferramentas de um fotografo do desktop para o site, a montagem correta de um portf\u00f3lio e a caracteriza\u00e7\u00e3o de perfil de fot\u00f3grafos, abordagem de Clientes e como vender seu Site.", 
+    "id": 46, 
+    "language": "pt", 
+    "last_updated": "Sat, 28 Feb 2015 13:51:12 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sat, 28 Feb 2015 12:14:32 GMT", 
+      "id": 43, 
+      "name": "Felipe Consalter", 
+      "organization": "IFRS-C\u00e2mpus Sert\u00e3o", 
+      "resume": "Web Designer - Voltado ao publico da Fotografia \nFotografo do Publico Crioulista, voltado a provas funcionais da ABCCC e Book Rural"
+    }, 
+    "title": "Ferramentas CMS para  Cria\u00e7\u00e3o de Sites para Fotografos (Wordpress & Koken)", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 110, 
+      "name_en": "Development - Content Management / CMS", 
+      "name_pt": "Desenvolvimento - Ger\u00eancia de Conte\u00fado / CMS", 
+      "public": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 23:28:49 GMT", 
+    "full": "A proposta principal desse espa\u00e7o \u00e9 trazer para discuss\u00e3o a exist\u00eancia de poucas mulheres que comp\u00f5em o cen\u00e1rio no mundo tecnol\u00f3gico \u00e9 algo que tem chamando muita aten\u00e7\u00e3o atualmente, mas qual, ou quais, fatores fazem com que se tenha essa baixa quantidade de mulheres atuando na \u00e1rea de TI?\nO principal fator ainda \u00e9 o social, o qual designa que uma mulher n\u00e3o deve ser uma profissional de TI, pois cabe ao homem essa \u00e1rea e que mulheres devem trabalhar nas \u00e1reas que n\u00e3o tenham foco em exatas.\nAcompanhando esse fator vem o preconceito de que uma mulher n\u00e3o pode ser capaz de se interessar por computa\u00e7\u00e3o, assim como as outras \u00e1reas de exatas, e nem possa ser uma profissional capaz de desempenhar de maneira satisfat\u00f3ria as mesmas fun\u00e7\u00f5es que homens.\nOutro fator que tamb\u00e9m tem peso para essa realidade \u00e9 o esteri\u00f3tipo de que a mulher que trabalha com tecnologia tem que ser totalmente sem vaidades, antissocial e introvertida. Muitas com medo de serem rejeitadas e discriminadas acabam por buscar outras carreiras.\nE quando estas poucas mulheres que de maneira corajosa decidem enfrentar tudo e seguir na \u00e1rea, os professores e colegas tentam direcion\u00e1-las para papeis que consideram ser os mais \u201cindicados\u201d para realizar, como engenharia de software, IHC, entre outras,usando como desculpa a frase \u201cMulher \u00e9 boa com est\u00e9tica\u201d,n\u00e3o percebem que ainda assim est\u00e3o agindo de maneira preconceituosa, pois uma mulher pode perfeitamente atingir destaque atuando com programa\u00e7\u00e3o de baixo n\u00edvel, Hardware, Computa\u00e7\u00e3o Grafica,\u00e1reas que exijam c\u00e1lculo,etc.\nMas, o que muitos esquecem \u00e9 que dentre as principais figuras pioneiras na tecnologia as de maior destaque est\u00e3o grandes mulheres, aquelas que tanto s\u00e3o rejeitadas. A primeira representante hist\u00f3rica trata-se de Ada Lovelace,conhecida como a pessoa que primeiro trabalhou com programa\u00e7\u00e3o. O papel da diversidade est\u00e1 em mostrar diferentes pontos de vista para atingirmos um melhor resultado em nossos trabalhos, pois computa\u00e7\u00e3o \u00e9 coisa de mulher Sim!", 
+    "id": 41, 
+    "language": "pt", 
+    "last_updated": "Fri, 27 Feb 2015 23:52:45 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 23:21:02 GMT", 
+      "id": 36, 
+      "name": "Lais Farias Alves", 
+      "organization": "IF Baiano", 
+      "resume": "Bacharel em Sistemas de Informa\u00e7\u00e3o pela Universidade Estadual do Sudoeste da Bahia (UESB - Campus Jequi\u00e9) e atua como docente no Instituto Federal Baiano, Campus Bom Jesus da Lapa. Possui conhecimento nas \u00e1reas de Engenharia de Software, IHC e Computa\u00e7\u00e3o Gr\u00e1fica. \nFaz discuss\u00e3o de diversidade de g\u00eanero, software Livre e educa\u00e7\u00e3o."
+    }, 
+    "title": "Mulheres da TI e nas Comunidades de Software Livre", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 116, 
+      "name_en": "Ecosystem - Culture, Philosophy, and Politics", 
+      "name_pt": "Ecossistema - Cultura, Filosofia, e Pol\u00edtica", 
+      "public": true
+    }
+  }
+}

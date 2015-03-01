@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 15:21:52 GMT", 
+    "full": "Seja em grandes equipes ou projetos de longo prazo, a medida que a base de c\u00f3digo cresce e fica mais complexa, \u00e9 cada vez mais dif\u00edcil garantir qualidade, especialmente se tratando de compatibilidade da API e padr\u00f5es de c\u00f3digo.\n\nEsta palestra apresenta algums op\u00e7\u00f5es de servi\u00e7os de integra\u00e7\u00e3o cont\u00ednua / entrega cont\u00ednua e qualidade de c\u00f3digo, mostrando como s\u00e3o extremamente f\u00e1ceis de serem utilizados em conjunto com populares frameworks de teste automatizado.", 
+    "id": 31, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 15:21:31 GMT", 
+      "id": 31, 
+      "name": "Paulo Diovani Gon\u00e7alves", 
+      "organization": "Codeminer42", 
+      "resume": "Graduando em Sistemas para Internet na Universidade Feevale."
+    }, 
+    "title": "Integra\u00e7\u00e3o cont\u00ednua na Nuvem", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

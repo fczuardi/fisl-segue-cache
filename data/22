@@ -1,0 +1,26 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Fri, 27 Feb 2015 09:38:32 GMT", 
+    "full": "Palestra teste de sistema da mariel", 
+    "id": 22, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brasil", 
+      "created": "Fri, 27 Feb 2015 09:38:03 GMT", 
+      "id": 21, 
+      "name": "Mariel Zasso", 
+      "resume": "Comunicadora, agitadora cultural, psic\u00f3loga, amante do software livre."
+    }, 
+    "title": "Palestra teste de sistema da mariel", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 128, 
+      "name_en": "Trending Topics - Free Energy", 
+      "name_pt": "T\u00f3picos Emergentes - Energia Livre", 
+      "public": true
+    }
+  }
+}

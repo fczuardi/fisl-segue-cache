@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 15:36:00 GMT", 
+    "full": "Os computadores atuais est\u00e3o oferecendo arquiteturas que podem ser exploradas com a programa\u00e7\u00e3o paralela. A utiliza\u00e7\u00e3o de processadores de m\u00faltiplos n\u00facleos, GPUs e at\u00e9 mesmo clusters/grids demonstram um cen\u00e1rio no qual podemos desenvolver programas que tenham respostas mais r\u00e1pidas e aproveitem estas arquiteturas. Vamos falar sobre as tecnologias atuais para programa\u00e7\u00e3o paralela usando software livre e arriscar algumas previs\u00f5es para o futuro.", 
+    "id": 3, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 15:34:33 GMT", 
+      "id": 3, 
+      "name": "Cleverson Lopes Ledur", 
+      "organization": "PUCRS", 
+      "resume": "Mestrando de Computa\u00e7\u00e3o pela PUCRS."
+    }, 
+    "title": "Programa\u00e7\u00e3o Paralela: Como ganhar desempenho nas suas aplica\u00e7\u00f5es?", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

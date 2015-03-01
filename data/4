@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 15:47:17 GMT", 
+    "full": "As ferramentas Flex e Bison s\u00e3o alternativas que facilitam muito a cria\u00e7\u00e3o de compiladores. Ser\u00e1 apresentado o c\u00f3digo de um compilador para demonstrar como essas ferramentas auxiliaram na cria\u00e7\u00e3o de uma linguagem espec\u00edfica de dom\u00ednio e como voc\u00ea pode usar para facilitar a cria\u00e7\u00e3o do seu pr\u00f3prio compilador.", 
+    "id": 4, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 15:34:33 GMT", 
+      "id": 3, 
+      "name": "Cleverson Lopes Ledur", 
+      "organization": "PUCRS", 
+      "resume": "Mestrando de Computa\u00e7\u00e3o pela PUCRS."
+    }, 
+    "title": "Mate o Drag\u00e3o! Criando um compilador com Flex e Bison", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

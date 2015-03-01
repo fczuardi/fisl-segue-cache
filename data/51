@@ -1,0 +1,26 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 17:42:09 GMT", 
+    "full": "Esta apresenta\u00e7\u00e3o via exibir os recursos da atual vers\u00e3o do MySQL que ajudam no an\u00e1lise de desempenho n\u00e3o s\u00f3 com foco nos aspectos do funcionamento do banco de dados como consultas, consumo de mem\u00f3ria, CPU e I/O, mas tamb\u00e9m, como o servidor se comporta com a execu\u00e7\u00e3o da demanda que o banco de dados imp\u00f5e sobre o mesmo. Para demonstra\u00e7\u00e3o pr\u00e1tica, utilizarei o SYS SCHEMA de Mark Leight da Oracle.", 
+    "id": 51, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 18:14:38 GMT", 
+      "id": 34, 
+      "name": "Wagner Bianchi", 
+      "resume": "Wagner Bianchi atua como administrador de bancos de dados e consultor na mesma \u00e1rea desde o ano de 2002. Com foco voltado para solu\u00e7\u00f5es Open Source e principalmente para o armazenamento de informa\u00e7\u00e3o, Bianchi \u00e9 especialista no servidor de bancos de dados MySQL, Oracle ACE Director, certificado MySQL Developer, Database Administrator e Cluster Database Administrator."
+    }, 
+    "title": "MySQL 5.6 PERFORMANCE_SCHEMA", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 106, 
+      "name_en": "Administration - Databases", 
+      "name_pt": "Administra\u00e7\u00e3o - Bancos de Dados", 
+      "public": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 26 Feb 2015 22:52:16 GMT", 
+    "full": "A palestra oferece aos seus participantes a possibilidade de conhecer as principais ferramentas dispon\u00edveis no software, e apresenta um panorama geral dos atalhos e interface do Blender com foco em modelagem para jogos digitais.\n\nO curso/palestra \u00e9 voltado a pessoas que j\u00e1 tem conhecimento em outros softwares e que gostariam de utilizar o Blender, mas tamb\u00e9m serve de acompanhamento para novos usu\u00e1rios em softwares 3D.\n\nDemonstra\u00e7\u00e3o de atalhos e customiza\u00e7\u00f5es do software para melhor aproveitamento em cria\u00e7\u00e3o de modelos 3D para jogos.\n\nT\u00f3picos\n1 - Interface\n1.1 - Janelas e divis\u00f5es\n2 - Navega\u00e7\u00e3o\n2.1 - Atalhos para navega\u00e7\u00e3o 3D\n2.2 - Sombreamento\n3 - Transforma\u00e7\u00f5es em objetos\n3.1 - Sele\u00e7\u00e3o de objetos\n3.2 - Transforma\u00e7\u00f5es\n3.3 - Manipulador\n3.4 - Coordenadas globais e locais\n4 - Cria\u00e7\u00e3o de objetos e Modos de trabalho\n4.1 - Cursos 3D e suas fun\u00e7\u00f5es extras\n4.2 - Cria\u00e7\u00e3o de objetos\n4.3 - Modos de trabalho\n4.4 - Pol\u00edgonos\n5 - Materiais\n5.1 - Materiais\n5.2 - Shaders\n6 - Mapeamento UV e Bake\n6.1 - Configurando \"Seams\" (costura de malha)\n6.2 - Gerando e configurando mapa UV\n6.3 - Configura\u00e7\u00e3o de texturas com imagens\n6.4 - Criando Bake nas  texturas\n7 - Exportando modelo final", 
+    "id": 17, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 21:06:59 GMT", 
+      "id": 11, 
+      "last_updated": "Thu, 26 Feb 2015 22:57:42 GMT", 
+      "name": "Luciano Teixeira Soares", 
+      "organization": "Color Blind Studio", 
+      "resume": "Artista 3D e Ilustrador. Atuando no seguimento multim\u00eddia e games."
+    }, 
+    "title": "Modelagem 3D para Jogos com Blender", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 114, 
+      "name_en": "Desktop - Games", 
+      "name_pt": "Desktop - Jogos", 
+      "public": true
+    }
+  }
+}

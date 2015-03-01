@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 19:06:13 GMT", 
+    "full": "Pode um laptop de brinquedo, um filho bastardo do casamento de uma tablet com um netbook ser customizado/hackeado para tornar-se uma m\u00e1quina s\u00e9ria, uma esta\u00e7\u00e3o de trabalho livre e multi-prop\u00f3sito? Este \u00e9 o questionamento guia desta apresenta\u00e7\u00e3o.\n\nO Chrome OS e seu irm\u00e3o livre, o Chromium OS, s\u00e3o sistemas baseados em Linux feitos para desktop com foco na simplicidade e seguran\u00e7a. Assemelham-se a outras iniciativas como o Firefox OS, WebOS e Tizen no sentido de serem apenas a infraestrutura necess\u00e1ria para lan\u00e7ar um motor de um navegador HTML, que a partir dali funciona como o runtime para as demais aplica\u00e7\u00f5es do sistema (desenvolvidas majoritariamente com padr\u00f5es web).\n\nEste \u00e9 o sistema padr\u00e3o utilizados por \"chromebooks\", m\u00e1quinas acess\u00edveis promovidas pela Google como sendo laptops de entrada e \u00edtens educacionais... \n\nExploraremos alguns t\u00f3picos, causos e demonstra\u00e7\u00f5es baseados na minha experi\u00eancia pessoal como programador e dono de um laptop ARM que roda diversas distribui\u00e7\u00f5es diferentes. Desde adapta\u00e7\u00f5es mais b\u00e1sicas que aceitam a proposta original de utilizar a m\u00e1quina como um \"terminal burro\" e entregar seus dados pessoais alegremente para a gigante colorida, at\u00e9 as mais radicais que eliminam as amarras convenientes e propriet\u00e1rias de Mountain View por completo, passando pelas intermedi\u00e1rias :)\n\nEntre eles:\n- Arquitetura do Chromium OS: bootloader, display server (xorg, transicionando para Freon), widgets Aura e window manager Ash\n- canais beta e dev do chrome\n- firefox no chrome\n- chroot jails de diferentes distros no Chrome OS usando crouton\n- firefox OS no chromeOS\n- substituicao do chromeOS pelo chromiumOS\n- boot de outras imagens por USB\n- performance\n- vida no pen drive? vida na nuvem?\n- filosofias sobre liberdade de software", 
+    "id": 53, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brasil", 
+      "created": "Sat, 28 Feb 2015 17:31:16 GMT", 
+      "id": 45, 
+      "name": "Fabricio Campos Zuardi", 
+      "organization": "\u00d4nibus Hacker", 
+      "resume": "Programador web, micro-empres\u00e1rio, artista, estilista, costureira, blogueiro. \nViaja com o \u00d4nibus Hacker, promove liberdade de software, cultura hacker e autonomia na medida do poss\u00edvel.\nAcredita no amor e no livre mercado."
+    }, 
+    "title": "Pervertendo Chromebooks", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 115, 
+      "name_en": "Desktop - Distros", 
+      "name_pt": "Desktop - Distribui\u00e7\u00f5es", 
+      "public": true
+    }
+  }
+}

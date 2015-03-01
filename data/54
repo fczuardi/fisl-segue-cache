@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 19:07:24 GMT", 
+    "full": "Apresentar o io.js, uma plataforma extremamente nova. Lan\u00e7ada em 2015 e vem ganhando visibilidade por sua perfomance. Ser\u00e1 mostrado a hist\u00f3ria, conceitos, funcionalidades, compara\u00e7\u00e3o entre o node.js. Rodando a partir do V8 e com o ES6, e com isso promete mudar o panorama do desenvolvimento backend com javascript.", 
+    "id": 54, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sat, 28 Feb 2015 18:33:20 GMT", 
+      "id": 46, 
+      "last_updated": "Sat, 28 Feb 2015 18:51:27 GMT", 
+      "name": "Raphael Amorim", 
+      "resume": "Atua como consultor principalmente no cen\u00e1rio web. Trabalhou como desenvolvedor em empresas como Videolog e Petrobras. Tamb\u00e9m \u00e9 contribuidor do mundo open source, atuando em projetos abertos e autor de diversos artigos no iMasters."
+    }, 
+    "title": "Ol\u00e1 meu nome \u00e9 io.js", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}
