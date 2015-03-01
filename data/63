@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sun, 01 Mar 2015 10:46:12 GMT", 
+    "full": "A palestra versa sobre o processo da Forma\u00e7\u00e3o Imagine-se realizada pela OI KABUM/OI FUTURO no RIO de Janeiro e mostra experi\u00eancias de Forma\u00e7\u00e3o para professores e o desdobramento da forma\u00e7\u00e3o em oficinas com alunos da rede p\u00fablica do Estado do Rio de Janeiro, nas quais s\u00e3o experimentadas a apropria\u00e7\u00e3o de linguagens em diferentes M\u00eddias na produ\u00e7\u00e3o de Arte/Educa\u00e7\u00e3o. Proje\u00e7\u00f5es mapeadas, chamadas criativas, Mapas Coletivos, net-poesia, Instala\u00e7\u00f5es, Arte Digital, ser\u00e3o realizadas pelos alunos, com montagem em uma exposi\u00e7\u00e3o em pra\u00e7a p\u00fablica e em acervo virtual. \nA Palestra destaca tr\u00eas momentos da oficina dos professores (V\u00eddeo/celular/proje\u00e7\u00e3o mapeada) e tr\u00eas desdobramentos da oficina, com jovens alunos e moradores de tr\u00eas equipamentos p\u00fablicos (2 escolas, 1 Associa\u00e7\u00e3o de Moradores).\nO foco da palestra \u00e9 no processo de apropria\u00e7\u00e3o dessas linguagens e no processo criativo tanto dos professores durante a oficina quanto dos jovens na produ\u00e7\u00e3o dos seus trabalhos com Arte Educa\u00e7\u00e3o e Tecnologias Contempor\u00e2neas.", 
+    "id": 63, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sun, 01 Mar 2015 10:43:43 GMT", 
+      "id": 58, 
+      "last_updated": "Sun, 01 Mar 2015 10:57:37 GMT", 
+      "name": "Fernanda Cavalcanti de Mello", 
+      "organization": "SEEDUC_RJ E OI KABUM", 
+      "resume": "Mestre em Educa\u00e7\u00e3o, professora da Rede P\u00fablica do Estado, e especialista e Designer Instrucional, EaD,Educa\u00e7\u00e3o Tecnol\u00f3gica e Tecnologias Educacionais e Arte/Educa\u00e7\u00e3o e Tecnologias contempor\u00e2neas atuo projetos escolares, educomunica\u00e7ao/midiaeduca\u00e7\u00e3o, e tutoria de cursos a dist\u00e2ncia para diferentes institui\u00e7\u00f5es p\u00fablicas, como MEC, Cons\u00f3rcio CEDERJ (EaD) e Curso de Pedagogia na UNIRIO."
+    }, 
+    "title": "Arte/Educa\u00e7\u00e3o e Tecnologias Contempor\u00e2neas", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 119, 
+      "name_en": "Education - Education", 
+      "name_pt": "Educa\u00e7\u00e3o - Educa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

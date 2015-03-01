@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sun, 01 Mar 2015 08:31:52 GMT", 
+    "full": "Nesse momento de ajuste fiscal, no qual o custo das empresas tamb\u00e9m come\u00e7a a ser revisto, \u00e9 preciso adotar alternativas mais eficientes para a arquitetura das aplica\u00e7\u00f5es que desenvolvemos.\n\nA arquitetura baseada em micro servi\u00e7os ajuda a reduzir: custo, prazo e risco, caindo como uma luva em equipes que utilizam processos \u00e1geis, como o Scrum.\n\nMas n\u00e3o se trata apenas de mudar a arquitetura, \u00e9 preciso tamb\u00e9m nudar a maneira como projetamos e constru\u00edmos os sistemas, de modo a nos adaptarmos a estes novos tempos. \u00c9 preciso pensar em racionaliza\u00e7\u00e3o com consumo de recursos computacionais, deixando de lado a \"mania de container\" e adotando um modelo mais desacoplado.\n\nJavascript isom\u00f3rfico \u00e9 uma tend\u00eancia cada vez mais defendida e seguida pelas pessoas e empresas. \u00c9 o desenvolvimento de c\u00f3digo cliente e servidor totalmente em Javavscript, que \u00e9 um dos componentes da Plataforma da Web Aberta, proposta pelo W3C.\n\nNeste trabalho, juntamos javascript isom\u00f3rfico com arquitetura de micro servi\u00e7os, para oferecer uma alternativa de baixo custo e risco para a arquietura de sistemas em tempos dif\u00edceis.", 
+    "id": 61, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sun, 01 Mar 2015 08:31:34 GMT", 
+      "id": 56, 
+      "last_updated": "Sun, 01 Mar 2015 08:32:01 GMT", 
+      "name": "Cleuton sampaio", 
+      "organization": "SERPRO", 
+      "resume": "Mestre, formado pelo IBMEC, escritor, com v\u00e1rios livros publicados, e arquiteto de software. Seu \u00faltimo livro publicado foi: \"qualidade de software na pr\u00e1tica\", pela editora Ci\u00eancia Moderna. Est\u00e1 lan\u00e7ando o livro: \"Javascript de cabo a rabo\", pela editora Ci\u00eancia Moderna."
+    }, 
+    "title": "arquitetura de micro servi\u00e7os baseada em software livre", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

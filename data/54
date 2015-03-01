@@ -2,20 +2,21 @@
   "resource": {
     "$type": "Proposal.normal", 
     "created": "Sat, 28 Feb 2015 19:07:24 GMT", 
-    "full": "Apresentar o io.js, uma plataforma extremamente nova. Lan\u00e7ada em 2015 e vem ganhando visibilidade por sua perfomance. Ser\u00e1 mostrado a hist\u00f3ria, conceitos, funcionalidades, compara\u00e7\u00e3o entre o node.js. Rodando a partir do V8 e com o ES6, e com isso promete mudar o panorama do desenvolvimento backend com javascript.", 
+    "full": "ReactJS \u00e9 uma biblioteca JavaScript para a cria\u00e7\u00e3o de interfaces de usu\u00e1rio com foco principal no desempenho. Flux \u00e9 uma arquitetura de aplicativo, que trabalha muito bem com o ReactJS. Ambos s\u00e3o utilizados pelo Facebook em produ\u00e7\u00e3o.\nNa palestra vamos mergulhar em ambos, abordar hist\u00f3ria, conceitos, funcionalidades e dar alguns exemplos pr\u00e1ticos.", 
     "id": 54, 
     "language": "pt", 
-    "level": "beginner", 
+    "last_updated": "Sun, 01 Mar 2015 16:54:49 GMT", 
+    "level": "advanced", 
     "owner": {
       "$type": "Account.safe", 
       "country": "Brazil", 
       "created": "Sat, 28 Feb 2015 18:33:20 GMT", 
       "id": 46, 
-      "last_updated": "Sat, 28 Feb 2015 18:51:27 GMT", 
+      "last_updated": "Sun, 01 Mar 2015 16:55:20 GMT", 
       "name": "Raphael Amorim", 
       "resume": "Atua como consultor principalmente no cen\u00e1rio web. Trabalhou como desenvolvedor em empresas como Videolog e Petrobras. Tamb\u00e9m \u00e9 contribuidor do mundo open source, atuando em projetos abertos e autor de diversos artigos no iMasters."
     }, 
-    "title": "Ol\u00e1 meu nome \u00e9 io.js", 
+    "title": "Criando aplica\u00e7\u00f5es web com ReactJS e Flux", 
     "track": {
       "$type": "Track.normal", 
       "id": 111, 

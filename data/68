@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sun, 01 Mar 2015 15:02:46 GMT", 
+    "full": "A luta entre o bem e o mal est\u00e1 sempre presente em todo lugar inclusive na Per\u00edcia Forense Computacional. Hoje um assunto em alta, onde muito se fala sobre procedimentos de an\u00e1lise de dados de informa\u00e7\u00f5es que ajudem identificar como ocorreu um incidente de seguran\u00e7a e qual foi sua prov\u00e1vel origem.\n\nEsta palestra tem por objetivo explanar sobre algumas das t\u00e9cnicas poss\u00edveis de serem aplicadas em um Sistema Linux para dificultar ou mesmo alguns casos impossibilitar  an\u00e1lise dos dados. Ser\u00e1 uma taxonomia da arte Sith de limpar rastros forenses em servidores Linux\n\nprincipais t\u00f3picos:\n\nConceituando Per\u00edcia Forense\nModus Operandi do invasor\nManipula\u00e7\u00e3o de logs\nColis\u00e3o de  Hash \nT\u00e9cnicas para ocultar processos\nManipula\u00e7\u00e3o escusa de metadados\nManipula\u00e7\u00e3o escusa de slackspace\nT\u00e9cnicas para esconder informa\u00e7\u00f5es\nT\u00e9cnicas Dele\u00e7\u00e3o segura de dados\nMalware arrojados versus a Pericia Forense", 
+    "id": 68, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sun, 01 Mar 2015 14:36:13 GMT", 
+      "id": 63, 
+      "last_updated": "Sun, 01 Mar 2015 15:38:53 GMT", 
+      "name": "Sandro Melo", 
+      "organization": "Bandtec College", 
+      "resume": "Atualmente \u00e9 Coordenador do curso de Redes de Computadores da BANDTEC onde tamb\u00e9m \u00e9 professor das c\u00e1tedras: \"Sistema Operacionais,  Seguran\u00e7a e Auditoria\" e respons\u00e1vel pelo Curso de P\u00f3s Gradua\u00e7\u00e3o Lato Sensu em \"Seguran\u00e7a Computacional e Computa\u00e7\u00e3o Forense. Atua na \u00e1rea de TI desde 1995. Doutorando pelo TIDD/PUC-SP, Mestre em Engenharia da Computa\u00e7\u00e3o pelo IPT."
+    }, 
+    "title": "A arte Sith de limpar rastros em Servidores Linux - 2.0", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 108, 
+      "name_en": "Administration - Security", 
+      "name_pt": "Administra\u00e7\u00e3o - Seguran\u00e7a", 
+      "public": true
+    }
+  }
+}

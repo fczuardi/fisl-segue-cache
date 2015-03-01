@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sun, 01 Mar 2015 16:23:54 GMT", 
+    "full": "Criado em 2012, o tsuru \u00e9 uma plataforma de cloud computing criada com o\nobjetivo de simplificar o processo de subida das aplica\u00e7\u00f5es para produ\u00e7\u00e3o,\npermitindo que a Globo.com responda \u00e0s demandas do mercado de forma mais \u00e1gil,\nreduzindo o n\u00edvel time to market dos produtos e aproximando os desenvolvedores\nde seu ambiente de produ\u00e7\u00e3o.\n\nOpen source desde a sua cria\u00e7\u00e3o, o tsuru \u00e9 utilizado em produ\u00e7\u00e3o na Globo.com\ndesde Dezembro de 2012, mas \u00e9 tamb\u00e9m utilizado em outras empresas no Brasil e\nno mundo. Ao longo de tr\u00eas anos, o projeto recebeu contribui\u00e7\u00f5es de mais de 50\npessoas no Brasil e no mundo, principalmente patches de c\u00f3digo, al\u00e9m de issues\ne atitudes simples, como apresentar um diferente ponto de vista, garantindo que\no tsuru permanecesse uma plataforma aberta e pronta para atender \u00e0s demandas\nn\u00e3o s\u00f3 da Globo.com, mas tamb\u00e9m de outras empresas e da comunidade.\n\nO objetivo desta palestra \u00e9 demonstrar como construir um PaaS open source\najudou a Globo.com a atingir seus objetivos de maneira mais r\u00e1pida,\nbeneficiando ainda outras empresas no Brasil e no mundo, inspirando a audi\u00eancia\na fazer o mesmo: contribuir e usufruir de contribui\u00e7\u00f5es em projetos open\nsource.", 
+    "id": 73, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 26 Feb 2015 22:30:17 GMT", 
+      "id": 15, 
+      "last_updated": "Sat, 28 Feb 2015 18:44:00 GMT", 
+      "name": "Francisco Souza", 
+      "organization": "Globo.com", 
+      "resume": "Core developer do tsuru, PaaS open source; fanboy de concorr\u00eancia e paralelismo."
+    }, 
+    "title": "tsuru: como a comunidade ajudou a Globo.com a construir um PaaS open source", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 116, 
+      "name_en": "Ecosystem - Culture, Philosophy, and Politics", 
+      "name_pt": "Ecossistema - Cultura, Filosofia, e Pol\u00edtica", 
+      "public": true
+    }
+  }
+}

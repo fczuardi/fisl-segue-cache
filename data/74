@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sun, 01 Mar 2015 17:03:13 GMT", 
+    "full": "Quando pensamos em garantir a continuidade das atividades de um SGBD, o primeiro conceito que vem a cabe\u00e7a \u00e9 \"replica\u00e7\u00e3o\". A ideia \u00e9 manter uma c\u00f3pia do conjunto de dados em um servidor remoto. Como h\u00e1 muitas maneiras de fazer replica\u00e7\u00e3o, as t\u00e9cnicas s\u00e3o amplamente debatidas.\n\nNesta palestra iremos abordar os conceitos para ajud\u00e1-los a entender as op\u00e7\u00f5es dispon\u00edveis. Termos como \"cluster\", \"switchover\", \"high availability\", \"failback\" e \"standby\" s\u00e3o conceitos utilizados em SGBDs; veremos como eles se encaixam em cada uma das t\u00e9cnicas dispon\u00edveis para PostgreSQL.  Apresentaremos as ferramentas de replica\u00e7\u00e3o mais populares (nativo, Slony-I, Londiste, Bucardo, pgpool-II) e algumas em desenvolvimento (BDR, Postgres XC), apontando os seus pontos positivos e negativos.", 
+    "id": 74, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sun, 01 Mar 2015 16:52:22 GMT", 
+      "id": 66, 
+      "name": "Euler Taveira", 
+      "organization": "Timbira", 
+      "resume": "Diretor T\u00e9cnico da Timbira. Membro da equipe de desenvolvimento do PostgreSQL. Especialista em banco de dados. Palestrante regular em diversas confer\u00eancias nacionais e internacionais. Al\u00e9m de contribuir como desenvolvedor e revisor de patches, mant\u00e9m as tradu\u00e7\u00f5es em portugu\u00eas do PostgreSQL e projetos relacionados. Trabalha com PostgreSQL desde a vers\u00e3o 6.5 e \u00e9 um dos l\u00edderes do PostgreSQL Brasil."
+    }, 
+    "title": "Desmistificando Replica\u00e7\u00e3o no PostgreSQL", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 106, 
+      "name_en": "Administration - Databases", 
+      "name_pt": "Administra\u00e7\u00e3o - Bancos de Dados", 
+      "public": true
+    }
+  }
+}

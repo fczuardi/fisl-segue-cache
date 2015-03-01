@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sun, 01 Mar 2015 15:35:42 GMT", 
+    "full": "A Computa\u00e7\u00e3o Forense a muito faz parte do universo corporativo  e sua evolu\u00e7\u00e3o constante tem gradualmente ampliado a possibilidade do uso das t\u00e9cnicas e ferramentas de desenvolvido. Nesse contexto a numero crescente de recursos na ferramentas de analise de Dump de Mem\u00f3ria possibilitou a Forense de Mem\u00f3ria aumentar sua relev\u00e2ncia, tanto para uma per\u00edcia tradicional quanto tamb\u00e9m no contexto de an\u00e1lise de Malware. E o desafio de an\u00e1lise de discos r\u00edgidos com capacidade cada vez maiores somando-se os recursos dispon\u00edveis na Computa\u00e7\u00e3o Nuvens, colocam a forense de mem\u00f3ria em  um lugar estrat\u00e9gico.\n \nEssa palestra tem por objetivo fazer uma introdu\u00e7\u00e3o a Forense de Mem\u00f3ria e ilustrar como ela pode ajudar na Resposta a Incidente. Destacam-se entre os t\u00f3picos que ser\u00e3o abordados:\n\nConceitos e Computa\u00e7\u00e3o Forense\nEstado da Arte da Per\u00edcia Forense de Mem\u00f3ria\nRealiza\u00e7\u00e3o de Dump de Mem\u00f3ria\nDump de mem\u00f3ria de M\u00e1quina Virtual\nExtra\u00e7\u00e3o de Evid\u00eancias de Dump de Mem\u00f3ria \t\nUtiliza\u00e7\u00e3o do Framework Volatility\nRecupera\u00e7\u00e3o de Artefatos", 
+    "id": 70, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sun, 01 Mar 2015 14:36:13 GMT", 
+      "id": 63, 
+      "last_updated": "Sun, 01 Mar 2015 15:38:53 GMT", 
+      "name": "Sandro Melo", 
+      "organization": "Bandtec College", 
+      "resume": "Atualmente \u00e9 Coordenador do curso de Redes de Computadores da BANDTEC onde tamb\u00e9m \u00e9 professor das c\u00e1tedras: \"Sistema Operacionais,  Seguran\u00e7a e Auditoria\" e respons\u00e1vel pelo Curso de P\u00f3s Gradua\u00e7\u00e3o Lato Sensu em \"Seguran\u00e7a Computacional e Computa\u00e7\u00e3o Forense. Atua na \u00e1rea de TI desde 1995. Doutorando pelo TIDD/PUC-SP, Mestre em Engenharia da Computa\u00e7\u00e3o pelo IPT."
+    }, 
+    "title": "Forense de Memoria - Estado da Arte", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 108, 
+      "name_en": "Administration - Security", 
+      "name_pt": "Administra\u00e7\u00e3o - Seguran\u00e7a", 
+      "public": true
+    }
+  }
+}

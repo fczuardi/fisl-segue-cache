@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sun, 01 Mar 2015 13:52:55 GMT", 
+    "full": "Apresentar uma abordagem inicial sobre Arduino, mostrar diferen\u00e7as entre shields e sensores e apresentar algumas ideias que tive com Arduino, desde a concep\u00e7\u00e3o da ideia, desenvolvimento e mostrar o projeto funcionando.\nProjetos apresentados: \n- Controle de temperatura para ventilador;\n- Ligar / Desligar equipamentos por controle remoto, para automa\u00e7\u00e3o residencial;\n- Ligar / Desligar equipamentos pela web, para automa\u00e7\u00e3o residencial.", 
+    "id": 65, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sun, 01 Mar 2015 13:52:37 GMT", 
+      "id": 62, 
+      "last_updated": "Sun, 01 Mar 2015 13:53:27 GMT", 
+      "name": "Jairo Lenfers", 
+      "organization": "Blunix", 
+      "resume": "Graduando em engenharia el\u00e9trica, t\u00e9cnico em eletr\u00f4nica e trabalha com inform\u00e1tica e eletr\u00f4nica h\u00e1 19 anos.\nConheceu Linux e sistemas *BSD em 1999, possui certifica\u00e7\u00f5es Conectiva e RedHat (RHCSA e RHCE).\nMembro da comunidade Blumenauense de Software Livre (Blusol).\nHoje \u00e9 s\u00f3cio-administrador da Blunix Tecnologia, empresa especializada em solu\u00e7\u00f5es de inform\u00e1tica corporativa."
+    }, 
+    "title": "Inove com Arduino!", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}
