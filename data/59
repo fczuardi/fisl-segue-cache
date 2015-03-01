@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 22:26:05 GMT", 
+    "full": "O LibreOffice oferece uma ampla variedade de fun\u00e7\u00f5es. Nessa palestra, ser\u00e1 apresentada as diversas extens\u00f5es do LibreOffice. Tamb\u00e9m ser\u00e3o respondidas  perguntas como: O que \u00e9 uma extens\u00e3o do LibreOffice? Onde posso baixar as extens\u00f5es e como posso instalar uma extens\u00e3o no LibreOffice? Existem diferen\u00e7as entre o LibreOffice para Windows, Mac e para Linux? Como posso adicionar um idioma adicional para a interface do LibreOffice?  Como posso adicionar um dicion\u00e1rio de verifica\u00e7\u00e3o ortogr\u00e1fica de um outro idioma? Todas essa perguntas ser\u00e3o respondidas com demonstra\u00e7\u00f5es durante \u00e0 apresenta\u00e7\u00e3o.", 
+    "id": 59, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sat, 28 Feb 2015 22:24:52 GMT", 
+      "id": 53, 
+      "last_updated": "Sat, 28 Feb 2015 22:26:17 GMT", 
+      "name": "Klaibson Natal Ribeiro Borges", 
+      "organization": "Senai", 
+      "resume": "P\u00f3s-graduado em Educa\u00e7\u00e3o Profissional e Tecnol\u00f3gica, CETIQT/Senai; Formado em Administra\u00e7\u00e3o de Empresas, Unisul; Coordenador e Professor no Senai/SC; Trabalhou em diversas escolas profissionalizantes; Autor do ebook LibreOffice Para Leigos e co-autor do ebook LibreOffice Calc Avan\u00e7ado; Membro da Associa\u00e7\u00e3o Solisc; Membro da ComunidadeLibreOffice Brasil e Membro da The Document Foundation (TDF)."
+    }, 
+    "title": "Como Turbinar o LibreOffice com Extens\u00f5es", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 112, 
+      "name_en": "Desktop - Desktop Applications", 
+      "name_pt": "Desktop - Aplica\u00e7\u00f5es Desktop", 
+      "public": true
+    }
+  }
+}

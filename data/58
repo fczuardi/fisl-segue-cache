@@ -1,4 +1,26 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sat, 28 Feb 2015 22:05:29 GMT", 
+    "full": "A proposta da palestra \u00e9 disseminar o que \u00e9 o Joomla e suas vantagens, como base para a tomada de decis\u00e3o da escolha de um CMS para seu projeto e como essa decis\u00e3o pode acelerar o desenvolvimento seu site.\n\nSegue um resumo dos t\u00f3picos abordados:\n\nTecnologia utilizada: Joomla! O Que e\u0301 o Joomla e porque ele?\nE\u0301 um dos principais sistemas de gesta\u0303o de conteu\u0301do da atualidade e e\u0301 u0lizado para o desenvolvimento de lojas virtuais, blogs, revistas online, portais de conteu\u0301do, jornais, cata\u0301logos de produtos/servic\u0327os e diversos outros formatos de conteu\u0301do.\nIsso e\u0301 possi\u0301vel devido a\u0300 grande diversidade de extenso\u0303es (mais de 10.000) que permitem agregar novas funcionalidades com rapidez e eficie\u0302ncia. Possui verso\u0303es em 64 idiomas e mais de 3% dos sites da internet u0lizam o Joomla! No mundo inteiro.\nO Joomla! recebeu em 2011 o pre\u0302mio de melhor CMS Open Source.\n\nAs principais vantagens de utilizar o Joomla! sa\u0303o:\n\u2022  Ter uma a\u0301rea administrativa restrita a pessoas autorizadas para atualizar o conteu\u0301do sempre que desejar, mesmo do smartphone\n\u2022  E\u0301 uma plataforma que atende totalmente os padro\u0303es de o0mizac\u0327a\u0303o necessa\u0301rios para aparecer no Google\n\u2022  Poder mudar o visual do site sem ter que fazer outro site do zero.\n\u2022  Atualizar seu site de qualquer disposi0vo que tenha internet, ate\u0301 mesmo um smartphone.\n\u2022  Integrac\u0327a\u0303o com as redes sociais", 
+    "id": 58, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sat, 28 Feb 2015 22:05:02 GMT", 
+      "id": 52, 
+      "name": "Liliam Leal", 
+      "resume": "Atuante no mundo web desde 2003. Em 2008 abriu sua empresa a LealTi. E foi neste mesmo ano que conheceu o Joomla! Encantada por este CMS, passou a utiliz\u00e1-lo em todos seus projetos, conquistando um amplo portif\u00f3lio.  Em 2012 percebeu a necessidade de profissionais para as redes sociais e se especializou na \u00e1rea. \nCasada, M\u00e3e, Empres\u00e1ria e Joomla Lover!"
+    }, 
+    "title": "Acelerando o desenvolvimento de sites com Joomla", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 110, 
+      "name_en": "Development - Content Management / CMS", 
+      "name_pt": "Desenvolvimento - Ger\u00eancia de Conte\u00fado / CMS", 
+      "public": true
+    }
+  }
+}

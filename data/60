@@ -1,4 +1,27 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sun, 01 Mar 2015 00:43:13 GMT", 
+    "full": "Apresenta\u00e7\u00e3o do software livre gpweb, de gest\u00e3o estrat\u00e9gica, gerenciamento de projetos e comunica\u00e7\u00e3o corporativa. Contando com uma comunidade de 14.000 participantes, no Portal do Software P\u00fablico, o mesmo \u00e9 mais completo sistema de gest\u00e3o open source do Brasil.", 
+    "id": 60, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sun, 01 Mar 2015 00:39:00 GMT", 
+      "id": 55, 
+      "name": "S\u00e9rgio Reinert", 
+      "organization": "Sistema GP-Web Ltda.", 
+      "resume": "Desenvolvedor do software livre gpweb, de gest\u00e3o estrat\u00e9gica, gerenciamento de projetos e comunica\u00e7\u00e3o corporativa, contando com uma comunidade de 14.000 participantes, no Portal do Software P\u00fablico.\n\nMajor da Reserva do Ex\u00e9rcito, com experi\u00eancia de 30 anos em programa\u00e7\u00e3o."
+    }, 
+    "title": "Gerenciamento de projetos e gest\u00e3o estrat\u00e9gica com o software livre GPWeb", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}
