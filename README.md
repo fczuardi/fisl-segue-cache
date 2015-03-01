@@ -2,7 +2,7 @@ Requisitos
 ----------
 
 - curl
-- grep
+- grep, cat...
 
 Como usar
 ---------
