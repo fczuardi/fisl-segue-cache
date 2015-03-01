@@ -19,3 +19,7 @@ Como usar
 ### Baixar novas propostas ou atualizar existentes
 
 	. bin/get_page.sh [numero_da_pagina]
+
+### Listar autores
+
+	. bin/list_authors.sh 
