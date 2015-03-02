@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sun, 01 Mar 2015 18:39:11 GMT", 
+    "full": "A educa\u00e7\u00e3o tem se pautado essencialmente pelo afastamento das possibilidades de colabora\u00e7\u00e3o das suas pr\u00e1ticas cotidianas. Uma educa\u00e7\u00e3o centrada na consumo de informa\u00e7\u00f5es que precisa ser superado. Pata tal vamos buscar inspira\u00e7\u00e3o nos diversos movimentos colaborativos contempor\u00e2neos, a exemplo do movimento software livre, na economia solid\u00e1ria, no movimento dos fazedores (makers), nos laborat\u00f3rios hackers, para pensar em novas possibilidades para a educa\u00e7\u00e3o com particular \u00eanfase para a escola.", 
+    "id": 77, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Fri, 27 Feb 2015 00:39:55 GMT", 
+      "id": 18, 
+      "last_updated": "Sun, 01 Mar 2015 18:35:07 GMT", 
+      "name": "nelson pretto", 
+      "organization": "UFBA-FACED", 
+      "resume": "professor (e ativista) da faculdade de educa\u00e7\u00e3o da UFBA. Secret\u00e1rio Regional da"
+    }, 
+    "title": "Movimentos colaborativos e a educa\u00e7\u00e3o", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 119, 
+      "name_en": "Education - Education", 
+      "name_pt": "Educa\u00e7\u00e3o - Educa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

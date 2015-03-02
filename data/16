@@ -2,26 +2,27 @@
   "resource": {
     "$type": "Proposal.normal", 
     "created": "Thu, 26 Feb 2015 22:32:02 GMT", 
-    "full": "Cilk Plus \u00e9 uma extens\u00e3o para as linguagens C e C++, que fornece algumas palavras chaves para a cria\u00e7\u00e3o de tasks, al\u00e9m de ferramentas para tirar proveito de vector units nas CPUs e co-processadores. O objetivo desta palestra \u00e9 apresentar o uso do Cilk Plus para constru\u00e7\u00e3o de aplica\u00e7\u00f5esparalelas, focando principalmente na linguagem C.\n\nCilk \u00e9 uma linguagem de programa\u00e7\u00e3o, implementada como uma extens\u00e3o da linguagem C, nascida no MIT, em 1994. A linguagem \u00e9 baseada em algumas palavras chave para tornar c\u00f3digos seriais em paralelo de forma simples, e um escalonador com uma pol\u00edtica de work-stealing.\n\nA linguagem viveu por mais de 10 anos em um nicho restrito de High Performancbbe Computing. Em 2006, a Cilk Arts foi criada para comercializa\u00e7\u00e3o do Cilk++, que incluia o suporte a C++, suporte a loops, hyperobjects, etc. A Intel adquiriu a Cilk Arts em 2009 e lan\u00e7ou, no ano seguinte, a marca Cilk Plus, que \u00e9 como a linguagem \u00e9 conhecida hoje.\n\nDispon\u00edvel em diversos compiladores (Intel C++ Compiler, GCC e Clang), a linguagem vem ganhando espa\u00e7o com suporte a coprocessadores e vector units. O objetivo desta palestra \u00e9 apresentar a pr\u00e1tica de programa\u00e7\u00e3o paralela utilizando o Cilk Plus, e por que n\u00e3o podemos mais fugir da programa\u00e7\u00e3o paralela.", 
+    "full": "Chapel, uma linguagem de programa\u00e7\u00e3o paralela, produtiva e expressiva\n\nChapel \u00e9 uma linguagem de programa\u00e7\u00e3o paralela e open source, nascida na Cray,\ne desenvolvida em parceria com universidades e players da ind\u00fastria de\ndesenvolvimento de software. Focada em tornar a programa\u00e7\u00e3o paralela mais\nprodutiva e fornecer solu\u00e7\u00f5es ortogonais para desenvolvedores interessados em\ntirar proveito do paralelismo dispon\u00edvel em seus computadores ou clusters.\n\nA linguagem utiliza o modelo de mem\u00f3ria PGAS (Partitioned Global Address\nSpace), que combina caracter\u00edsticas do modelo de mem\u00f3ria compartilhada com o\nmodelo de mem\u00f3ria distribu\u00edda, permitindo uma vis\u00e3o global da mem\u00f3ria\ndistribu\u00edda entre diversos n\u00f3s de computa\u00e7\u00e3o, mas ainda com acessos expl\u00edcitos\na tais posi\u00e7\u00f5es de mem\u00f3rias. O modelo tamb\u00e9m \u00e9 representado por linguagens como\nUPC, Co-Array Fortran, Titanium e X10.\n\nChapel tamb\u00e9m faz uso de outras abstra\u00e7\u00f5es de alto n\u00edvel para prover um modelo\nde execu\u00e7\u00e3o de paralelismo de dados, tasks e computa\u00e7\u00e3o distruibu\u00edda, partindo\nde um princ\u00edpio no qual desenvolvedores podem escrever c\u00f3digos em alto n\u00edvel,\nde forma mais gen\u00e9rica, e sob demanda, adicionar especificidades relacionadas\nao ambiente de execu\u00e7\u00e3o do software.\n\nNesta palestra, a plateia ter\u00e1 a oportunidade de conhecer a linguagem,\nexplorando suas caracter\u00edsticas (como generic programming, orienta\u00e7\u00e3o a objetos\ne, principalmente, programa\u00e7\u00e3o paralela) atrav\u00e9s de uma abordagem pr\u00e1tica,\nbuscando demonstrar benef\u00edcio real de utilizar a linguagem, al\u00e9m de uma vis\u00e3o\ndo futuro e uma chamada para contribuir com a evolu\u00e7\u00e3o da linguagem.", 
     "id": 16, 
     "language": "pt", 
+    "last_updated": "Sun, 01 Mar 2015 19:01:48 GMT", 
     "level": "beginner", 
     "owner": {
       "$type": "Account.safe", 
       "country": "Brazil", 
       "created": "Thu, 26 Feb 2015 22:30:17 GMT", 
       "id": 15, 
-      "last_updated": "Sat, 28 Feb 2015 18:44:00 GMT", 
+      "last_updated": "Mon, 02 Mar 2015 00:44:55 GMT", 
       "name": "Francisco Souza", 
       "organization": "Globo.com", 
-      "resume": "Core developer do tsuru, PaaS open source; fanboy de concorr\u00eancia e paralelismo."
+      "resume": "Desenvolvedor na Globo.com, onde ajuda a construir o tsuru, plataforma de cloud computing open source, utilizada em produ\u00e7\u00e3o na empresa. Tem experi\u00eancia no desenvolvimento de aplica\u00e7\u00f5es de larga escala, usando tecnologias como Python, Java, Go, Docker e, claro, Linux. Entusiasta em temas relacionados a sistemas operacionais, paralelismo e concorr\u00eancia."
     }, 
-    "title": "Concorr\u00eancia e paralelismo em C com Cilk Plus", 
+    "title": "Chapel, uma linguagem de programa\u00e7\u00e3o paralela, produtiva e expressiva", 
     "track": {
       "$type": "Track.normal", 
-      "id": 109, 
-      "name_en": "Development - Tools, Methodologies and Standards", 
-      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
       "public": true
     }
   }

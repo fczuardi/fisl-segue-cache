@@ -12,7 +12,8 @@
       "country": "Brazil", 
       "created": "Sat, 28 Feb 2015 01:05:11 GMT", 
       "id": 39, 
-      "name": "JOSE YOSHIRIRO AJISAKA RAMOS", 
+      "last_updated": "Sun, 01 Mar 2015 20:12:00 GMT", 
+      "name": "Jos\u00e9 Yoshiriro Ajisaka Ramos", 
       "organization": "Bandtec", 
       "resume": "Especialista em Engenharia de Sistemas \u00e9 atualmente professor universit\u00e1rio na Bandtec e l\u00edder t\u00e9cnico na QReservas. Possui v\u00e1rias certifica\u00e7\u00f5es internacionais e artigos publicados em revistas nacionais e dos EUA. Leciona desde 2004 e trabalha com desenvolvimento desde 2004. \u00c9 entusiasta da linguagem Go."
     }, 

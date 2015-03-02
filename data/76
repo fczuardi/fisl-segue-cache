@@ -1,4 +1,26 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sun, 01 Mar 2015 18:03:05 GMT", 
+    "full": "MariaDB \u00e9 um sistema de gest\u00e3o de bases de dados derivado do MySQL. Sua licen\u00e7a \u00e9 GPL e seus desenvolvedores -entre eles Michael (Monty) Widenius (criador do MySQL), juntamente com uma enorme comunidade, tem a inten\u00e7\u00e3o de mant\u00ea-lo fora dos apetites de neg\u00f3cios que querem fechar todo o c\u00f3digo fonte que poder cair em suas m\u00e3os.\nPor outro lado, wsrep (Write Set REPlication) \u00e9 uma tecnologia de replica\u00e7\u00e3o de dados que permite facilmente criar um cluster de v\u00e1rios servidores, que executam o MariaDB.\nIsto \u00e9 simplesmente essencial em ambientes em que h\u00e1 um grande volume de grava\u00e7\u00f5es em disco, leituras, e tamb\u00e9m precisam ter alta disponibilidade e equil\u00edbrio de carga.\nEsta simbiose entre MariaDB e wsrep est\u00e1 dispon\u00edvel apenas em ambientes Linux.\nFornece replica\u00e7\u00e3o s\u00edncrona, uma topologia multi-mestre ativo-ativo, gerenciamento autom\u00e1tico de membros do cluster e a replica\u00e7\u00e3o \u00e9 executada em paralelo a n\u00edvel de cada linha das tabelas do banco de dados.\nVamos tentar mostrar como \u00e9 f\u00e1cil montar um cluster com MariaDB, envolvendo tr\u00eas n\u00f3s e um controlador. Ap\u00f3s, vamos mostrar detalhes sobre como definir algumas vari\u00e1veis que ir\u00e3o criar uma solu\u00e7\u00e3o de alta disponibilidade, escal\u00e1vel tanto horizontal como verticalmente, sem perda de dados.", 
+    "id": 76, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Uruguay", 
+      "created": "Sun, 01 Mar 2015 18:01:24 GMT", 
+      "id": 67, 
+      "name": "Carlos P\u00edrez", 
+      "resume": "H\u00e1 25 anos trabalho na \u00e1rea de TI. Atualmente estou empregado em uma grande empresa de computa\u00e7\u00e3o em Montevid\u00e9u, Uruguai, revestindo como DBA e SysAdmin Linux. Fa\u00e7o parte da equipe que vai operar o segundo maior centro de dados do pa\u00eds, que entrar\u00e1 em funcionamento este ano."
+    }, 
+    "title": "No MariaDB em Linux: muitos mestres \u00e9 um cluster de BD", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 106, 
+      "name_en": "Administration - Databases", 
+      "name_pt": "Administra\u00e7\u00e3o - Bancos de Dados", 
+      "public": true
+    }
+  }
+}

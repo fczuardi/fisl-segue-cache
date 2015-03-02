@@ -1,4 +1,27 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sun, 01 Mar 2015 17:45:01 GMT", 
+    "full": "Quando come\u00e7amos a lidar com uma novo software, sempre h\u00e1 alguns termos e/ou \nconceitos que s\u00e3o diferentes daqueles softwares semelhantes que j\u00e1 conhecemos. \nCom banco de dados n\u00e3o \u00e9 diferente; h\u00e1 termos como MVCC e autovacuum e conceitos \ncomo conex\u00e3o e armazenamento que s\u00e3o (um pouco) diferentes no universo de SGBDs.\n\nNeste tutorial iremos apresentar conceitos e termos que s\u00e3o temas de perguntas \nfrequentes nas listas de discuss\u00e3o. Perguntas como \"o que \u00e9 locale?\", \"por que \neu n\u00e3o consigo me conectar no PostgreSQL?\" e \"como o PostgreSQL armazena os  \nmeus dados?\" ser\u00e3o respondidas durante a apresenta\u00e7\u00e3o.", 
+    "id": 75, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sun, 01 Mar 2015 16:52:22 GMT", 
+      "id": 66, 
+      "name": "Euler Taveira", 
+      "organization": "Timbira", 
+      "resume": "Diretor T\u00e9cnico da Timbira. Membro da equipe de desenvolvimento do PostgreSQL. Especialista em banco de dados. Palestrante regular em diversas confer\u00eancias nacionais e internacionais. Al\u00e9m de contribuir como desenvolvedor e revisor de patches, mant\u00e9m as tradu\u00e7\u00f5es em portugu\u00eas do PostgreSQL e projetos relacionados. Trabalha com PostgreSQL desde a vers\u00e3o 6.5 e \u00e9 um dos l\u00edderes do PostgreSQL Brasil."
+    }, 
+    "title": "Tudo o que voc\u00ea queria saber sobre PostgreSQL mas tinha vergonha de perguntar", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 106, 
+      "name_en": "Administration - Databases", 
+      "name_pt": "Administra\u00e7\u00e3o - Bancos de Dados", 
+      "public": true
+    }
+  }
+}

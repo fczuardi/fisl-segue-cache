@@ -1,4 +1,27 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Sun, 01 Mar 2015 22:02:50 GMT", 
+    "full": "Desde muito que a humanidade trabalha dependendo da energia. E desde muito que a lei da conserva\u00e7\u00e3o da energia vem fazendo com que os inventores e estudiosos de energias livres, \"moto perpetuos\" e dispositivos similares tenham dores de cabe\u00e7a no momento de implementar suas solu\u00e7\u00f5es. O motivo: A inquebr\u00e1vel afirma\u00e7\u00e3o de que \"Nada se cria, tudo se transforma\" n\u00e3o admite em nenhum momento  a produ\u00e7\u00e3o de energia, sen\u00e3o o aproveitamento da mesma atrav\u00e9s da transforma\u00e7\u00e3o. E como a transforma\u00e7\u00e3o tem sempre perdas inerentes ao proprio sistema, ningu\u00e9m pode afirmar que \"cria\" ou \"gera\" energia. \u00c9 a afirma\u00e7\u00e3o de que ningu\u00e9m pode ter uma sa\u00edda maior que a entrada (eficiencia maior que a unidade - \"Over one\").\nA presente palestra mostra varias fontes de energias alternativas e livres, e trata de analizar os problemas relativos a eficiencia e aproveitamento das mesmas, facilitando um entendimento claro sobre a rela\u00e7\u00e3o entre as cria\u00e7\u00f5es de dispositivos de energias livres, e a lei da conserva\u00e7\u00e3o da energia.\nUma forma simples e bem humorada de tratar de absorver e entender algumas das mais conhecidas formas de produzir (ou transformar) energia, de forma livre.", 
+    "id": 79, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Paraguay", 
+      "created": "Sun, 01 Mar 2015 21:12:54 GMT", 
+      "id": 70, 
+      "last_updated": "Sun, 01 Mar 2015 21:13:05 GMT", 
+      "name": "Sergio Pohlmann", 
+      "organization": "ycube.net"
+    }, 
+    "title": "Energ\u00edas Alternativas x Lei da Conserva\u00e7\u00e3o da Energ\u00eda", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 128, 
+      "name_en": "Trending Topics - Free Energy", 
+      "name_pt": "T\u00f3picos Emergentes - Energia Livre", 
+      "public": true
+    }
+  }
+}

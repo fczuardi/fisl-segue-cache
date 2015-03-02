@@ -11,10 +11,10 @@
       "country": "Brazil", 
       "created": "Thu, 26 Feb 2015 22:30:17 GMT", 
       "id": 15, 
-      "last_updated": "Sat, 28 Feb 2015 18:44:00 GMT", 
+      "last_updated": "Mon, 02 Mar 2015 00:44:55 GMT", 
       "name": "Francisco Souza", 
       "organization": "Globo.com", 
-      "resume": "Core developer do tsuru, PaaS open source; fanboy de concorr\u00eancia e paralelismo."
+      "resume": "Desenvolvedor na Globo.com, onde ajuda a construir o tsuru, plataforma de cloud computing open source, utilizada em produ\u00e7\u00e3o na empresa. Tem experi\u00eancia no desenvolvimento de aplica\u00e7\u00f5es de larga escala, usando tecnologias como Python, Java, Go, Docker e, claro, Linux. Entusiasta em temas relacionados a sistemas operacionais, paralelismo e concorr\u00eancia."
     }, 
     "title": "Paralelismo em Python", 
     "track": {
