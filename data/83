@@ -1,0 +1,26 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 10:59:00 GMT", 
+    "full": "Muito se discute a EAD em universidades: embora o ensino a dist\u00e2ncia cada vez ocupe mais espa\u00e7os, a resist\u00eancia a ela continua intensa. Este trabalho vai discutir a rela\u00e7\u00e3o entre a liberdade na rede, do software livre e suas 4 liberdades, e o ensino superior em ambiente online. Qual a diferen\u00e7a entre uma aula de gradua\u00e7\u00e3o online ou presencial? Todos os alunos podem acompanhar? Como integrar a cultura livre numa disciplina regular universit\u00e1rio? Como ficam os pap\u00e9is de aluno e professor se a sala de aula est\u00e1 na rede? Esses e outros pontos ser\u00e3o discutidos com base na experi\u00eancia realizada na UFMG desde 2006 e da qual emergiu a metodologia Texto Livre de ensino de l\u00ednguas.", 
+    "id": 83, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 10:55:43 GMT", 
+      "id": 78, 
+      "name": "Ana Cristina Fricke Matte", 
+      "resume": "Ana Cristina Fricke Matte concluiu o doutorado em semi\u00f3tica e linguistica geral pela Universidade de S\u00e3o Paulo em 2002. Atualmente \u00e9 professora doutora da Universidade Federal de Minas Gerais. Lidera o grupo de pesquisa Texto Livre: Semi\u00f3tica e Tecnologia, registrado no diret\u00f3rio de grupos do CNPq. Atua na \u00e1rea de Lingu\u00edstica Aplicada, com \u00eanfase em Semi\u00f3tica, na \u00e1rea interdisciplinar de linguagem"
+    }, 
+    "title": "As quatro liberdades no ensino universit\u00e1rio: conviv\u00eancia online", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 119, 
+      "name_en": "Education - Education", 
+      "name_pt": "Educa\u00e7\u00e3o - Educa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 15:33:09 GMT", 
+    "full": "Breve apresenta\u00e7\u00e3o da hist\u00f3ria por detr\u00e1s da forma\u00e7\u00e3o do CELTAB - Centro Latino-americane de Tecnologias Abertas, assim como dos pesquisadores que atualmente comp\u00f5em o grupo.", 
+    "id": 98, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 15:22:00 GMT", 
+      "id": 90, 
+      "name": "David Jourdain", 
+      "organization": "The Document Foundation", 
+      "resume": "Membro fundador e do comit\u00ea para novos membros e moderador das listas em l\u00edngua portuguesa da TDF.Mais de 12 anos \u201cmexendo\u201d no Kernel Linux. Mais de 100 palestras ministradas no Brasil, Chile, Argentina, Uruguai e Paraguai, ensinando sobre Kernel Linux e como organizar grupos de desenvolvedores de software livre."
+    }, 
+    "title": "O qu\u00ea \u00e9 o CELTAB, quem somos n\u00f3s e o qu\u00ea fazemos?", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 117, 
+      "name_en": "Ecosystem - Business, Migrations and Cases", 
+      "name_pt": "Ecossistema - Neg\u00f3cios, Migra\u00e7\u00f5es e Casos", 
+      "public": true
+    }
+  }
+}

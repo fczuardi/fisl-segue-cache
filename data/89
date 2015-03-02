@@ -1,0 +1,29 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 14:38:27 GMT", 
+    "full": "Neil Bowers from CPAN started a contest in January 2015 in order to get more people involved with CPAN and Perl distributions. CPAN Pull Request Challenge consists in attributing each contestant a different CPAN distribution for each month of 2015, the contestant must submit at least one Pull Request to the project at github by the end of the current month.\n\nThis talk presents the challenge from the perspective of three different contestants from different parts of Brazil, with different backgrounds. In July, each contestant will have worked in 7 different distributions, meaning that we may talk about 21 different Perl projects in different areas.\n\nhttp://neilb.org/2014/11/29/pr-challenge-2015.html", 
+    "id": 89, 
+    "language": "pt", 
+    "last_updated": "Mon, 02 Mar 2015 14:42:35 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 14:26:53 GMT", 
+      "id": 84, 
+      "last_updated": "Mon, 02 Mar 2015 14:55:59 GMT", 
+      "name": "Athos Ribeiro", 
+      "organization": "Universidade de Bras\u00edlia", 
+      "resume": "Estudante de Engenharia de Software da Universidade de Bras\u00edlia"
+    }, 
+    "title": "CPAN Pull Request Challenge", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

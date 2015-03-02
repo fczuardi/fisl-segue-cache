@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 13:35:04 GMT", 
+    "full": "A palestra visa apresentar a Godot Game Engine, ferramenta livre para cria\u00e7\u00e3o de games multiplataforma que possui uma interface gr\u00e1fica que permite a cria\u00e7\u00e3o de jogos em poucas horas de estudo.", 
+    "id": 87, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 13:34:38 GMT", 
+      "id": 82, 
+      "last_updated": "Mon, 02 Mar 2015 13:35:21 GMT", 
+      "name": "Relsi Maron", 
+      "organization": "CodeUP", 
+      "resume": "Co-fundador da CodeUp Software e da startup CodeFreelas, programador, trabalha com desenvolvimento de sistemas Web-based. Faz parte da comunidade python ga\u00facha."
+    }, 
+    "title": "Desenvolvendo Jogos com Software Livre -  Apresentando a Godot Game Engine -", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

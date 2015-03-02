@@ -1,0 +1,29 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 15:10:13 GMT", 
+    "full": "The Software Assurance Reference Dataset (SARD)provides users, researchers, and software security assurance tool developers with a set of known security flaws. This allows end users to evaluate tools and tool developers to test their methods. These test cases are designs, source code, binaries, etc. \n\nThe dataset includes \"wild\" (production), \"synthetic\" (written to test or generated), and \"academic\" (from students) test cases.\n\nThis database also contains real software application with known bugs and vulnerabilities. The dataset intends to encompass a wide variety of possible vulnerabilities, languages, platforms, and compilers. The dataset is anticipated to become a large-scale effort, gathering test cases from many contributors.\n\nhttp://samate.nist.gov/SARD/", 
+    "id": 93, 
+    "language": "pt", 
+    "last_updated": "Mon, 02 Mar 2015 15:10:56 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 14:26:53 GMT", 
+      "id": 84, 
+      "last_updated": "Mon, 02 Mar 2015 14:55:59 GMT", 
+      "name": "Athos Ribeiro", 
+      "organization": "Universidade de Bras\u00edlia", 
+      "resume": "Estudante de Engenharia de Software da Universidade de Bras\u00edlia"
+    }, 
+    "title": "SARD - Software Assurance Reference Dataset", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

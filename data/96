@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 15:29:00 GMT", 
+    "full": "- Neste workshop ser\u00e3o realizadas opera\u00e7\u00f5es b\u00e1sicas para introduzir o uso do software livre de edi\u00e7\u00e3o n\u00e3o-linear KDENLIVE, entre elas: a) interface e similaridade com demais programas de edi\u00e7\u00e3o n\u00e3o-linear; b) ferramentas de arrastar, cortar e agrupar; c) divis\u00f5es entre audio e video e sua visualiza\u00e7\u00e3o na interface; d) exportar e renderizar: criando novos arquivos de filme; e) filtros, efeitos, t\u00edtulos; f) dicas de organiza\u00e7\u00e3o e logging; g) aspectos t\u00e9cnicos essenciais para a renderiza\u00e7\u00e3o.", 
+    "id": 96, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 15:27:10 GMT", 
+      "id": 91, 
+      "last_updated": "Mon, 02 Mar 2015 15:29:15 GMT", 
+      "name": "breno dallas", 
+      "organization": "nucleo audiovisual tme", 
+      "resume": "Breno Dallas \u00e9 graduado em filosofia, e exerceu doc\u00eancia na \u00e1rea das ci\u00eancias humanas no Ensino M\u00e9dio e em projetos socioculturais de Educa\u00e7\u00e3o e Viv\u00eancia. Atualmente realiza atividades no campo da produ\u00e7\u00e3o cultural e audiovisual, tamb\u00e9m atuando como disseminador do software livre na produ\u00e7\u00e3o multim\u00eddia. \u00c9 coordenador pedag\u00f3gico do ponto de cultura N\u00facleo Audiovisual TME, espa\u00e7o realizador de curso"
+    }, 
+    "title": "Workshop: INTRODU\u00c7\u00c3O \u00c0 EDI\u00c7\u00c3O DE V\u00cdDEO NO KDENLIVE", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 113, 
+      "name_en": "Desktop - Multimedia", 
+      "name_pt": "Desktop - Multim\u00eddia", 
+      "public": true
+    }
+  }
+}

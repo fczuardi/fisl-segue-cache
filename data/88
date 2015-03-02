@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 13:52:43 GMT", 
+    "full": "Descubra como esse conceito formado por cinco novas especifica\u00e7\u00f5es (Templates, Decorators, Shadow DOM, Custom Elements, Imports) ir\u00e1 revolucionar o modo como desenvolvemos e interagimos na web. Vamos dar uma olhada em alguns dos elementos surpreendentes que j\u00e1 est\u00e3o sendo criados, e explorar como voc\u00ea pode come\u00e7ar a aproveitar-los em seus pr\u00f3prios projetos.", 
+    "id": 88, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 13:49:44 GMT", 
+      "id": 83, 
+      "last_updated": "Mon, 02 Mar 2015 13:50:00 GMT", 
+      "name": "Mateus Ortiz", 
+      "resume": "Criador do Web Components the Right Way entre outros projetos. Front-end Developer, j\u00e1 trabalhou como Front-end na Megaranto.com e em outra agencia. \u00e9 Paranaense, gosta muito de OpenSource e na maioria do tempo contribui em projetos OpenSource."
+    }, 
+    "title": "Desbravando Web Components", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

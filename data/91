@@ -1,0 +1,29 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 14:55:51 GMT", 
+    "full": "I spent 2014 as a guest researcher at the National Institute of Standards and Technology (NIST) in Maryland, USA, at the Software and Systems group, as a member of the SAMATE team.\nDuring the year I took part of the SATE V's Ockham Criteria analysis. This talk presents the results of the criteria for Frama C, a Free Software static analyzer that claims to be sound. I will also try to talk about how static analyzers report their bugs vs how researchers try to classify them and where the free software comunities/tools are regarding static analysis.\n\nhttp://samate.nist.gov/SATE.html", 
+    "id": 91, 
+    "language": "pt", 
+    "last_updated": "Mon, 02 Mar 2015 15:04:06 GMT", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 14:26:53 GMT", 
+      "id": 84, 
+      "last_updated": "Mon, 02 Mar 2015 14:55:59 GMT", 
+      "name": "Athos Ribeiro", 
+      "organization": "Universidade de Bras\u00edlia", 
+      "resume": "Estudante de Engenharia de Software da Universidade de Bras\u00edlia"
+    }, 
+    "title": "SATE V's Ockham Criteria", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

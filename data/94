@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 15:24:07 GMT", 
+    "full": "Um breve roteiro para que se entenda como conhecer o funcionamento do Kernel Linux", 
+    "id": 94, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 15:22:00 GMT", 
+      "id": 90, 
+      "name": "David Jourdain", 
+      "organization": "The Document Foundation", 
+      "resume": "Membro fundador e do comit\u00ea para novos membros e moderador das listas em l\u00edngua portuguesa da TDF.Mais de 12 anos \u201cmexendo\u201d no Kernel Linux. Mais de 100 palestras ministradas no Brasil, Chile, Argentina, Uruguai e Paraguai, ensinando sobre Kernel Linux e como organizar grupos de desenvolvedores de software livre."
+    }, 
+    "title": "Menuconfig \u2013 Sua \u201ccolher de pau\u201d para o kernel linux", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 107, 
+      "name_en": "Administration - Operating Systems", 
+      "name_pt": "Administra\u00e7\u00e3o - Sistemas operacionais", 
+      "public": true
+    }
+  }
+}

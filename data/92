@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 15:08:19 GMT", 
+    "full": "Uma vis\u00e3o aprofundada sobre a Arquitetura do CartolaFC e sobre as li\u00e7\u00f5es aprendidas no projeto, mostrando detalhes importantes de como ele consegue ser din\u00e2mico, suportar grande acesso simul\u00e2neo e atualizar um enorme volume de dados a cada rodada do Campeonato Brasileiro utilizando tecnologias opensource como Python, Nginx, Tornado e Mysql.", 
+    "id": 92, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 14:58:11 GMT", 
+      "id": 87, 
+      "last_updated": "Mon, 02 Mar 2015 15:10:17 GMT", 
+      "name": "Alexandre Saboia Fuziyama", 
+      "organization": "Globo.com", 
+      "resume": "S\u00eanior WebDeveloper na Globo.com, Bacharel em Inform\u00e1tica pela PUC-Rio, apaixonado pela metodologia \u00e1gil, venho desde 2002 trabalhando com sistemas web desafiadores focados em performance e grandes volumes de acesso. CartolaFC, Globoesporte s\u00e3o alguns exemplos."
+    }, 
+    "title": "Nas internas do CartolaFC", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

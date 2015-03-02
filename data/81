@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 10:06:07 GMT", 
+    "full": "Apresentar uma metodologia s\u00edncrona de ensino aprendizagem para complementar e apoiar o sistema de ensino a dist\u00e2ncia - ead - , usando recursos de multim\u00eddia dispon\u00edveis nos computadores atuais, webcam, microfone, videos, a\u00fadios, usando uma plataforma web constru\u00edda com software livre, openmeetings usado no Serpro.", 
+    "id": 81, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 10:05:12 GMT", 
+      "id": 75, 
+      "last_updated": "Mon, 02 Mar 2015 10:06:17 GMT", 
+      "name": "M\u00e1rcio Xavier", 
+      "organization": "SERPRO", 
+      "resume": "Especialista em Seguran\u00e7a da Informa\u00e7\u00e3o pela Universidade de Brasilia, Analista de Sistemas pela Universidade Salvador e Tecnico em Opera\u00e7\u00e3o de Redes no SERPRO. Especialista em Servidores de Aplica\u00e7\u00e3o Web JBOSS, Tomcat e Apache, atualmente trabalha na coordena\u00e7\u00e3o do Comit\u00ea de Implementa\u00e7\u00e3o de Software Livre no Governo Federal com palestras e eventos que incentivam a ado\u00e7\u00e3o do SL no Governo."
+    }, 
+    "title": "Webconfer\u00eancia com Software Livre", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 119, 
+      "name_en": "Education - Education", 
+      "name_pt": "Educa\u00e7\u00e3o - Educa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 12:58:50 GMT", 
+    "full": "Devido a grande utiliza\u00e7\u00e3o desse tipo de ataque \u00e9 importante a prepara\u00e7\u00e3o dos profissionais e estudantes de seguran\u00e7a da informa\u00e7\u00e3o para combater esses poss\u00edveis tipos de ataques! Como s\u00e3o realizados ataques de Engenharia Social, que \u00e9 uma t\u00e9cnica hacker n\u00e3o tecnol\u00f3gica, utilizando uma su\u00edte de ferramentas livres para auxiliar nos ataques.", 
+    "id": 86, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 11:34:50 GMT", 
+      "id": 81, 
+      "last_updated": "Mon, 02 Mar 2015 12:58:55 GMT", 
+      "name": "Alcyon Ferreira de Souza Junior", 
+      "organization": "PortalTIC - UCB - UNIP", 
+      "resume": "Consultor, Instrutor e Palestrante sobre Seguran\u00e7a Cibern\u00e9tica e Software Live, Professor na Universidade Cat\u00f3lica de Bras\u00edlia e UNIP e diretor do PortalTIC http://portaltic.com. Tr\u00eas gradua\u00e7\u00f5es em TI, com \u00eanfase em redes de computador. Especialista em Redes de Computador pela CISCO e MBA em Governan\u00e7a de TI. Mestre em Seguran\u00e7a Cibern\u00e9tica. Certifica\u00e7\u00f5es: ISO/IEC 27002 (ISFS), CNAP, MVM e LPIC-1."
+    }, 
+    "title": "Engenharia Social - No-Tech Hacking with Tech Hacking", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 127, 
+      "name_en": "Trending Topics - Privacy and Surveillance", 
+      "name_pt": "T\u00f3picos Emergentes - Privacidade e Vigil\u00e2ncia", 
+      "public": true
+    }
+  }
+}
