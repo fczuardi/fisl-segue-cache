@@ -2,9 +2,10 @@
   "resource": {
     "$type": "Proposal.normal", 
     "created": "Sat, 28 Feb 2015 11:56:46 GMT", 
-    "full": "Relato sobre o desenvolvimento e uso de software livre de mapeamento colaborativo para o combate ao trabalho prec\u00e1rio na Amaz\u00f4nia .", 
+    "full": "Relato sobre o desenvolvimento e uso de software livre de mapeamento colaborativo para o combate ao trabalho prec\u00e1rio na Amaz\u00f4nia.\n\nSIMVIDA \u00e9 um sistema de mapeamento colaborativo integrando um site com um aplicativo m\u00f3vel com mapa e realidade aumentada, que permite realizar de forma r\u00e1pida denuncias sobre condi\u00e7\u00f5es de trabalho prec\u00e1rio e infantil de forma geolocalizada. O sistema permite que a Ouvidoria do Tribunal Regional do Trabalho da Oitava regi\u00e3o possa registrar, processar e encaminhar denuncias anonimas realizadas em todo o estado do Par\u00e1 e Amap\u00e1.\n\nhttps://www.youtube.com/watch?v=F6ZcF_z358s\n\n\nO sistema foi desenvolvido pelo Lablivre - Laborat\u00f3rio de tecnologias livres usando o CMS Joomla e o App Mixare ambos softwares livres", 
     "id": 45, 
     "language": "pt", 
+    "last_updated": "Tue, 03 Mar 2015 09:42:20 GMT", 
     "level": "beginner", 
     "owner": {
       "$type": "Account.safe", 

@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Tue, 03 Mar 2015 09:07:52 GMT", 
+    "full": "Voc\u00ea j\u00e1 deve ter escutado \"Putz, Backbone \u00e9 complicado\" ou at\u00e9 mesmo j\u00e1 disse \"Ah! \u00e9 muito verboso\" e \"Pi\u00e1, arquiteturas MV* s\u00e3o coisas do capeta\".\n\nEsque\u00e7a tudo isso, esta palestra ir\u00e1 simplificar e desmistificar o BackboneJS, arquitetura MV* e API REST.", 
+    "id": 107, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Tue, 03 Mar 2015 09:03:58 GMT", 
+      "id": 106, 
+      "last_updated": "Tue, 03 Mar 2015 09:09:37 GMT", 
+      "name": "Gabriel Zigolis", 
+      "organization": "Arezzo & Co", 
+      "resume": "Arquiteto Front-End nos e-commerces da Arezzo (Schutz, Arezzo, Anacapri), core-committer no PopcornTime, um dos criadores do projeto Open Source blogMV*, autor na Front-End Magazine e um dos organizadores do Floripa Devs Meetup.\n\nhttps://twitter.com/zigolis\nhttps://www.facebook.com/zigolis\nhttp://www.linkedin.com/pub/gabriel-gottgtroy-zigolis/15/706/658\nhttp://www.zigolis.com"
+    }, 
+    "title": "Hello mundo REST, com BackboneJS", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

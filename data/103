@@ -1,4 +1,27 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 21:29:58 GMT", 
+    "full": "O SuperTuxKart (STK) \u00e9 um dos mais populares jogos 3D de corrida atualmente desenvolvidos como software livre. O STK apresenta cerca de 20 pistas de corrida, suporte a at\u00e9 4 jogadores simult\u00e2neos e diversos modos de jogo (Grand Prix, Single Race, Time Trial, dentre outros). Esta palestra apresenta como um novo carrinho para o STK pode ser desenvolvido -- utilizando a ferramenta de modelagem e renderiza\u00e7\u00e3o 3D Blender -- e facilmente instalado como um plugin do STK. Ser\u00e3o discutidos algumas t\u00e9cnicas de modelagem, mapeamento UV e dicas para melhorar o desempenho do carrinho constru\u00eddo. Um roteiro passo a passo ser\u00e1 entregue como produto da palestra, de modo que os participantes possam desenvolver seus pr\u00f3prios carrinhos em casa.", 
+    "id": 103, 
+    "language": "pt", 
+    "last_updated": "Mon, 02 Mar 2015 21:32:13 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 21:17:09 GMT", 
+      "id": 103, 
+      "last_updated": "Tue, 03 Mar 2015 00:42:03 GMT", 
+      "name": "Sandro Santos Andrade"
+    }, 
+    "title": "Crie seu pr\u00f3prio carrinho para o SuperTuxKart usando o Blender", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 114, 
+      "name_en": "Desktop - Games", 
+      "name_pt": "Desktop - Jogos", 
+      "public": true
+    }
+  }
+}

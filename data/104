@@ -1,4 +1,27 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Mon, 02 Mar 2015 22:06:44 GMT", 
+    "full": "Diversos projetos de software livre oferecem comunidades abertas, em que \u00e9 poss\u00edvel contribuir, por exemplo, por meio do envio de novas funcionalidades ou corre\u00e7\u00f5es de defeitos. Entretanto, para contribuir, h\u00e1 mais barreiras do que voc\u00ea possa imaginar, podendo tornar o primeiro contato desmotivante e frustrante. Durante o primeiro contato com um projeto de software livre os novatos enfrentam diversas barreiras relacionadas ao processo, relacionamento interpessoal e t\u00e9cnicas que precisam ser ultrapassadas pelo novato para conseguir contribuir efetivamente. Para auxiliar os novatos a realizarem sua primeira contribui\u00e7\u00e3o, \u00e9 necess\u00e1rio, primeiramente, que as barreiras enfrentadas nesse per\u00edodo sejam identificadas e entendidas. Em um estudo para identificar essas barreiras, 58 barreiras foram organizadas em um modelo com 7 diferentes categorias: Orienta\u00e7\u00e3o dos novatos; Caracter\u00edsticas dos novatos; Comunica\u00e7\u00e3o; Documenta\u00e7\u00e3o; Configura\u00e7\u00e3o do ambiente local; C\u00f3digo/arquitetura; Submiss\u00e3o de mudan\u00e7a. \nCom base nas barreiras identificadas e nas entrevistas realizadas, foi constru\u00eddo o portal FLOSScoach (www.flosscoach.com), um portal para apoiar os primeiros passos de novatos em projetos de software livre. Informa\u00e7\u00f5es e estrat\u00e9gias j\u00e1 existentes nos projetos foram organizadas dentro do portal. Ali, o novato encontra informa\u00e7\u00f5es sobre as habilidades necess\u00e1rias para desenvolver para os projetos, o passo-a-passo para a contribui\u00e7\u00e3o, a localiza\u00e7\u00e3o de recursos como reposit\u00f3rio de c\u00f3digo fonte, gerenciador de tarefas e lista de e-mails, uma lista de tarefas adequadas para novatos (quando fornecidas pelo projeto) e dicas de como se portar frente \u00e0 comunidade. O portal FLOSScoach \u00e9 mantido por pesquisadores da USP e est\u00e1 dispon\u00edvel para acesso p\u00fablico.\nDesse estudo tamb\u00e9m foram derivadas algumas recomenda\u00e7\u00f5es aos novatos que desejem contribuir com projetos de software livre, e para comunidades que desejem melhor receber novatos. O que ser\u00e1 discutido nessa palestra", 
+    "id": 104, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 22:06:31 GMT", 
+      "id": 104, 
+      "name": "Igor Steinmacher", 
+      "organization": "UTFPR", 
+      "resume": "Doutor em Ci\u00eancia da Computa\u00e7\u00e3o pelo IME-USP, \u00e9 professor da Universidade Tecnol\u00f3gica Federal do Paran\u00e1 (UTFPR) Campus Campo Mour\u00e3o, e pesquisador do Centro de Compet\u00eancia em Software Livre (CCSL) da Universidade de Sao Paulo.  Nos \u00faltimos anos tem se dedicado a entender aspectos sociais de comunidade de Software Livre, tendo como foco principal problemas e suporte a novatos."
+    }, 
+    "title": "Deixem-me ajudar! Barreiras enfrentadas por novatos em projetos de software livr", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}
