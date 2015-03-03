@@ -1,4 +1,27 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Tue, 03 Mar 2015 14:11:15 GMT", 
+    "full": "Essa palestra far\u00e1 um overview das ferramentas open source dispon\u00edveis para an\u00e1lises de dados em Python, entre elas: pandas, matplotlib, seaborn, bokeh, numpy, scipy,  scikit-learn e IPython. Tamb\u00e9m apresentar\u00e1 uma nova biblioteca que est\u00e1 sendo desenvolvida pelo autor para execu\u00e7\u00e3o de SQL em dataframes Pandas, chamada sandals. Essa ferramenta deve diminuir a curva de aprendizado para usu\u00e1rios que tenham familiaridade com a linguagem SQL. Tamb\u00e9m ser\u00e1 discutido o uso de Python em Spark, o que permite a an\u00e1lise de grandes volumes de dados. Por fim, ser\u00e3o demonstrados alguns exemplos pr\u00e1ticos de como essas ferramentas s\u00e3o usadas para an\u00e1lise de dados na globo.com.", 
+    "id": 118, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Tue, 03 Mar 2015 14:11:06 GMT", 
+      "id": 114, 
+      "name": "Juarez Bochi", 
+      "organization": "globo.com", 
+      "resume": "Formado em Engenharia El\u00e9trica pela UFRGS em 2000. Mestrando em inform\u00e1tica pela PUC-RIO. Eng. de Software Sr. da globo.com desde 2012."
+    }, 
+    "title": "Data Science com Python", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

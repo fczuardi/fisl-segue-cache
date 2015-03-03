@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Tue, 03 Mar 2015 13:54:18 GMT", 
+    "full": "O objetivo da oficina\n\n\u00c9 produzir anima\u00e7\u00f5es, e tamb\u00e9m proporcionar um aprendizado aos participantes. Nosso trabalhos s\u00e3o realizados com crian\u00e7as e educadores de escolas publica,e eventos.\n\nA oficina de anima\u00e7\u00e3o consiste na explica\u00e7\u00e3o do processo de retirada de fotos sequenciais que geram a ideia de movimento, e na realiza\u00e7\u00e3o, pelas pr\u00f3prias crian\u00e7as, adolescentes. de uma anima\u00e7\u00e3o desde a conceitua\u00e7\u00e3o do roteiro at\u00e9 a manipula\u00e7\u00e3o dos personagens.\n\nFoi atrav\u00e9s deste ideal de trabalho o qual venho aplicando, \u00e9 desenvolver uma parceria com o\nobjetivo de trocar experi\u00eancias. O in\u00edcio desse projeto teve como base de pesquisa o desenvolvimento de uma anima\u00e7\u00e3o com as alunas que frequentam as aulas.\n\nO objetivo da oficina consiste na constru\u00e7\u00e3o de uma anima\u00e7\u00e3o totalmente realizada pelos alunos ou professores.usando material reciclado desde a concep\u00e7\u00e3o.\n\nCaptura das imagens.O processo da oficina estimula a criatividade e resulta na cria\u00e7\u00e3o integral de\num produto final. Al\u00e9m disso, o desenvolvimento de um processo narrativo possibilita que sejam vivenciados, atrav\u00e9s da dramatiza\u00e7\u00e3o das imagens, v\u00e1rios conte\u00fados.\n\nOBJETIVOS ESPEC\u00cdFICOS\n\nDemonstrar o potencial educacional da linguagens da anima\u00e7\u00e3o e incentivar o seu uso com instrumento di\u00e1dico.\nInverter o papel, antes apenas passivo, das crian\u00e7as diante dos filmes de anima\u00e7\u00e3o.\nDifundir a arte da anima\u00e7\u00e3o, descobrindo e estimulando novos talentos.\nProporcionar uma atividade extracurricular ao mesmo tempo divertidas e educativa,\nenvolvendo professores a alunos na cria\u00e7\u00e3o art\u00edstica.\nGerar um material did\u00e1tico diferenciado que ficar\u00e1 \u00e1 disposi\u00e7\u00e3o das escolas para uso em\nsala. Para as crian\u00e7as o interesse \u00e9 redobrado j\u00e1 al\u00e9m de tratar anima\u00e7\u00e3o, s\u00e3o filmes realizados e estralados por elas mesmas\n\nA\u00c7\u00d5ES:\n\nTem o intuito de produzir conhecimentos e recursos adaptados que contribuam para a atualiza\u00e7\u00e3o\npermanente dos professores, bem como para o desenvolvimento e aprendizado dos alunos.\n\nsoftwares:Mua,luciole.", 
+    "id": 117, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Tue, 03 Mar 2015 13:21:01 GMT", 
+      "id": 113, 
+      "last_updated": "Tue, 03 Mar 2015 13:22:28 GMT", 
+      "name": "Rosinaldo Pinheiro", 
+      "organization": "A Turma do A\u00e7a\u00ed", 
+      "resume": "Curso de Designer Gr\u00e1fico- Faculdade de Tecnologia da Amaz\u00f4nia\n\n\n3. Forma\u00e7\u00e3o Complementar \n\nCurso de Designer Gr\u00e1fica e M\u00e9dias Digital\nCurso de Inform\u00e1tica, no per\u00edodo de 14/05 a 01/06/2007 ( SERPRO )Curso Gimp, tratamento de imagens, restaura\u00e7\u00e3o e montagem de fotos digitais\nCurso Inkscape trabalhos vetorial de imagens/ Luciole. Anima\u00e7\u00e3o Stop Motion\n\nPalestrante:fisl16softwarelivre,POA 2014"
+    }, 
+    "title": "Reciclar e Animar com a Turma do A\u00e7a\u00ed", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 119, 
+      "name_en": "Education - Education", 
+      "name_pt": "Educa\u00e7\u00e3o - Educa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}
