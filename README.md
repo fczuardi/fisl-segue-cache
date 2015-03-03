@@ -20,6 +20,10 @@ Como usar
 
 	. bin/get_page.sh [numero_da_pagina]
 
+### Busca
+
+	. bin/search.sh [keyword]
+
 ### Listar autores
 
 	. bin/list_authors.sh 
