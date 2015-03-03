@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Tue, 03 Mar 2015 20:18:49 GMT", 
+    "full": "H\u00e1 alguns anos, muitas pessoas diziam que Rails n\u00e3o escalava. Atualmente, existem muitas aplica\u00e7\u00f5es grandes em Rails que mostram que isso n\u00e3o \u00e9 verdade. Mas quando seu projeto cresce, at\u00e9 que ponto vale manter tudo numa \u00fanica aplica\u00e7\u00e3o?\n\nNesta apresenta\u00e7\u00e3o, vou mostrar detalhes de uma arquitetura distribu\u00edda com servi\u00e7os, apresentando os principais pontos positivos e negativos desta abordagem. Ser\u00e1 apresentado como exemplo o caso dos projetos Globosat Play (http://globosatplay.globo.com) e Globo.tv (http://globotv.globo.com/), onde utilizamos esta arquitetura para permitir que diferentes times trabalhem juntos.", 
+    "id": 130, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Tue, 03 Mar 2015 20:16:41 GMT", 
+      "id": 126, 
+      "name": "Guilherme Garnier", 
+      "organization": "Globo.com", 
+      "resume": "Software developer with more than 10 years of experience in languages such as C++, Java, PHP and Perl. Currently working with Ruby on Rails at Globo.com. I maintain my personal blog at http://blog.guilhermegarnier.com"
+    }, 
+    "title": "Arquitetura Distribu\u00edda: Escalando times e projetos", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

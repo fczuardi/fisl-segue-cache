@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Tue, 03 Mar 2015 16:26:08 GMT", 
+    "full": "Com todo o movimento empreendedor nos \u00faltimos anos, at\u00e9 surgiram alguns produtos de sucesso, algumas empresas at\u00e9 mesmo foram vendidas por valores consider\u00e1veis.\nPor\u00e9m, comparando-se com outros polos de tecnologia, ainda estamos engatinhando.\nEssa palestra \u00e9 uma breve reflex\u00e3o sobre os problemas que impedem o pr\u00f3ximo Vale do Sil\u00edcio surgir na America Latina.", 
+    "id": 125, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Tue, 03 Mar 2015 16:13:07 GMT", 
+      "id": 119, 
+      "last_updated": "Tue, 03 Mar 2015 16:13:58 GMT", 
+      "name": "Diego Hernandes", 
+      "organization": "CaagCRM", 
+      "resume": "Diego, atualmente, trabalha como Engenheiro de Software SaaS na CaagCRM (caagcrm.com) e presta consultoria sobre implanta\u00e7\u00e3o e desenvolvimento de aplica\u00e7\u00f5es escal\u00e1veis de miss\u00e3o cr\u00edtica, com clientes em v\u00e1rios pa\u00edses. Em seu tempo livre, ajuda a comunidade brasileira de usu\u00e1rios do Laravel (www.laravel.com.br), escrevendo artigos e co-apresentando hangouts."
+    }, 
+    "title": "Onde est\u00e3o nossas Startups Bilhon\u00e1rias?", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 117, 
+      "name_en": "Ecosystem - Business, Migrations and Cases", 
+      "name_pt": "Ecossistema - Neg\u00f3cios, Migra\u00e7\u00f5es e Casos", 
+      "public": true
+    }
+  }
+}

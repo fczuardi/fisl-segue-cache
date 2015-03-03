@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Tue, 03 Mar 2015 20:19:36 GMT", 
+    "full": "Ningu\u00e9m gosta de esperar enquanto um site carrega. Quando mais lento o seu site, maior a insatisfa\u00e7\u00e3o do usu\u00e1rio, e maiores as chances de que ele desista de esperar.\n\nExistem diversas t\u00e9cnicas para deixar seu site mais r\u00e1pido, ou pelo menos criar ilus\u00f5es para melhorar a percep\u00e7\u00e3o de seus usu\u00e1rios. Nesta palestra, apresentarei algumas destas t\u00e9cnicas, tanto no client quanto no server side, para deixar a melhor impress\u00e3o poss\u00edvel para seus usu\u00e1rios. Apresentarei tamb\u00e9m ferramentas para monitorar o desempenho da sua aplica\u00e7\u00e3o, para ajudar a encontrar os principais pontos onde ela pode ser otimizada.", 
+    "id": 131, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Tue, 03 Mar 2015 20:16:41 GMT", 
+      "id": 126, 
+      "name": "Guilherme Garnier", 
+      "organization": "Globo.com", 
+      "resume": "Software developer with more than 10 years of experience in languages such as C++, Java, PHP and Perl. Currently working with Ruby on Rails at Globo.com. I maintain my personal blog at http://blog.guilhermegarnier.com"
+    }, 
+    "title": "Otimizando o desempenho de aplica\u00e7\u00f5es web", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

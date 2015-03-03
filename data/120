@@ -1,4 +1,27 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Tue, 03 Mar 2015 16:11:08 GMT", 
+    "full": "A evas\u00e3o escolar \u00e9 um problema de p\u00fablico e not\u00f3rio conhecimento. As \u00e1reas relacionadas com a inform\u00e1tica n\u00e3o ficam alheias ao problema: Um enorme contingente de poss\u00edveis futuros profissionais termina desistindo da carreira em virtude de uma variedade de fatores internos e externos a universidade.\nEm um estudo extenso efetuado em uma universidade privada no Paraguai, se buscou identificar os fatores e caracter\u00edsticas fundamentais que determinavam o abandono da carreira, assim como tratar de implementar algumas propostas alternativas com o fim de atrair e manter os estudantes \"conectados\" com a carreira, e identificados com a universidade.\nOs resultados estat\u00edsticos desta extensa pesquisa (utilizados em projetos de mestrados na \u00e1rea de educa\u00e7\u00e3o), e os resultados pr\u00e1ticos obtidos com a proposta de reten\u00e7\u00e3o de estudantes, \u00e9 o material compartilhado pelos autores nesta palestra.", 
+    "id": 120, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Paraguay", 
+      "created": "Sun, 01 Mar 2015 21:12:54 GMT", 
+      "id": 70, 
+      "last_updated": "Sun, 01 Mar 2015 21:13:05 GMT", 
+      "name": "Sergio Pohlmann", 
+      "organization": "ycube.net"
+    }, 
+    "title": "Deser\u00e7\u00e3o universitaria - A influencia da liberdade e do desafio Pessoal", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 119, 
+      "name_en": "Education - Education", 
+      "name_pt": "Educa\u00e7\u00e3o - Educa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Tue, 03 Mar 2015 19:47:11 GMT", 
+    "full": "\u00c9 poss\u00edvel termos a ideia de como era a face de um indiv\u00edduo, recebendo como \u00fanica informa\u00e7\u00e3o o seu cr\u00e2nio? A resposta \u00e9 sim! Atrav\u00e9s da t\u00e9cnica de reconstru\u00e7\u00e3o/aproxima\u00e7\u00e3o digital podemos ter acesso a estrutura facial de uma pessoa e trazer novamente o brilho da vida em seu olhar. Muito usada no campo forense como t\u00e9cnica auxiliar de identifica\u00e7\u00e3o, a reconstru\u00e7\u00e3o facial tamb\u00e9m pode ser aplicada na arqueologia e na antropologia, revelando os rostos de pessoas e homin\u00eddeos que participaram da hist\u00f3ria humana ao longo de milh\u00f5es de anos. Mais do que apenas \u201creviver\u201d indiv\u00edduos esse campo de conhecimentos tem contribu\u00eddo solidamente com outras \u00e1reas, como a cirurgia ortogn\u00e1tica, a cirurgia pl\u00e1stica, a documenta\u00e7\u00e3o de cenas de crimes e a confec\u00e7\u00e3o de pr\u00f3teses para humanos e outros animais.", 
+    "id": 129, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Tue, 03 Mar 2015 19:44:19 GMT", 
+      "id": 124, 
+      "last_updated": "Tue, 03 Mar 2015 19:47:21 GMT", 
+      "name": "C\u00edcero Andr\u00e9 da Costa Moraes", 
+      "organization": "Ebrafol / Arc-Team", 
+      "resume": "C\u00edcero Moraes \u00e9 um 3D designer brasileiro especializado em reconstru\u00e7\u00e3o facial (forense) digital, vice-coordenador da Equipe Brasileira de Antropologia Forense e Odontologia Legal (EBRAFOL) e integrante do grupo de pesquisas arqueol\u00f3gicas Arc-Team da It\u00e1lia. Usu\u00e1rio de software livre e de c\u00f3digo aberto h\u00e1 10 anos, participou de in\u00fameras eventos de inform\u00e1tica, arqueologia e odontologia legal."
+    }, 
+    "title": "Faces da evolu\u00e7\u00e3o e da hist\u00f3ria: Dando vida ao passado com o Blender e o SL", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 113, 
+      "name_en": "Desktop - Multimedia", 
+      "name_pt": "Desktop - Multim\u00eddia", 
+      "public": true
+    }
+  }
+}

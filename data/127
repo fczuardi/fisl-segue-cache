@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Tue, 03 Mar 2015 19:12:25 GMT", 
+    "full": "Est\u00e1 apresenta\u00e7\u00e3o ser\u00e1 feita para iniciantes. Durante a apresenta\u00e7\u00e3o ir\u00e3o ser explicados o que \u00e9 YARN(segunda vers\u00e3o do MapReduce), quais s\u00e3o as diferen\u00e7as entras as vers\u00f5es. Tamb\u00e9m v\u00e3o ser apresentados os conceitos inerentes ao funcionamento e arquitetura do YARN, bem como a motiva\u00e7\u00e3o para o uso da tecnologia nos dias de hoje.", 
+    "id": 127, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Tue, 03 Mar 2015 18:59:23 GMT", 
+      "id": 122, 
+      "last_updated": "Tue, 03 Mar 2015 19:12:31 GMT", 
+      "name": "Kassiano Matteussi", 
+      "organization": "PUCRS", 
+      "resume": "Estudante de Mestrado em Ci\u00eancia da Computa\u00e7\u00e3o!"
+    }, 
+    "title": "YARN! A nova gera\u00e7\u00e3o do MapReduce.", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 107, 
+      "name_en": "Administration - Operating Systems", 
+      "name_pt": "Administra\u00e7\u00e3o - Sistemas operacionais", 
+      "public": true
+    }
+  }
+}

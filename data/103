@@ -12,8 +12,10 @@
       "country": "Brazil", 
       "created": "Mon, 02 Mar 2015 21:17:09 GMT", 
       "id": 103, 
-      "last_updated": "Tue, 03 Mar 2015 00:42:03 GMT", 
-      "name": "Sandro Santos Andrade"
+      "last_updated": "Tue, 03 Mar 2015 18:20:18 GMT", 
+      "name": "Sandro Santos Andrade", 
+      "organization": "IFBa / KDE", 
+      "resume": "Sandro \u00e9 professor do Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia da Bahia (IFBa), Doutor em Ci\u00ebncia da Computa\u00e7\u00e3o, desenvolvedor C++/Qt h\u00e1 17 anos e colaborador nos projetos Qt e KDE h\u00e1 8 anos. \u00c9 o criador e mantenedor do QtModeling (m\u00f3dulo do Qt5 para MDSE) e j\u00e1 realizou contribui\u00e7\u00f5es em projetos tais como KDevelop, QtCreator e KDE Plasma."
     }, 
     "title": "Crie seu pr\u00f3prio carrinho para o SuperTuxKart usando o Blender", 
     "track": {
