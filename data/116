@@ -1,4 +1,26 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Tue, 03 Mar 2015 11:04:01 GMT", 
+    "full": "Veja nesta palestra conceitos de escalabilidade aplicados na pr\u00e1tica com exemplos e casos de uso. Cada problema \u00e9 proposto uma solu\u00e7\u00e3o e analisado o impacto positivo ou negativo. S\u00e3o discutidos conceitos fundamentais como load balancing, replica\u00e7\u00e3o, sharding e assuntos mais avan\u00e7ados como anycast, bgp, GSLB. Tamb\u00e9m \u00e9 mostrado como o Mongo e o Cassandra fazem para ser escal\u00e1veis. Para quem tem curiosidade de saber como um \u00fanico dom\u00ednio, IP ou v\u00e1rios IPs consegue convergir em v\u00e1rias m\u00e1quinas, esta palestra pode ser um bom ponto de partida.", 
+    "id": 116, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Tue, 03 Mar 2015 11:01:29 GMT", 
+      "id": 110, 
+      "name": "Leandro Moreira", 
+      "resume": "Software Engineer with 10+ years of broad work experience. Working with distributed systems and high scalability systems. Using technologies/practices such as Agile, Unix, Ruby, Java, Python, C, JavaScript, NoSql and even VB. Currently working @ globo.com with live streaming video distribution."
+    }, 
+    "title": "Um conto de escalabilidade: de uma m\u00e1quina para m\u00faltiplos data centers", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 117, 
+      "name_en": "Ecosystem - Business, Migrations and Cases", 
+      "name_pt": "Ecossistema - Neg\u00f3cios, Migra\u00e7\u00f5es e Casos", 
+      "public": true
+    }
+  }
+}
