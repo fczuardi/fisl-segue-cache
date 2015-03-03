@@ -10,7 +10,7 @@ Como usar
 ### Ver titulos das propostas
 
 	cd fisl-segue-cache
-	. bin/list_titles.sh
+	. bin/titles.sh
 
 ### Ver uma proposta
 
@@ -26,4 +26,4 @@ Como usar
 
 ### Listar autores
 
-	. bin/list_authors.sh 
+	. bin/authors.sh 
