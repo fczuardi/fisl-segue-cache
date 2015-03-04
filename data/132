@@ -1,4 +1,29 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Tue, 03 Mar 2015 21:24:53 GMT", 
+    "full": "Esta \u00e9 uma palestra pr\u00e1tica de n\u00edvel iniciante a m\u00e9dio que tem como objetivo exercitar a mente dos participantes atrav\u00e9s da demonstra\u00e7\u00e3o das diferentes possibilidades de visualizar seus logs de eventos em um ambiente que transforma uma massa de dados aparentemente sem sentido e polu\u00edda em conhecimento interativo e visualmente explor\u00e1vel.\n\nCompondo este ambiente teremos a demonstra\u00e7\u00e3o dos extratores de informa\u00e7\u00f5es com dados provenientes de logs* de banco PostgreSQL e do JBoss, dos transformadores de dados para um formato padr\u00e3o aceit\u00e1vel utilizando Logstash e ElasticSearch, bem como a gera\u00e7\u00e3o de documentos orientados a dados, utilizando ferramentas como D3 e Kibana.\n\n* os logs utilizados como exemplo ser\u00e3o provenientes do PostgreSQL e do JBoss, entretanto o conceito se aplica a qualquer registro de eventos.", 
+    "id": 132, 
+    "language": "pt", 
+    "last_updated": "Tue, 03 Mar 2015 23:22:17 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Tue, 03 Mar 2015 20:34:28 GMT", 
+      "id": 127, 
+      "last_updated": "Wed, 04 Mar 2015 09:02:52 GMT", 
+      "name": "Dickson S. Guedes", 
+      "organization": "CONFESOL", 
+      "resume": "Atua na \u00e1rea de Tecnologia da Informa\u00e7\u00e3o a quase duas d\u00e9cadas, utilizando software livre na administra\u00e7\u00e3o de ambientes de miss\u00e3o cr\u00edtica e distribu\u00eddos. Viv\u00eancia na \u00e1rea de administra\u00e7\u00e3o de banco PostgreSQL, minera\u00e7\u00e3o e visualiza\u00e7\u00e3o de dados. Criador de ferramentas como pgvm, pgxn_utils e ldap_fdw. Atua como DBA na Confedera\u00e7\u00e3o Nacional de Cooperativas de Cr\u00e9dito Solid\u00e1rio."
+    }, 
+    "title": "Como encontrar uma agulha num palheiro de logs", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 105, 
+      "name_en": "Administration - Systems Administration", 
+      "name_pt": "Administra\u00e7\u00e3o - Administra\u00e7\u00e3o de Sistemas", 
+      "public": true
+    }
+  }
+}

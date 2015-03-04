@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 00:50:03 GMT", 
+    "full": "\u00c7air\u00e9\n\n\u201cA din\u00e2mica do mundo contempor\u00e2neo faz com que as tecnologias se renovem em uma velocidade impressionante. Diante dessa renova\u00e7\u00e3o, muitos equipamentos eletr\u00f4nicos s\u00e3o descartados pelos usu\u00e1rios em qualquer local e nenhuma pol\u00edtica de aproveitamento desses materiais \u00e9 desencadeada, prejudicando assim o meio ambiente.\u201d (http://www.moodle.ufba.br/mod/wiki/view.php?id=12648)\nEssa \u00e9 minha realidade mais n\u00e3o meu pensamento. Quando leio a palavra \u201cMeta\u201d eu logo vejo o seu significado grego que \u00e9 \u201cAl\u00e9m\u201d ent\u00e3o por isso Metarressiclagem \u00e9 Al\u00e9m de Reciclar. N\u00e3o \u00e9 s\u00f3 fazer algo \u00fatil, \u00e9 fazer algo que beneficie uma sociedade.\n \nEm minha casa e no dia a dia notei a facilidades que crian\u00e7as aprendem e assim como a tecnologia que crescer com as crian\u00e7as, por que tamb\u00e9m n\u00e3o crescer a preocupa\u00e7\u00e3o com meio ambiente. Hoje em dia recebemos in\u00fameros avisos como impacto do lixo eletr\u00f4nico, falta d\u2019\u00e1gua e polui\u00e7\u00e3o dos rios. \u00c9 incr\u00edvel ver como as crian\u00e7as absolvem essa ideia, pois eles s\u00e3o o nosso futuro.\nDurante o Ano de 2013 e 2014 realizamos 12 Oficinas de Metarreciclagem, nas Escolas Municipais. Realizamos para alunos, professores. Abordando temas como meio ambiente, matem\u00e1tica, polui\u00e7\u00e3o do solo, ar e \u00e1gua, composteiras e juntos constru\u00edmos 20 lixeiras de coleta seletiva utilizando monitores CRTs. \nO interessante da Metarreciclagem \u00e9 que podemos trabalhar de forma din\u00e2mica e l\u00fadica com temas s\u00e9rios como a Meio Ambiente, Inclus\u00e3o Social e Matem\u00e1tica, Portugu\u00eas e etc. Quebrando paradigmas pedag\u00f3gicos onde o professor n\u00e3o \u00e9 o dono do conhecimento tornando assim um ambiente mais harm\u00f4nico, colaborativo e eficaz, pois todos caminham de m\u00e3os dadas e juntos ao objetivo  que \u00e9 ir al\u00e9m.\nDurante as Oficinas realizamos: Metarreciclamos 5 laborat\u00f3rios de inform\u00e1tica sendo 2 deste funcionando com LTSP e 1 Exposi\u00e7\u00e3o com mais de 1.000 materiais metarreciclados.\nE o grande legado das oficinas que foi o que os alunos e levaram para dentro de casa a consci\u00eancia ambiental.", 
+    "id": 136, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 17:24:58 GMT", 
+      "id": 97, 
+      "last_updated": "Wed, 04 Mar 2015 00:51:28 GMT", 
+      "name": "U\u00e9liton Chaves dos Santos", 
+      "organization": "SEMED", 
+      "resume": "Iniciei meu trabalho de inclus\u00e3o s\u00f3cio-digital em 2005, no ponto de cultura da OCA em Alter do Ch\u00e3o \u2013 PA, o que me abriu muitas portas, sempre atuei em prol das comunidades socialmente vulner\u00e1veis. Durante estes anos de vivencia adquirir conhecimentos em Cultura Digital, Software Livre, Edi\u00e7\u00e3o Gr\u00e1fica, desenvolvimento web e o que eu mais gosto de fazer MetaReciclagem."
+    }, 
+    "title": "Metarreciclagem \u00e9 Ir Al\u00e9m", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 118, 
+      "name_en": "Education - Digital Inclusion", 
+      "name_pt": "Educa\u00e7\u00e3o - Inclus\u00e3o Digital", 
+      "public": true
+    }
+  }
+}

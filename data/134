@@ -1,4 +1,29 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 00:13:12 GMT", 
+    "full": "Ser\u00e3o apresentados os conceitos gerais sobre Big Data, as caracter\u00edsticas as atividades do profissional de Big Data ( Cientista de Dados ), como tornar-se um cientista de dados, as principais ferramentas de mercado, e como este profissional pode usar o potencial das ferramentas de software livre e software aberto para dominar esta \u00e1rea de atua\u00e7\u00e3o.\nUma vis\u00e3o geral sobre Hadoop, Cassandra, MongoDB, noSQL, BI, Data Mining  e Analitycs entre outros conceitos emergentes da \u00e1rea de governan\u00e7a de dados ser\u00e1 repassada aos participantes.", 
+    "id": 134, 
+    "language": "pt", 
+    "last_updated": "Wed, 04 Mar 2015 00:18:00 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Wed, 04 Mar 2015 00:13:02 GMT", 
+      "id": 130, 
+      "last_updated": "Wed, 04 Mar 2015 00:20:38 GMT", 
+      "name": "Marcio Junior Vieira", 
+      "organization": "Ambiente Livre Tecnologia", 
+      "resume": "Fundador e CEO da Ambiente Livre Tecnologia. Atua como Cientista de Dados e Arquiteto de Software , Trabalha com Software Livre desde 2000. Formado em Tecnologia em Inform\u00e1tica(UFPR), P\u00f3s-Graduado em Software Livre(UFPR). Palestrante em diversos em congressos relacionados a Software Livre:CONISLI, SOLISC, FISL, LATINOWARE, FLISOL, SFD, Pentaho Day, Campus Party e Joomla Day."
+    }, 
+    "title": "Cientista de Dados \u2013 Dominando o Big Data com Software Livre", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 105, 
+      "name_en": "Administration - Systems Administration", 
+      "name_pt": "Administra\u00e7\u00e3o - Administra\u00e7\u00e3o de Sistemas", 
+      "public": true
+    }
+  }
+}
