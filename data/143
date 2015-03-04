@@ -1,0 +1,29 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 10:56:41 GMT", 
+    "full": "Exploramos conceitos de computa\u00e7\u00e3o ub\u00edqua e automa\u00e7\u00e3o em um cen\u00e1rio acad\u00eamico. Essa abordagem nos permite tornar o ambiente muito mais rico sobre a informa\u00e7\u00e3o oferecida para avalia\u00e7\u00e3o em muitos aspectos, como automatiza\u00e7\u00e3o de controle de presen\u00e7a e informa\u00e7\u00f5es sobre processos de gest\u00e3o acad\u00eamica.\nEm nosso cen\u00e1rio de aplica\u00e7\u00e3o, a Faculdade de Tecnologia SENAI Porto Alegre - FATEC, tem por objetivo principal que a identifica\u00e7\u00e3o de usu\u00e1rios no ambiente acad\u00eamico seja feita de maneira inteligente, ou seja, o sistema ub\u00edquo ir\u00e1 localizar e registrar a entrada e sa\u00edda de seus usu\u00e1rios em seu dom\u00ednio atendendo aos seguintes objetivos espec\u00edficos:\n1.Controle de frequ\u00eancia dos alunos.\n2. Prover informa\u00e7\u00f5es sobre o fluxo de pessoas em determinado ambiente.\n3. Controle e Gerenciamento de privacidade dos dados. Com base no trabalho desenvolvido em (Leithardt, et. al 2013) ser\u00e3o aplicadas regras e defini\u00e7\u00f5es para os ambientes e seus usu\u00e1rios.\nAtualmente est\u00e1 sendo desenvolvida uma proposta para automatizar a coleta de dados a partir de sensores e Identificadores de R\u00e1dio Frequ\u00eancia (RFID). Para isso, como ponto de partida, est\u00e1 sendo desenvolvido um portal que permita a inser\u00e7\u00e3o de dados de frequ\u00eancia de alunos integrado com identificadores RFID.\nBasicamente, ao entrar no ambiente controlado, o sistema computacional cumprir\u00e1 as seguintes etapas:\n1. Leitores RFID verificam a presen\u00e7a de TAGs no ambiente de ensino.\n2. O leitor \u00e9 respons\u00e1vel por traduzir o sinal da antena RFID, processando as TAGs lidas e enviando os dados para um servidor.\n3. As TAGs lidas pelo leitor s\u00e3o comparadas com um cadastro de cada aluno, enviando a presen\u00e7a e outras informa\u00e7\u00f5es para a base de dados.\n4. Na base de dados ficar\u00e1 armazenado o perfil de cada usu\u00e1rio, presen\u00e7a de alunos por data, disciplina bem como outras informa\u00e7\u00f5es relevantes.\nCom isso agregar desenvolvimento de tecnologia de ponta em ambientes automatizados.", 
+    "id": 143, 
+    "language": "pt", 
+    "last_updated": "Wed, 04 Mar 2015 11:07:45 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brasil", 
+      "created": "Wed, 04 Mar 2015 10:43:44 GMT", 
+      "id": 134, 
+      "last_updated": "Wed, 04 Mar 2015 11:47:06 GMT", 
+      "name": "Marco Aur\u00e9lio Sch\u00fcnke", 
+      "organization": "Faculdade SENAI de Tecnologia", 
+      "resume": "Mestre em Computa\u00e7\u00e3o"
+    }, 
+    "title": "Arduino, Android, PHP e RFID no Gerenciamento Acad\u00eamico Inteligente - SIGA-i", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 117, 
+      "name_en": "Ecosystem - Business, Migrations and Cases", 
+      "name_pt": "Ecossistema - Neg\u00f3cios, Migra\u00e7\u00f5es e Casos", 
+      "public": true
+    }
+  }
+}

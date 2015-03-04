@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 11:42:27 GMT", 
+    "full": "O objetivo deste trabalho \u00e9 auferir t\u00e9cnicas de processamento de linguagem natural aplicado em corpora de Redes sociais a fim de gerar atributos com poder de predi\u00e7\u00e3o maior, contribuindo para as t\u00e9cnicas de predi\u00e7\u00e3o, n\u00e3o s\u00f3 como tamb\u00e9m, melhorar as taxas de predi\u00e7\u00e3o, como por exemplo, predizendo o n\u00famero de intera\u00e7\u00f5es de uma mensagem publicada numa pagina de f\u00e3s da rede social facebook, conforme a caracter\u00edstica explorada de mensagens dispon\u00edveis em uma pagina de f\u00e3s do facebook. Intera\u00e7\u00f5es em redes sociais s\u00e3o a\u00e7\u00f5es que provocam uma rea\u00e7\u00e3o na outra, como exemplo de intera\u00e7\u00f5es em uma rede social neste trabalho \u00e9 identificado o n\u00famero de mensagens curtidas, o n\u00famero de coment\u00e1rios de uma mensagem e tamb\u00e9m o n\u00famero de compartilhamentos.", 
+    "id": 146, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brasil", 
+      "created": "Wed, 04 Mar 2015 10:43:44 GMT", 
+      "id": 134, 
+      "last_updated": "Wed, 04 Mar 2015 11:47:06 GMT", 
+      "name": "Marco Aur\u00e9lio Sch\u00fcnke", 
+      "organization": "Faculdade SENAI de Tecnologia", 
+      "resume": "Mestre em Computa\u00e7\u00e3o"
+    }, 
+    "title": "Auferindo T\u00e9cnicas de Processamento de Linguagem Natural com NLTK", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

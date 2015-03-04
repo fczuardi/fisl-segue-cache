@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 11:24:57 GMT", 
+    "full": "A dura\u00e7\u00e3o da bateria tem se tornado o fator decisivo na experi\u00eancia do usu\u00e1rio*. Al\u00e9m das fabricantes criarem celulares com baterias maiores e otimiza\u00e7\u00f5es no sistema, \u00e9 importante que os desenvolvedores de aplica\u00e7\u00f5es se preocupem em serem eficientes. Ningu\u00e9m quer ser o app culpado por tornar o celular lento e drenar a bateria.\nFalaremos de wakelocks, alarms, services, GCM, location, uso da conex\u00e3o com a internet, monitorar estado da bateria, profiling e logs.\n\n*Pesquisas: http://goo.gl/cxi0uj http://goo.gl/1YjxQl http://goo.gl/VgJwHF http://goo.gl/kGupzt", 
+    "id": 145, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Wed, 04 Mar 2015 11:18:00 GMT", 
+      "id": 137, 
+      "last_updated": "Wed, 04 Mar 2015 11:25:15 GMT", 
+      "name": "Diego Ramos Ruggeri", 
+      "organization": "Instituto Eldorado", 
+      "resume": "Tecn\u00f3logo em Inform\u00e1tica pela Unicamp (2011)\nDesenvolvedor Android/Java no Instituto Eldorado desde 2011. \nTrabalhou com desenvolvimento em diversas tecnologias (asp, php, mysql, vb) desde 2007 na Atento, onde criava sistemas internos para \u00e1rea de planejamento.\nAtualmente \u00e9 aluno de p\u00f3s gradua\u00e7\u00e3o na Unicamp e trabalha com otimiza\u00e7\u00e3o de consumo de bateria em disposit\u00edvos Android."
+    }, 
+    "title": "N\u00e3o seja aquele app que consome a bateria do usu\u00e1rio", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

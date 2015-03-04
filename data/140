@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 10:23:11 GMT", 
+    "full": "MongoDB \u00e9 o banco n\u00e3o relacional (NoSQL) mais popular. Ganhou muitos usu\u00e1rios e mercado rapidamente. Permite criar aplica\u00e7\u00f5es ricas, adequadas \u00e0 escalabilidade e performance. Recentemente a vers\u00e3o 3.0 foi lan\u00e7ada repleta de novidades. O objetivo dessa palestra \u00e9 dar uma r\u00e1pida introdu\u00e7\u00e3o ao MongoDB, mostrar as principais caracter\u00edsticas desse banco de dados, como modelar corretamente uma aplica\u00e7\u00e3o e erros que devem ser evitados para sucesso em qualquer projeto.", 
+    "id": 140, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Wed, 04 Mar 2015 10:18:52 GMT", 
+      "id": 133, 
+      "name": "Christiano Anderson", 
+      "organization": "Propus Science", 
+      "resume": "Arquiteto de dados, especialista em bancos n\u00e3o relacionais (NoSQL), big data e Python. Trabalha com software livre e desenvolvimento desde 1997."
+    }, 
+    "title": "MongoDB - Tudo que voc\u00ea precisa saber", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 106, 
+      "name_en": "Administration - Databases", 
+      "name_pt": "Administra\u00e7\u00e3o - Bancos de Dados", 
+      "public": true
+    }
+  }
+}

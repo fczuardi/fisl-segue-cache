@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 10:26:54 GMT", 
+    "full": "\u00c9 poss\u00edvel criar uma solu\u00e7\u00e3o completa de mapeamento sem usar Google Maps. \n\nO objetivo dessa palestra \u00e9 apresentar o GeoDjango, PostGIS, Openstreetmaps e OpenLayers. Essas solu\u00e7\u00f5es permitem criar aplica\u00e7\u00f5es completas de mapeamento usando solu\u00e7\u00f5es 100% abertas e ficando livre do Google Maps. \n\nSer\u00e1 uma palestra pr\u00e1tica, com casos reais e uma pequena introdu\u00e7\u00e3o do GeoDjango, PostGIS, Openstreetmaps e Openlayers 3.", 
+    "id": 142, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Wed, 04 Mar 2015 10:18:52 GMT", 
+      "id": 133, 
+      "name": "Christiano Anderson", 
+      "organization": "Propus Science", 
+      "resume": "Arquiteto de dados, especialista em bancos n\u00e3o relacionais (NoSQL), big data e Python. Trabalha com software livre e desenvolvimento desde 1997."
+    }, 
+    "title": "Criando mapas com solu\u00e7\u00f5es livres", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

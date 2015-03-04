@@ -1,4 +1,27 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 10:21:12 GMT", 
+    "full": "Os bancos n\u00e3o relacionais, tamb\u00e9m conhecidos como NoSQL ficaram muito populares. S\u00e3o diversas alternativas e cada uma atende melhor um tipo de projeto. Essa palestra mostra as principais diferen\u00e7as entre os NoSQL, seja orientado a documentos, grafos, chave/valor, colunares e explica como modelar uma aplica\u00e7\u00e3o corretamente utilizando um ou mais bancos relacionais.", 
+    "id": 139, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Wed, 04 Mar 2015 10:18:52 GMT", 
+      "id": 133, 
+      "name": "Christiano Anderson", 
+      "organization": "Propus Science", 
+      "resume": "Arquiteto de dados, especialista em bancos n\u00e3o relacionais (NoSQL), big data e Python. Trabalha com software livre e desenvolvimento desde 1997."
+    }, 
+    "title": "O que \u00e9 NoSQL", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 10:08:18 GMT", 
+    "full": "IMPORTANTE: esta palestra tamb\u00e9m abordar\u00e1 aspectos fundamentais de administra\u00e7\u00e3o de redes de computadores e de sistemas, al\u00e9m da sua seguran\u00e7a.\n\nO inotify (inode notify) faz parte do Linux e \u00e9 respons\u00e1vel por fazer o kernel observar os filesystems em opera\u00e7\u00e3o, avisando aos programas sobre altera\u00e7\u00f5es ocorridas. Um exemplo disso \u00e9 quando copiamos um arquivo via shell e o mesmo \u00e9 mostrado, imediatamente, em um programa gr\u00e1fico de gerenciamento de arquivos, como o Dolphin (KDE) ou o Nautilus (Gnome). Esse programa gr\u00e1fico sempre ser\u00e1 avisado sobre essas altera\u00e7\u00f5es, em tempo real, pelo Kernel Linux (a\u00e7\u00e3o do inotify). Assim como os arquivos, diret\u00f3rios tamb\u00e9m poder\u00e3o ser monitorados.\n\nO iWatch \u00e9 um programa que utiliza o inotify para observar ocorr\u00eancias com arquivos e diret\u00f3rios no disco, podendo disparar gatilhos para executar a\u00e7\u00f5es em situa\u00e7\u00f5es espec\u00edficas.\n\nAlgumas opera\u00e7\u00f5es de administra\u00e7\u00e3o de sistemas e de seguran\u00e7a de rede que poder\u00e3o ser realizadas com o iWatch e similares:\n\n- Observa\u00e7\u00e3o de invas\u00f5es em redes de computadores, obtendo alertas em tempo real, criando-se algo em torno de um elemento verificador de integridade.\n- Backup instant\u00e2neo de arquivos, sempre que os mesmos forem alterados.\n- Remo\u00e7\u00e3o de dumps de bancos de dados, imediatamente ap\u00f3s o backup para um servidor espec\u00edfico.\n- A cria\u00e7\u00e3o de um sistema de DHCP prim\u00e1rio e secund\u00e1rio, similar ao que ocorre com o DNS.\n- Cria\u00e7\u00e3o de um sistema inteligente de reposit\u00f3rio local Debian, para pacotes personalizados, tamb\u00e9m servindo para outras dostribui\u00e7\u00f5es.\n\nAs a\u00e7\u00f5es poder\u00e3o ser desencadeadas ap\u00f3s observa\u00e7\u00f5es de opera\u00e7\u00f5es triviais de disco, como a cria\u00e7\u00e3o de um arquivo ou diret\u00f3rio, ou a sua altera\u00e7\u00e3o, ou apenas a sua leitura, ou a sua dele\u00e7\u00e3o. H\u00e1 diversas possibilidades, culminando com o monitoramento dos metadados do arquivo.\n\nOutros programas que utilizam o inotify, como clsync, entr, incron, inosync, inotail e inoticoming tamb\u00e9m ser\u00e3o abordados.", 
+    "id": 137, 
+    "language": "pt", 
+    "last_updated": "Wed, 04 Mar 2015 10:40:39 GMT", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Wed, 04 Mar 2015 09:31:34 GMT", 
+      "id": 132, 
+      "name": "Jo\u00e3o Eriberto Mota Filho", 
+      "organization": "Comando do Ex\u00e9rcito", 
+      "resume": "Oficial de Cavalaria do Ex\u00e9rcito Brasileiro. Gerente de Rede e Seguran\u00e7a do Gabinete do Comandante do Ex\u00e9rcito. Professor da P\u00f3s-gradua\u00e7\u00e3o em Per\u00edcia Digital na Universidade Cat\u00f3lica de Bras\u00edlia. Autor dos livros Linux & Seus Servidores (2000), Pequenas Redes com Microsoft Windows (2001), Descobrindo o Linux (3\u00aa edi\u00e7\u00e3o em 2012) e An\u00e1lise de tr\u00e1fego em redes TCP/IP (2013). Desenvolvedor Debian."
+    }, 
+    "title": "inotify: observando seus arquivos e tomando decis\u00f5es de seguran\u00e7a em tempo real", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 108, 
+      "name_en": "Administration - Security", 
+      "name_pt": "Administra\u00e7\u00e3o - Seguran\u00e7a", 
+      "public": true
+    }
+  }
+}
