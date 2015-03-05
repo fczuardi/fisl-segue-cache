@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 21:29:42 GMT", 
+    "full": "Esta palestra tem por objetivo apresentar o projeto Escola de Hackers desenvolvido na rede municipal de Ensino de Passo Fundo. Em uma iniciativa da Secretaria Municipal de Educa\u00e7\u00e3o e conta com apoio da Universidade de Passo Fundo, da Faculdade Meridional - IMED e do Instituto Federal Sul-Riograndense, campus Passo Fundo. O objetivo do projeto \u00e9 oportunizar um espa\u00e7o para desenvolvimento de compet\u00eancias na \u00e1rea de programa\u00e7\u00e3o de computadores e de racioc\u00ednio l\u00f3gico matem\u00e1tico para estudantes do ensino fundamental. Para tanto, apresenta ambientes, linguagens e t\u00e9cnicas de programa\u00e7\u00e3o de computadores; organiza material de apoio did\u00e1tico pedag\u00f3gico para os monitores; e propicia atividades que visam o desenvolvimento de processos criativos, sistem\u00e1ticos e colaborativos de aprendizagem. Sua origem se localiza na constata\u00e7\u00e3o de que, no mundo contempor\u00e2neo, \u00e9 fundamental que os indiv\u00edduos superem o status de usu\u00e1rios de computador e assumam a posi\u00e7\u00e3o de programadores de computadores. Al\u00e9m desta demanda social, constatou-se que a forma como a inform\u00e1tica \u00e9 inserida no contexto escolar pouco contribui para a qualifica\u00e7\u00e3o da educa\u00e7\u00e3o e, a bem da verdade, n\u00e3o desafia ou motiva os estudantes. Com metodologia especificamente pensada para o desenvolvimento de habilidades e compet\u00eancias cognitivas que podem ter desdobramentos nos processos de aprendizagem dos estudantes, o projeto existe desde 2014, j\u00e1 atendeu a mais de 300 crian\u00e7as e possui resultados que dever\u00e3o ser apresentados na palestra. Ainda, \u00e9 importante mencionar a Escola de Hackers para professores, atividade paralela envolvendo professores da rede municipal e estadual de ensino. Em 2015 o projeto ter\u00e1 dois desdobramentos importantes: A Escola de Hackers Avan\u00e7ada que prev\u00ea atividades envolvendo rob\u00f3tica e \u00e9 destinada aos estudantes que se destacaram no projeto em 2014 e o Ber\u00e7\u00e1rio de Hackers, destinado ao ensino de no\u00e7\u00f5es b\u00e1sicas de l\u00f3gica e programa\u00e7\u00e3o a crian\u00e7as de 5 a 6 anos.", 
+    "id": 151, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sat, 28 Feb 2015 08:01:22 GMT", 
+      "id": 40, 
+      "name": "Adriano Canabarro Teixeira", 
+      "organization": "Universidade de Passo Fundo", 
+      "resume": "Professor do Curso de Ci\u00eancia da Computa\u00e7\u00e3o/UPF\nProfessor do Programa de P\u00f3s-Gradua\u00e7\u00e3o em Educa\u00e7\u00e3o/UPF\nProfessor do Programa de P\u00f3s-Gradua\u00e7\u00e3o em Ensino de Ci\u00eancias e Matem\u00e1tica/UPF\nP\u00f3s-doutor em Educa\u00e7\u00e3o/UFRGS\nDoutor em Inform\u00e1tica Aplicada a Educa\u00e7\u00e3o/UFRGS.\nDoutorado Sandu\u00edche na Universidade de Roma Tr\u00eas, It\u00e1lia\nMestre em Educa\u00e7\u00e3o/UPF.\nBacharel em Ci\u00eancia da Computa\u00e7\u00e3o/UPF"
+    }, 
+    "title": "O Projeto Escola de Hackers", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 118, 
+      "name_en": "Education - Digital Inclusion", 
+      "name_pt": "Educa\u00e7\u00e3o - Inclus\u00e3o Digital", 
+      "public": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 22:30:33 GMT", 
+    "full": "Resumo:\n    Topologia de redes\n    - Paul Baran e as redes centralizadas, descentralizadas e distribu\u00eddas\n    Sobre mas antes da Internet\n    - Paul Marie Ghislain Otlet - recolher e organizar a informa\u00e7\u00e3o\n    - Vannevar Bush - um sistema que permitiria criar e seguir liga\u00e7\u00f5es entre documentos\n    - Theodor Holm Nelson - a leitura deveria ser uma experi\u00eancia n\u00e3o-linear, na qual novos conceitos e defini\u00e7\u00f5es seriam disponibilizados ao leitor \u00e0 medida que os necessitasse.\n    - Douglas Engelbart - criou o mouse, um indicador de qualquer ponto na tela\n    A rede mundial de computadores\n    - Berners-Lee - criou o protocolo HTTP, o conceito de \u201clink\u201d, o programa navegador e o servidor e as primeiras p\u00e1ginas Web\n\n\nBaseada em:\n\nArquiteturas de rede -  http://faconti.tumblr.com/post/98987628843  \n\nSobre a Internet, antes da Internet - http://faconti.tumblr.com/post/98206844553\n\nIntera\u00e7\u00e3o usu\u00e1rio e computador - Mouse - http://faconti.tumblr.com/post/102085803548\n\nA rede mundial de computadores - http://faconti.tumblr.com/post/10059380623\n\n-\n\nApresenta\u00e7\u00e3o:\n\nodp, em formato zip - http://www.ufpa.br/dicas/zip/www-his.odp.zip\n\npdf - http://www.ufpa.br/dicas/zip/www-his.pdf\n\n-\n\nInclui:\n\nPaul Otlet, profetiza la internet - 1932 - http://www.youtube.com/watch?v=_Y9k0T9Zqfg\n\nMemex animation - Vannevar Bush\u2019s diagrams made real -  http;//www.youtube.com/watch?v=c539cK58eesaxa\n\nThe first mouse - http;//www.youtube.com/watch?v=1MPJZ6M52dIa\n\nInternet Revelada - sobre a Internet e os Pontos de Troca de Tr\u00e1fego (PTTs) - http://www.youtube.com/watch?v=QXUpRg29iZQ\n\n-  \n\nResumo: \n\nhttp://faconti.tumblr.com/post/110265868833", 
+    "id": 154, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Wed, 04 Mar 2015 22:30:11 GMT", 
+      "id": 144, 
+      "last_updated": "Wed, 04 Mar 2015 22:36:09 GMT", 
+      "name": "Fatima Conti", 
+      "organization": "UFPA - aposentada", 
+      "resume": "Doutora (FMRP-USP) em Ci\u00eancias. Coordenou o labInfo-ICB da UFPA, onde implementou o uso de software livre, e dedicou-se \u00e0s \u00e1reas de ensino e extens\u00e3o, sobre fundamentos de Estat\u00edstica e Inform\u00e1tica. Interessa-se por Hist\u00f3ria da Inform\u00e1tica.  Criadora e mantenedora do conjunto de sites \"Muitas Dicas\" - http://www.ufpa.br/dicas e do blog \"Um pouquim da net\" - http://faconti.tumblr.com/."
+    }, 
+    "title": "Alguns pontos da hist\u00f3ria da WWW", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 119, 
+      "name_en": "Education - Education", 
+      "name_pt": "Educa\u00e7\u00e3o - Educa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

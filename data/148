@@ -1,4 +1,28 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 18:14:17 GMT", 
+    "full": "Nos dias de hoje, aplica\u00e7\u00f5es web deixaram de ser acessadas  exclusivamente atrav\u00e9s de notebooks e computadores, passando a ter in\u00fameros acessos atrav\u00e9s de dispositivos m\u00f3veis como tablets e smartphones. Nesse cen\u00e1rio, um dos grandes desafios para os desenvolvedores \u00e9 como implementar uma solu\u00e7\u00e3o que consiga oferecer o que de melhor cada dispositivo oferece, em termos de recursos e usabilidade, sem ter que aumentar a complexidade do desenvolvimento replicando o c\u00f3digo em solu\u00e7\u00f5es espec\u00edficas para cada plataforma.\n\nNessa palestra irei compartilhar as experi\u00eancias vividas e estrat\u00e9gias adotadas na Globo.com na migra\u00e7\u00e3o de portais web para aplica\u00e7\u00f5es web multi-plataforma. Mostrarei como recursos de linguagens conhecidas, como HTML5, JavaScript e CSS3, tem nos auxiliado na constru\u00e7\u00e3o de um \u00fanico c\u00f3digo para ser acessado em qualquer dispositivo explorando o que de melhor cada plataforma oferece. Compartilharei, tamb\u00e9m, como temos utilizado Responsive Design, RESS (Responsive design with server side components) e Mobile First como apoio nessa nossa caminhada.", 
+    "id": 148, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Mon, 02 Mar 2015 18:40:09 GMT", 
+      "id": 101, 
+      "last_updated": "Wed, 04 Mar 2015 18:09:56 GMT", 
+      "name": "Alexandre Magno Teles Zimerer", 
+      "organization": "Globo.com", 
+      "resume": "Alexandre Magno \u00e9 atualmente software engineer na Globo.com. Desenvolvedor web h\u00e1 mais de 7 anos, \u00e9 um contribuidor ativo na comunidade open-source, evangelista jQuery, al\u00e9m de ter bastante experi\u00eancia em Ruby on Rails e WordPress. Desenvolveu v\u00e1rias bibliotecas open source usadas amplamente na Globo.com. Nas horas vagas, curte integrar novas tecnologias como arduino e mobile apps."
+    }, 
+    "title": "Aplica\u00e7\u00f5es WEB multi-plataforma: um \u00fanico c\u00f3digo, diversas experi\u00eancias", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

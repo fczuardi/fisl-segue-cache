@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 22:35:14 GMT", 
+    "full": "Os arquivos e bens culturais em uma sociedade em que leis sobre os monop\u00f3lios - copyright, marcas e patentes - cada vez inibem mais o pr\u00f3prio uso de programas computacionais, a criatividade e o acesso \u00e0 informa\u00e7\u00e3o e ao conhecimento.\n\nS\u00e3o brevemente apresentados, entre outros, os seguintes itens:\n\n    Arquivos e bens culturais\n    Formatos: aprisionamento a programas e/ou sistema operacional\n    Quatro liberdades\n    Copyleft\n    Propriedade intelectual: Direitos ou monop\u00f3lios?\n\nBaseada em:\n\nArquivos - Formatos:\nhttp://www.ufpa.br/dicas/progra/arq-exte.htm \n\nSoftware Livre: Hist\u00f3rico, Defini\u00e7\u00e3o, Import\u00e2ncia\nhttp://www.ufpa.br/dicas/linux/li-lisol.htm\n\nSoftware Livre - Licen\u00e7as\nhttp://www.ufpa.br/dicas/linux/li-lilic.htm\n\nO sistema GNU-Linux\nhttp://www.ufpa.br/dicas/linux/li-li01.htm\n\n-\n\nInclui:\n\nAlgumas das ilustra\u00e7\u00f5es: contidas em\nhttp://faconti.tumblr.com/tagged/figuACTA\n\nFilme\nCopyright - Para sempre menos um dia - 2 \nhttp://faconti.tumblr.com/post/10202351059\n\nCordel\n\"Do Livre e do Gr\u00e1tis\"\nhttp://faconti.tumblr.com/post/7112089778\n\n-\n\nApresenta\u00e7\u00e3o:\n\nodp, em formato zip - http://www.ufpa.br/dicas/zip/com-SL-vc-pode.odp.zip\n\npdf - http://www.ufpa.br/dicas/pdf/com-SL-vc-pode.pdf\n\n- \n\nResumo:\n\nhttp://faconti.tumblr.com/post/60275030433", 
+    "id": 155, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Wed, 04 Mar 2015 22:30:11 GMT", 
+      "id": 144, 
+      "last_updated": "Wed, 04 Mar 2015 22:36:09 GMT", 
+      "name": "Fatima Conti", 
+      "organization": "UFPA - aposentada", 
+      "resume": "Doutora (FMRP-USP) em Ci\u00eancias. Coordenou o labInfo-ICB da UFPA, onde implementou o uso de software livre, e dedicou-se \u00e0s \u00e1reas de ensino e extens\u00e3o, sobre fundamentos de Estat\u00edstica e Inform\u00e1tica. Interessa-se por Hist\u00f3ria da Inform\u00e1tica.  Criadora e mantenedora do conjunto de sites \"Muitas Dicas\" - http://www.ufpa.br/dicas e do blog \"Um pouquim da net\" - http://faconti.tumblr.com/."
+    }, 
+    "title": "Com software livre, voc\u00ea pode!", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 116, 
+      "name_en": "Ecosystem - Culture, Philosophy, and Politics", 
+      "name_pt": "Ecossistema - Cultura, Filosofia, e Pol\u00edtica", 
+      "public": true
+    }
+  }
+}

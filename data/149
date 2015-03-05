@@ -1,4 +1,29 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 19:59:16 GMT", 
+    "full": "[DRAFT]\nCriada por Jos\u00e9 Valim, membro do Core do Rails, e inspirada em linguagens como Ruby, Clojure, F# entre outras, Elixir \u00e9 uma linguagem de programa\u00e7\u00e3o funcional e din\u00e2mica desenhada para construir aplica\u00e7\u00f5es escal\u00e1veis de f\u00e1cil manuten\u00e7\u00e3o. \n\nConstru\u00edda sobre a m\u00e1quina virtual da Erlang que, por sua vez, \u00e9 conhecida por sua baixa lat\u00eancia, sistemas distribu\u00eddos tolerantes a falhas e um ecossistema robusto, a linguagem Elixir vem ganhando um espa\u00e7o cada vez maior entre desenvolvedores backend e frontend, seja por sua sintaxe elegante e expressiva, seja por conceitos fortemente aplicados, permitindo sua utiliza\u00e7\u00e3o no desenvolvimento de aplica\u00e7\u00f5es que exigem um alto n\u00edvel de disponibilidade e concorr\u00eancia, que v\u00e3o desde aplica\u00e7\u00f5es web at\u00e9 sistemas embarcados.\n\nNesta palestra apresentarei seus principais conceitos em torno do paradigma funcional, suas funcionalidades, exemplos de c\u00f3digos e ferramentas. Tamb\u00e9m apresentarei um projeto de uma ferramenta de ETL que foi portada de Ruby e Bash para Elixir.\n[DRAFT]", 
+    "id": 149, 
+    "language": "pt", 
+    "last_updated": "Wed, 04 Mar 2015 20:03:13 GMT", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Tue, 03 Mar 2015 20:34:28 GMT", 
+      "id": 127, 
+      "last_updated": "Wed, 04 Mar 2015 19:59:54 GMT", 
+      "name": "Dickson S. Guedes", 
+      "organization": "CONFESOL", 
+      "resume": "Atua na \u00e1rea de Tecnologia da Informa\u00e7\u00e3o a quase duas d\u00e9cadas, utilizando software livre na administra\u00e7\u00e3o de ambientes de miss\u00e3o cr\u00edtica e distribu\u00eddos. Viv\u00eancia na \u00e1rea de administra\u00e7\u00e3o de banco PostgreSQL, minera\u00e7\u00e3o e visualiza\u00e7\u00e3o de dados. Criador de ferramentas como pgvm, pgxn_utils, ExJSON e ldap_fdw. Atua como DBA na Confedera\u00e7\u00e3o Nacional de Cooperativas de Cr\u00e9dito Solid\u00e1rio."
+    }, 
+    "title": "Elixir |> Din\u00e2mica |> Funcional |> Escal\u00e1vel |> Divertida", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

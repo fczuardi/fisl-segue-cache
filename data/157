@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 23:58:01 GMT", 
+    "full": "Myo \u00e9 capaz de detectar atividades el\u00e9tricas nos m\u00fasculos dos bra\u00e7os para transmitir para o equipamento que tipos de gestos voc\u00ea est\u00e1 fazendo. O dispositivo possui Bluetooth 4.0, sensores musculares, processador ARM, uma unidade 9-axis e uma bateria recarreg\u00e1vel de l\u00edtio. \u00c9 como se fosse um tipo de bracelete que \u00e9 posto um pouco acima do pulso, lendo o movimento dos m\u00fasculos conforme o movimento realizado. Veremos nesta palestra como criar aplicativos para detec\u00e7\u00e3o de gesto no Android com a interpreta\u00e7\u00e3o muscular.", 
+    "id": 157, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Wed, 04 Mar 2015 23:32:58 GMT", 
+      "id": 145, 
+      "last_updated": "Thu, 05 Mar 2015 00:01:59 GMT", 
+      "name": "Alessandro de Oliveira Faria (A.K.A. CABELO)", 
+      "organization": "NETi TECNOLOGIA", 
+      "resume": "S\u00f3cio-fundador da empresa NETi TECNOLOGIA fundada em Junho de 1996, empresa especializada em desenvolvimento de solu\u00e7\u00f5es com a tecnologia de Reconhecimento Facial, Consultor Biom\u00e9trico, Experi\u00eancia em Realidade Aumentada, Vis\u00e3o Computacional (opencv), Neuro-tecnologia, Redes Neurais e Programa\u00e7\u00e3o multi-nuclear com CPU e GPU, atua na \u00e1rea de tecnologia desde 1986, leva o Linux a s\u00e9rio desde 1998, m"
+    }, 
+    "title": "Myo :  Interpretando atividades el\u00e9tricas musculares.", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 114, 
+      "name_en": "Desktop - Games", 
+      "name_pt": "Desktop - Jogos", 
+      "public": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Wed, 04 Mar 2015 21:25:26 GMT", 
+    "full": "Atualmente grande parte das institui\u00e7\u00f5es de ensino ainda utilizam softwares propriet\u00e1rios para o processo de ensino. Al\u00e9m das institui\u00e7\u00f5es de ensino, o mercado de trabalho tamb\u00e9m utiliza esses softwares, por\u00e9m esse paradigma vem sendo alterado. Com a dissemina\u00e7\u00e3o do software livre v\u00e1rias ferramentas surgiram com o mesmo prop\u00f3sito das ferramentas de software propriet\u00e1rio. \nPor\u00e9m h\u00e1 ainda no software livre a exig\u00eancia de um grau mais alto de conhecimento t\u00e9cnico para customizar ambientes amig\u00e1veis para desenvolvimento de programas e, n\u00e3o existe nenhum ambiente espec\u00edfico para facilitar o desenvolvimento de software, sendo que esta \u00e1rea est\u00e1 em grande crescimento. \nEsse projeto de pesquisa teve por objetivo customizar uma distribui\u00e7\u00e3o Linux Ubuntu com ferramentas e plataformas de programa\u00e7\u00e3o j\u00e1 pr\u00e9-configurados, a fim de introduzi-la em rotinas educativas do ensino m\u00e9dio e t\u00e9cnico visando criar uma mudan\u00e7a de h\u00e1bito em nossa sociedade inserindo o software livre, seu conceito, qualidade e seguran\u00e7a em ambientes escolares da rede p\u00fablica de ensino. Despertando o interesse do estudo em desenvolvimento de sistemas em jovens e estimulando futuras parcerias para introdu\u00e7\u00e3o de cursos de programa\u00e7\u00e3o em escolas p\u00fablicas.", 
+    "id": 150, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Wed, 04 Mar 2015 21:18:39 GMT", 
+      "id": 139, 
+      "last_updated": "Wed, 04 Mar 2015 21:20:04 GMT", 
+      "name": "Lara Popov Zambiasi Bazzi Oberderfer", 
+      "organization": "IFSC - Campus Chapec\u00f3", 
+      "resume": "Possui gradua\u00e7\u00e3o em Ci\u00eancia da Computa\u00e7\u00e3o pela Universidade do Oeste de Santa Catarina (2005), p\u00f3s-gradua\u00e7\u00e3o em Gest\u00e3o Estrat\u00e9gica em Tecnologia da Informa\u00e7\u00e3o pela Faculdade Exponencial (2009). Atualmente \u00e9 professora do Instituto Federal de Santa Catarina (IF-SC - C\u00e2mpus Chapec\u00f3). Tem experi\u00eancia na \u00e1rea de Ci\u00eancia da Computa\u00e7\u00e3o, com \u00eanfase em Sistemas On-Line."
+    }, 
+    "title": "Distribui\u00e7\u00e3o linux para meio acad\u00eamico", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 115, 
+      "name_en": "Desktop - Distros", 
+      "name_pt": "Desktop - Distribui\u00e7\u00f5es", 
+      "public": true
+    }
+  }
+}
