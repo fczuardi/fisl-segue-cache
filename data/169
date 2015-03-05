@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 05 Mar 2015 16:15:34 GMT", 
+    "full": "A Lei de Acesso \u00e0 Informa\u00e7\u00e3o (LEI N\u00ba 12.527, DE 18 DE NOVEMBRO DE 2011) que regula o acesso \u00e0 informa\u00e7\u00f5es. Disp\u00f5e sobre os procedimentos a serem observados pela Uni\u00e3o, Estados, Distrito Federal e Munic\u00edpios para disponibilizar o acesso \u00e0 informa\u00e7\u00f5es p\u00fablicas e quanto a classifica\u00e7\u00e3o das informa\u00e7\u00f5es que ter\u00e3o seu acesso restrito.\n   Definindo inclusive prazos para a reten\u00e7\u00e3o das informa\u00e7\u00f5es que forem classificadas como Ultrasecretas, Secretas ou Reservadas, mas muitas institui\u00e7\u00f5es n\u00e3o est\u00e3o aptas ou n\u00e3o possuem em sua Pol\u00edtica de Seguran\u00e7a da Informa\u00e7\u00f5es previs\u00e3o para a classifica\u00e7\u00e3o das informa\u00e7\u00f5es e muito menos os procedimentos para o tratamento adequado para as m\u00eddias que possu\u00edrem informa\u00e7\u00f5es classificadas.\n   Ap\u00f3s a publica\u00e7\u00e3o desta LEI o foco tem sido em atender a legisla\u00e7\u00e3o disponibilizando portais corporativos para disponibilizarem as informa\u00e7\u00f5es que n\u00e3o s\u00e3o classificadas e portanto p\u00fablicas. E o aspecto da prote\u00e7\u00e3o das m\u00eddias eletr\u00f4nicas que armazenaram ou est\u00e3o armazenando informa\u00e7\u00f5es classificadas n\u00e3o priorizado.\n    A conscientiza\u00e7\u00e3o \u00e9 de suma import\u00e2ncia para que as informa\u00e7\u00f5es classificadas recebam o tratamento e a prote\u00e7\u00e3o adequada de acordo com o n\u00edvel de classifica\u00e7\u00e3o das informa\u00e7\u00f5es que s\u00e3o ali armazenadas. Com isso, as m\u00eddias que possuem ou j\u00e1 armazenaram informa\u00e7\u00f5es classificadas n\u00e3o protegidas de forma adequada e as vezes s\u00e3o descartadas antes do t\u00e9rmino do prazo definido na classifica\u00e7\u00e3o da informa\u00e7\u00e3o e sem que seja adotado procedimentos de elimina\u00e7\u00e3o segura destas informa\u00e7\u00f5es.", 
+    "id": 169, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 05 Mar 2015 15:56:02 GMT", 
+      "id": 152, 
+      "last_updated": "Thu, 05 Mar 2015 16:15:38 GMT", 
+      "name": "Robson Cardoso Vieira", 
+      "organization": "Minist\u00e9rio P\u00fablico Goi\u00e1s", 
+      "resume": "Graduado em Sistemas de Informa\u00e7\u00e3o, P\u00f3s-Graduado em Tecnologia em Gest\u00e3o da Informa\u00e7\u00e3o, Mestre em Ci\u00eancia da Computa\u00e7\u00e3o. Servidor do Minist\u00e9rio P\u00fablico do Estado de Goi\u00e1s. Possui certifica\u00e7\u00e3o Microsoft MCDST, ITIL, ITSM (ISO 20.000) e LPIC-1, experi\u00eancia em migra\u00e7\u00e3o para Software Livre, Governan\u00e7a de TI, BD livres, ger\u00eancia de redes e etc."
+    }, 
+    "title": "Lei de Acesso \u00e0 Informa\u00e7\u00e3o e o Descarte de M\u00eddias", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 127, 
+      "name_en": "Trending Topics - Privacy and Surveillance", 
+      "name_pt": "T\u00f3picos Emergentes - Privacidade e Vigil\u00e2ncia", 
+      "public": true
+    }
+  }
+}

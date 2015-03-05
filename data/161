@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 05 Mar 2015 11:21:21 GMT", 
+    "full": "Canvas \u00e9 uma tela de bitmap dependente de resolu\u00e7\u00e3o que pode ser usada para a renderiza\u00e7\u00e3o de elementos gr\u00e1ficos ou outras imagens visuais rapidamente. No HTML5 ele ganha o papel como um elemento novo, que permite que se desenhem elementos gr\u00e1ficos usando JavaScript. Ele pode ser usado para renderizar texto, imagens, gr\u00e1ficos, linhas gradientes e outros efeitos dinamicamente. Desenhar na tela se d\u00e1 atrav\u00e9s da API de tela 2D. A ideia dessa palestra \u00e9 apresentar os conceitos, funcionalidades e recursos que voc\u00ea pode aproveitar dessa feature do HTML5.", 
+    "id": 161, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Sat, 28 Feb 2015 18:33:20 GMT", 
+      "id": 46, 
+      "last_updated": "Sun, 01 Mar 2015 16:55:20 GMT", 
+      "name": "Raphael Amorim", 
+      "resume": "Atua como consultor principalmente no cen\u00e1rio web. Trabalhou como desenvolvedor em empresas como Videolog e Petrobras. Tamb\u00e9m \u00e9 contribuidor do mundo open source, atuando em projetos abertos e autor de diversos artigos no iMasters."
+    }, 
+    "title": "D\u00ea poder a sua imagina\u00e7\u00e3o com HTML5 Canvas", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 111, 
+      "name_en": "Development - Programming Languages", 
+      "name_pt": "Desenvolvimento - Linguagens de programa\u00e7\u00e3o", 
+      "public": true
+    }
+  }
+}

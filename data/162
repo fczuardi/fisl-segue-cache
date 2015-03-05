@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 05 Mar 2015 12:35:26 GMT", 
+    "full": "Por que voc\u00ea deve usar software livre? Est\u00e1 \u00e9 a pergunta fundamental da palestra, o participante receber\u00e1 todo o conceito de comunidade e a vis\u00e3o social do software livre e como o software propriet\u00e1rio prejudica e retarda o conhecimento de tecnologia, e \u00e9  claro a forma em que o usu\u00e1rio ser\u00e1 ferido desde financeiramente com as atualiza\u00e7\u00f5es das e licen\u00e7as e com a troca de hardware for\u00e7ado ao utilizar um software propriet\u00e1rio.", 
+    "id": 162, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 05 Mar 2015 12:34:42 GMT", 
+      "id": 149, 
+      "last_updated": "Thu, 05 Mar 2015 12:35:30 GMT", 
+      "name": "Jeison Frasson", 
+      "organization": "lliure", 
+      "resume": "Ol\u00e1 sou Jeison Frasson Formado com DBA Oracle, trabalho com desenvolvimento de sistemas on-line, sou especializado em design de experi\u00eancia de usu\u00e1rio. Trabalho com as linguagens PHP e JS al\u00e9m de HTML e CSS e com os bancos Oracle e Mysql.\nRecentemente estou trabalhando em um projeto chamado lliure.\nlliure \u00e9 um WAP (web aplication plataform), um, software on-line que tem o papel de gerenciar as mai"
+    }, 
+    "title": "Por que software livre?", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 116, 
+      "name_en": "Ecosystem - Culture, Philosophy, and Politics", 
+      "name_pt": "Ecossistema - Cultura, Filosofia, e Pol\u00edtica", 
+      "public": true
+    }
+  }
+}

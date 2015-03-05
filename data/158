@@ -1,4 +1,26 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 05 Mar 2015 08:32:22 GMT", 
+    "full": "A proposta da palestra \u00e9 mostras as t\u00e9cnicas utilizadas para a implementa\u00e7\u00e3o de um servidor de arquivos no Centro de Ci\u00eancias da Sa\u00fade da Universidade Federal de Santa Maria. Tamb\u00e9m ser\u00e1 abordada m\u00e9todos de redund\u00e2ncias utilizadas no servidor, como espelhamento de disco, backup em disco remov\u00edvel a sincroniza\u00e7\u00e3o com um servidor secund\u00e1rio, al\u00e9m de receber notifica\u00e7\u00e3o por e-mail das c\u00f3pias realizadas ou at\u00e9 mesmo de um alguma falha somente utilizando software livre.", 
+    "id": 158, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 05 Mar 2015 08:31:21 GMT", 
+      "id": 148, 
+      "last_updated": "Thu, 05 Mar 2015 08:34:10 GMT", 
+      "name": "Thales Nicolai Tavares"
+    }, 
+    "title": "Debian + samba = problemas resolvidos!!!", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 05 Mar 2015 16:05:47 GMT", 
+    "full": "Demonstraremos como a ferramenta open source Liquibase pode ser utilizada automa\u00e7\u00e3o da gest\u00e3o de altera\u00e7\u00f5es de banco de dados.\n\n\u00c9 comum encontrar ambientes de trabalho/equipes que tratam o banco de dados como uma entidade completamente separada do sistema. Independente do motivo, separar as coisas nos leva a algumas pr\u00e1ticas ineficientes de altera\u00e7\u00e3o de banco de dados e corremos o risco de gerar inconsist\u00eancias no banco de dados. Al\u00e9m disso, tornamos dif\u00edcil a opera\u00e7\u00e3o de desfazer o que j\u00e1 foi feito e inviabilizamos a an\u00e1lise do hist\u00f3rico de altera\u00e7\u00f5es do banco de dados ao longo do tempo, tornando-se insustent\u00e1vel.\n\nPodemos evitar esses problemas fazendo uso de um processo consistente e repet\u00edvel para aplicar as altera\u00e7\u00f5es no banco de dados. Para tanto, veremos como usar a ferramenta Liquibase, executando as altera\u00e7\u00f5es de banco de dados automaticamente.\n\nO Liquibase suporta v\u00e1rios bancos de dados, permite a visualiza\u00e7\u00e3o do hist\u00f3rico de mudan\u00e7as aplicadas ao banco de dados e \u00e9 capaz de identificar as mudan\u00e7as realizadas manualmente no banco de dados. \u00c9 poss\u00edvel executar scripts SQL personalizados e s\u00e3o disponibilizados utilit\u00e1rios para reverter as altera\u00e7\u00f5es banco de dados.", 
+    "id": 168, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 05 Mar 2015 15:41:50 GMT", 
+      "id": 151, 
+      "last_updated": "Thu, 05 Mar 2015 15:54:00 GMT", 
+      "name": "Eleonor Vinicius Dudel Mayer", 
+      "resume": "Eleonor Vinicius \u00e9 l\u00edder de projetos de TI. Atuou tamb\u00e9m como professor de cursos t\u00e9cnicos e tecnol\u00f3gicos da \u00e1rea da Tecnologia da Informa\u00e7\u00e3o. Tem experi\u00eancia no desenvolvimento e opera\u00e7\u00e3o de sistemas (Web, de integra\u00e7\u00e3o, API, dentre outros), bem como na implanta\u00e7\u00e3o de processos contempor\u00e2neos de desenvolvimento e opera\u00e7\u00e3o de sistemas."
+    }, 
+    "title": "Versionamento de banco de dados com Liquibase", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

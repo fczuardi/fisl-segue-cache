@@ -1,0 +1,27 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 05 Mar 2015 17:27:53 GMT", 
+    "full": "React.js est\u00e1 entrando na moda. Desenvolvido pelo Facebook, ele \u00e9 o V do MVC em projetos de front-end. Apesar de ser muito bom para o que se prop\u00f5e, ainda falta algo para complementar um projeto mais complexo. Entra a\u00ed o Backbone.js com a melhor implementa\u00e7\u00e3o de framework de modelos que conhe\u00e7o.\n\nNesta palestra iremos apresentar o que o React tem de bom, porque ele \u00e9 uma boa escolha de framework base para projetos de front-end e como juntar Backbone,js e React.", 
+    "id": 172, 
+    "language": "pt", 
+    "level": "advanced", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 05 Mar 2015 17:27:36 GMT", 
+      "id": 156, 
+      "name": "Andr\u00e9 Augusto", 
+      "organization": "Globo.com", 
+      "resume": "Desenvolvedor h\u00e1 7 anos, amo o que fa\u00e7o. Trabalho na Globo.com na \u00e1rea de Interatividade fazendo o que gosto e produzindo projetos para atender a milhares de pessoas nos programas mais populares da Rede Globo.\n\nAmo Linux, back-end development e aprendi na Globo.com que front-end development \u00e9 bem legal(se voc\u00ea conseguir ignorar alguns detalhes :)"
+    }, 
+    "title": "MVC com React e Backbone.js. O melhor de dois mundos.", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 109, 
+      "name_en": "Development - Tools, Methodologies and Standards", 
+      "name_pt": "Desenvolvimento - Ferramentas, Metodologias e Padr\u00f5es", 
+      "public": true
+    }
+  }
+}

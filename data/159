@@ -1,4 +1,21 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<title>404 Not Found</title>
-<h1>Not Found</h1>
-<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 05 Mar 2015 09:04:40 GMT", 
+    "full": "A palestra visa mostrar como pode ser tranquila a implementa\u00e7\u00e3o da Ferramenta Expresso V3,Demonstrar que a ferramenta livre de c\u00f3digo aberto e muito vi\u00e1vel, possui grande integra\u00e7\u00e3o para grandes, m\u00e9dias e pequenas empresas e tamb\u00e9m demonstrar a utiliza\u00e7\u00e3o do sistema no \u00e2mbito de uma institui\u00e7\u00e3o do governo do ES. Mostra tamb\u00e9m que o Expresso V3 n\u00e3o deixa nada a desejar frente aos servi\u00e7os propriet\u00e1rios.\n\nMostra tamb\u00e9m que a tecnologia livre \u00e9 uma alternativa muito vi\u00e1vel para os dias de hoje.", 
+    "id": 159, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Tue, 03 Mar 2015 21:07:43 GMT", 
+      "id": 128, 
+      "last_updated": "Thu, 05 Mar 2015 09:05:23 GMT", 
+      "name": "Leonardo Rudio Affonso Christo", 
+      "organization": "PMES - Governo do Estado do ES", 
+      "resume": "Funcionario Publico, Adm de Rede e Infra, PMES, Adm Expresso"
+    }, 
+    "title": "Expresso - V3 \" Sim n\u00f3s Podemos\" - Um caso de sucesso na PMES"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 05 Mar 2015 09:44:39 GMT", 
+    "full": "S\u00e3o ineg\u00e1veis as transforma\u00e7\u00f5es que as tecnologias contempor\u00e2neas imp\u00f5em aos mais diversos setores da sociedade, transformando a vida das pessoas e o desenvolvimento de empresas. Entretanto, a educa\u00e7\u00e3o parece responder de forma t\u00edmida \u00e0s possibilidades abertas pela presen\u00e7a das tecnologias no cotidiano das pessoas.\nAs institui\u00e7\u00f5es educacionais ignoram que o papel de transmissoras de informa\u00e7\u00f5es, historicamente assumida pela Escola, \u00e9 posta em cheque quando n\u00e3o \u00e9 mais necess\u00e1ria para esta tarefa. As informa\u00e7\u00f5es j\u00e1 est\u00e3o dispon\u00edveis fora dela, em diferentes meios de comunica\u00e7\u00e3o. O est\u00e1gio atual em que se encontram as tecnologias de inform\u00e1tica permite que aplica\u00e7\u00f5es multim\u00eddia fiquem cada vez mais acess\u00edveis \u00e0s pessoas, mesmo  elas n\u00e3o sendo profundas conhecedoras da tecnologia. A atual gera\u00e7\u00e3o de alunos, especialmente as crian\u00e7as e adolescentes, esperam muito mais das aulas do que simplesmente ouvir o professor o tempo todo. Diante desse cen\u00e1rio, s\u00e3o apresentadas ferramentas para a cria\u00e7\u00e3o e \u00e1udio (Audacity) e v\u00eddeo (OpenShot) para serem utilizadas na escola. A cria\u00e7\u00e3o de \u00e1udio e/ou v\u00eddeo auxilia no est\u00edmulo a criatividade do aluno, oportunizando tamb\u00e9m a condi\u00e7\u00e3o de autoria. Com elas \u00e9 poss\u00edvel gravar e editar essas m\u00eddias. Tamb\u00e9m possibilita juntar diferentes partes, introduzir efeitos, sendo alguns de terceiros, dispon\u00edveis em reposit\u00f3rios na internet. Como exemplo, no caso de \u00e1udio, \u00e9 poss\u00edvel envolver os alunos na escola a criarem diferentes materiais de \u00e1udio, tais como: r\u00e1dio escola, r\u00e1dio jornalismo, hist\u00f3ria conjunta, r\u00e1dio poste, conta\u00e7\u00e3o de hist\u00f3rias, \u00e1udio descri\u00e7\u00e3o, paisagens sonoras, hist\u00f3rias reais, narra\u00e7\u00e3o de poesias, grava\u00e7\u00e3o de aulas, grava\u00e7\u00e3o de m\u00fasicas ou audiobook. Da mesma forma, no caso do v\u00eddeo, os alunos podem tornar-se os realizadores de filmes, criar e defender os seus pr\u00f3prios argumentos, dramatizar um texto, criar hist\u00f3rias, tendo ao dispor v\u00e1rios cen\u00e1rios que podem ser utilizados a partir de diferentes perspectivas.", 
+    "id": 160, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 05 Mar 2015 08:25:30 GMT", 
+      "id": 147, 
+      "last_updated": "Thu, 05 Mar 2015 09:47:53 GMT", 
+      "name": "Marco Ant\u00f4nio Sandini Trentin", 
+      "organization": "Universidade de Passo Fundo", 
+      "resume": "Professor e pesquisador da Universidade de Passo Fundo, desenvolve pesquisas na \u00e1rea de inform\u00e1tica educativa, mais especificamente com rob\u00f3tica educativa livre e programa\u00e7\u00e3o para crian\u00e7as."
+    }, 
+    "title": "Cria\u00e7\u00e3o e utiliza\u00e7\u00e3o de \u00e1udio e v\u00eddeo na escola", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 118, 
+      "name_en": "Education - Digital Inclusion", 
+      "name_pt": "Educa\u00e7\u00e3o - Inclus\u00e3o Digital", 
+      "public": true
+    }
+  }
+}

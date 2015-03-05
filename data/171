@@ -1,0 +1,28 @@
+{
+  "resource": {
+    "$type": "Proposal.normal", 
+    "created": "Thu, 05 Mar 2015 16:38:52 GMT", 
+    "full": "Apresenta\u00e7\u00e3o do site-jogo, inspirado na Matriz Africana Contos de If\u00e1, se desenvolve a partir de uma narrativa l\u00fadica com quatro fases, que apresentam, cada uma, a hist\u00f3ria de um orix\u00e1 (Exu, Ogun, Ox\u00f3ssi e Omolu). A iniciativa \u00e9 do Terreiro Il\u00ea Ax\u00e9 de Oxum Kar\u00ea, do Centro Cultural Coco de Umbigada de Olinda e da 3Ecologias, empresa que desenvolveu a plataforma. O jogo estar\u00e1 dispon\u00edvel atrav\u00e9s do site http://contosdeifa.com/ e \u00e9 totalmente gratuito.", 
+    "id": 171, 
+    "language": "pt", 
+    "level": "beginner", 
+    "owner": {
+      "$type": "Account.safe", 
+      "country": "Brazil", 
+      "created": "Thu, 05 Mar 2015 16:35:44 GMT", 
+      "id": 153, 
+      "last_updated": "Thu, 05 Mar 2015 16:40:15 GMT", 
+      "name": "Paulo Barbosa", 
+      "organization": "3 ecologias", 
+      "resume": "P\u00f3s Graduando em EAD. Professor de Africanidades e Coordenador Pedag\u00f3gica no projeto NUFAC ( N\u00facleo de Forma\u00e7\u00e3o Agentes de Cultura Negra ) em Olinda PE ( Funda\u00e7\u00e3o Palmares). Desenvolvo e coordeno o projeto LabCEUs do Ministerio da Cultura em Parceria com UFPE."
+    }, 
+    "title": "Contos de IFA", 
+    "track": {
+      "$type": "Track.normal", 
+      "id": 114, 
+      "name_en": "Desktop - Games", 
+      "name_pt": "Desktop - Jogos", 
+      "public": true
+    }
+  }
+}
